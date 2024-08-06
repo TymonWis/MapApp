@@ -1,0 +1,27 @@
+:root{
+    --btn-bg: #778899 ;
+    --btn-bg2: #8a817c ; 
+    --btn-focused:  #d6e3f8;
+    --bg-main: #c0fdff;
+    --container-color: #81c3d7;
+    --btn-border: #a7bed3 ; 
+    --btn-border2: #e5e5e5 ;
+    --btn-focused-text: #000; 
+    --bg_city_item: #6fffe9;
+    --badge-bg: ;
+    --badge-color: ;
+
+}
+html, body {
+    font-size: 20px;
+    background-color: var(--bg-main) ;
+    font-family: 'Rubik', sans-serif; 
+    
+}
+.container {
+    max-width: 1625px;
+    margin: auto;
+    background: var(--container-color);
+    border: 8px solid var(--container-color);
+    border-radius: 8px;
+}
