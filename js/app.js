@@ -1,8 +1,11 @@
+/* import map from './map.js' */
 startBtn = document.getElementById('start-end')
 list = document.getElementById('spots-container')
+mapContainer = document.getElementById('map-container')
 let mapObjectList = ''
 
 console.log("prev: ", mapObjectList)
+/* mapContainer.innerHTML = map.getMap() */
 
 startBtn.addEventListener('click', (e) => {
     console.log("e:", e)
@@ -29,7 +32,7 @@ startBtn.addEventListener('click', (e) => {
             startBtn.remove()
         }
     });
-
+    list.style.minHeight = '207px' 
 })
 
 function drag(ev) {

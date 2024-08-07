@@ -49,6 +49,7 @@ html, body {
     border: 3px solid var(--map-outline);
     border-radius: 4px;
     padding: 5px;
+    max-height: 22px;
 }
 .spots-container{
 /* list-style: none; 
@@ -56,6 +57,7 @@ html, body {
 /*  margin-bottom: -10px;  */
  background-color: #fefae0;
  border-radius: 10px;
+/*  min-height: 207px; */
 }
 
 .drag-number{
