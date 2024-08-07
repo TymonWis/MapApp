@@ -25,3 +25,29 @@ html, body {
     border: 8px solid var(--container-color);
     border-radius: 8px;
 }
+
+.head-text {
+    font-size: 4rem;
+    font-weight: 400;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.flex-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex-col {
+    display: flex;
+    flex-direction: column;
+}
+.list-item {
+    margin: 5px 20px 10px 20px;
+}
+.spots-container{
+/* list-style: none; 
+ padding: 0;  */
+ margin-bottom: -10px; 
+}
+
