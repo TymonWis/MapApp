@@ -19,13 +19,14 @@ startBtn.addEventListener('click', (e) => {
 /* console.log("B:", data); */
         for(let i =0; i<= 14; i++){
 /* console.log('OBJ: ', mapObjectList[Math.floor(Math.random() * (mapObjectList.length-1))], " ", i) */
-            const li = document.createElement('li')
+            const li = document.createElement('div')
             li.classList.add('list-item')
-            const markup = `<span>${mapObjectList[Math.floor(Math.random() * (mapObjectList.length-1))]}</span>`
+            const markup = `<span class="drag-number">${i+1}</span><span>${mapObjectList[Math.floor(Math.random() * (mapObjectList.length-1))]}</span>`
             console.log("markup: ", markup)
             li.innerHTML = markup
             console.log('li:', li)
             list.appendChild(li)
+            startBtn.remove()
         }
     });
 

@@ -10,7 +10,8 @@
     --bg_city_item: #6fffe9;
     --badge-bg: ;
     --badge-color: ;
-
+    --map-bg: #faedcd;
+    --map-outline: #d4a373;
 }
 html, body {
     font-size: 20px;
@@ -43,11 +44,25 @@ html, body {
     flex-direction: column;
 }
 .list-item {
-    margin: 5px 20px 10px 20px;
+    margin: 15px;
+    background-color: var(--map-bg);
+    border: 3px solid var(--map-outline);
+    border-radius: 4px;
+    padding: 5px;
 }
 .spots-container{
 /* list-style: none; 
  padding: 0;  */
- margin-bottom: -10px; 
+/*  margin-bottom: -10px;  */
+ background-color: #fefae0;
+ border-radius: 10px;
+}
+
+.drag-number{
+    color: #ff5360; 
+    background-color: #6a040f; 
+    border-radius: 5px;
+    margin: 0px 7px 0px 2px;
+    padding: 3px 5px 3px 5px;
 }
 
