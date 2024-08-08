@@ -26,7 +26,7 @@ const getMapSpots = {
                 }
             });
             document.getElementById('spots-container').style.minHeight = '207px' 
-            document.getElementById('start-end').remove()
+            document.getElementById('start-screen').remove()
         }
     
 }

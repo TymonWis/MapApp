@@ -4,7 +4,7 @@
     --btn-focused:  #d6e3f8;
     --bg-main: #e9edc9;
     --container-color: #ccd5ae;
-    --btn-border: #a7bed3 ; 
+    --btn-border: #57a9f6 ; 
     --btn-border2: #e5e5e5 ;
     --btn-focused-text: #000; 
     --bg_city_item: #6fffe9;
@@ -66,5 +66,47 @@ html, body {
     border-radius: 5px;
     margin: 0px 7px 0px 2px;
     padding: 3px 5px 3px 5px;
+    cursor: grab;
 }
 
+.startScreen {
+    position: fixed;
+    top:0px;
+    left:0px;
+    z-index: 1;
+    background: rgba(0,0,0,.4);
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.startScreenContent {
+    background: var(--map-outline);
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 20px;
+    /* border: 10px solid var(--textColor); */
+    max-width: 400px;
+}
+.startScrHeader { 
+    display: flex;
+    padding: 10px 20px;
+}
+.startTitle {
+    font-size: 2rem;
+    font-weight: 600;
+}
+.timeSelect {
+    font-size: 2rem;
+    float: right;
+}
+.start-end-btn {
+    font-size: 2rem;
+    font-weight: 300;
+    background: var(--btn-border);
+    font-family: 'Raleway', sans-serif;
+    padding: 5px;cursor: pointer; 
+    max-width: 130px; 
+    text-align: center; 
+    margin: auto
+}
