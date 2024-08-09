@@ -99,8 +99,7 @@ html, body {
 .timeSelect {
     font-size: 2rem;
     float: right;
-    width:50%; 
-    text-align:right; 
+    width:40%; 
     margin-right:3px;
     margin-bottom: 20px;
 }
@@ -112,7 +111,7 @@ html, body {
     padding: 5px;cursor: pointer; 
     max-width: 130px; 
     text-align: center; 
-    margin: 10px auto
+    /* margin: 10px auto */
 }
 .mainTimer {
     background-color: white;
