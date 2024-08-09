@@ -1,4 +1,5 @@
 import DragAndDrop from "./dragAndDrop.js";
+import startScreen from "./startAppScreen.js"
 const getMapSpots = {
     showMapSpots(){
             fetch("./src/map-spots.txt")
@@ -27,6 +28,15 @@ const getMapSpots = {
             });
             document.getElementById('spots-container').style.minHeight = '207px' 
             document.getElementById('start-screen').remove()
+            let time2 = document.getElementById('timer').value
+            console.log('ss time', time2)
+            var interval = setInterval(() => {
+                startScreen.displayTime(time2);
+                time2 -= 1;
+              if (time2 < 0) {
+                  clearInterval(interval);
+              }
+            }, 1000);
         }
     
 }

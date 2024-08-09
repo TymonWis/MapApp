@@ -99,6 +99,10 @@ html, body {
 .timeSelect {
     font-size: 2rem;
     float: right;
+    width:50%; 
+    text-align:right; 
+    margin-right:3px;
+    margin-bottom: 20px;
 }
 .start-end-btn {
     font-size: 2rem;
@@ -108,5 +112,14 @@ html, body {
     padding: 5px;cursor: pointer; 
     max-width: 130px; 
     text-align: center; 
-    margin: auto
+    margin: 10px auto
+}
+.mainTimer {
+    background-color: white;
+    margin: 10px 3px 3px auto; 
+    font-size:4rem; 
+    text-align: center;
+    border: 5px black solid;
+    border-radius: 10px;
+    padding: 3px;
 }

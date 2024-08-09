@@ -5,6 +5,7 @@ import startScreen from './startAppScreen.js'
 
 startScreen.showModal()
 document.getElementById('start-end').addEventListener('click', getMapSpots.showMapSpots)
+document.getElementById('minutes').addEventListener('change', (startScreen.changeTime))
 document.getElementById('map-container').addEventListener('dragover', (e) => {
     DragAndDrop.allowDrop(e)
 })
