@@ -29,6 +29,10 @@ const getMapSpots = {
             document.getElementById('spots-container').style.minHeight = '207px' 
             document.getElementById('start-screen').remove()
             let time2 = document.getElementById('timer').value
+            console.log('time2: ', time2)
+            if(time2 === undefined){
+                time2 = 240
+            }
             console.log('ss time', time2)
             var interval = setInterval(() => {
                 startScreen.displayTime(time2);
