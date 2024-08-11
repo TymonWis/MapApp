@@ -14,11 +14,12 @@ const DragAndDrop = {
     newDiv.addEventListener('dragstart', (e) => {
         DragAndDrop.drag(e)
     })
-    console.log("ev target: ", ev.target)
-    console.log("ev parent: ", ev.target.parentNode)
+/*     console.log("ev target: ", ev.target)
+    console.log("ev parent: ", ev.target.parentNode) */
     newDiv.style.position = "absolute";
     newDiv.style.left = ev.pageX+'px';
     newDiv.style.top = ev.pageY+'px';
+    console.log("target", document.getElementById(ev.dataTransfer.getData("text")))
     document.getElementById('map-container').appendChild(newDiv);
     
 },

@@ -39,6 +39,10 @@ const getMapSpots = {
                 time2 -= 1;
               if (time2 < 0) {
                   clearInterval(interval);
+                  for(let i=0; i <=14; i++){
+                    console.log(i, "x: ", document.getElementById(`DN${i}`).getBoundingClientRect().x)
+                    console.log(i, "y: ", document.getElementById(`DN${i}`).getBoundingClientRect().y)
+                  }
               }
             }, 1000);
         }

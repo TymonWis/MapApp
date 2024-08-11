@@ -93,7 +93,8 @@ const guide = {
            y="18.33469" />
         <g
            id="g23582"
-           transform="matrix(0.36202891,0,0,0.36202891,25.37713,10.439644)">
+           transform="matrix(0.36202891,0,0,0.36202891,25.37713,10.439644)"
+           cursor="grab">
           <rect
              style="fill:#6a040f;fill-opacity:1;stroke:#000000;stroke-width:0.237322;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
              id="rect17611"
@@ -141,7 +142,8 @@ const guide = {
            y="18.33469" />
         <g
            id="g23582-53"
-           transform="matrix(0.36202891,0,0,0.36202891,25.37713,10.439644)">
+           transform="matrix(0.36202891,0,0,0.36202891,25.37713,10.439644)"
+           cursor="grab">
           <rect
              style="fill:#6a040f;fill-opacity:1;stroke:#000000;stroke-width:0.237322;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
              id="rect17611-5"
@@ -189,7 +191,8 @@ const guide = {
            y="18.33469" />
         <g
            id="g23582-53-3"
-           transform="matrix(0.36202891,0,0,0.36202891,25.37713,10.439644)">
+           transform="matrix(0.36202891,0,0,0.36202891,25.37713,10.439644)"
+           cursor="grab">
           <rect
              style="fill:#6a040f;fill-opacity:1;stroke:#000000;stroke-width:0.237322;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
              id="rect17611-5-5"
