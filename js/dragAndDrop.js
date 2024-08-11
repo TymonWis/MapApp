@@ -17,8 +17,8 @@ const DragAndDrop = {
 /*     console.log("ev target: ", ev.target)
     console.log("ev parent: ", ev.target.parentNode) */
     newDiv.style.position = "absolute";
-    newDiv.style.left = ev.pageX+'px';
-    newDiv.style.top = ev.pageY+'px';
+    newDiv.style.left = ev.pageX-document.getElementById('map-container').getBoundingClientRect().x+'px';
+    newDiv.style.top = ev.pageY-document.getElementById('map-container').getBoundingClientRect().y+'px';
     console.log("target", document.getElementById(ev.dataTransfer.getData("text")))
     document.getElementById('map-container').appendChild(newDiv);
     
