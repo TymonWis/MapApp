@@ -28,10 +28,11 @@ const getMapSpots = {
             });
             document.getElementById('spots-container').style.minHeight = '207px' 
             document.getElementById('start-screen').remove()
+            document.getElementById('map-container').addEventListener('dragover', DragAndDrop.allowDrop)
             let time2 = document.getElementById('timer').value
             console.log('time2: ', time2)
             if(time2 === undefined){
-                time2 = 240
+                time2 = 10
             }
             console.log('ss time', time2)
             var interval = setInterval(() => {
@@ -48,6 +49,7 @@ const getMapSpots = {
                     console.log(i, "y: ", document.getElementById(`DN${i}`).style.top)
                     }
                   }
+                  document.getElementById('map-container').removeEventListener('dragover', DragAndDrop.allowDrop)
               }
             }, 1000);
         }
