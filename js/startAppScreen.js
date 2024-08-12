@@ -5,7 +5,7 @@ function screenModel(){
         <div id="startScreenContent" class="startScreenContent">
             <span class="startTitle">SYMULATOR MAPKI</span>
             <div style="margin: 0 auto;">${guide.getGuide()}</div>
-            <input type="number" id="minutes" class="timeSelect"placeholder="czas[m]" max="59"> 
+            <input type="number" id="minutes" class="timeSelect" placeholder="czas[m]"> 
             <div id="start-end" class="start-end-btn">START</div>
         </div>       
     </div>`
@@ -13,6 +13,7 @@ function screenModel(){
 function showModal() {
     let place = document.getElementById('startAppScreenPlace')
     place.innerHTML = screenModel()
+    document.getElementById('minutes').addEventListener('change', minMaxtime)
 }
 function changeTime(e){
     var time = e.target.value*60
@@ -22,16 +23,12 @@ function changeTime(e){
     document.getElementById('timer').value = time
 }
 function displayTime(time){
-    document.getElementById('timer').innerHTML = Math.floor(time/60) + ' : ' + time%60
+    document.getElementById('timer').innerHTML = ("0"+ Math.floor(time/60)).slice(-2) + ':' + ("0"+time%60).slice(-2)
 }
-/*     timer(){
-    var timer = setInterval(function(){
-        document.getElementById('timer').innerHTML='00:'+sec;
-        sec--;
-        if (sec < 0) {
-            clearInterval(timer);
-        }
-    }, 1000);
-} */
+function minMaxtime(){
+  let v = parseInt(this.value); 
+  if (v < 1) this.value = 1;
+  if (v > 60) this.value = 60;
+}
 
-export default {screenModel, changeTime, showModal, displayTime}
+export default {changeTime, showModal, displayTime}
