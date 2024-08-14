@@ -3,9 +3,9 @@ const map = {
     <!-- Created with Inkscape (http://www.inkscape.org/) -->
     
     <svg     
-    width="3000"
-   height="1500"
-   viewBox="400 0 5000 3000"
+    width="1600"
+   height="750"
+   viewBox="1500 0 1 1500"
        id="svg11494"
        sodipodi:version="0.32"
        inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
