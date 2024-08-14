@@ -1,0 +1,499 @@
+Morze Białe 
+Nowa Ziemia 
+Cieśnina Karskie Wrota 
+Ural 
+Peczora 
+Dwina 
+Półwysep Kolski 
+Morze Barentsa 
+Svalbad 
+Islandia 
+Cieśnina Duńska 
+Morze Norweskie 
+Morze Północne 
+Szetlandy 
+Wyspy Owcze 
+Hebrydy 
+Orkady 
+Wielka Brytania 
+Irlandia 
+Morze Celtyckie 
+Góry Kaledońskie 
+Tamiza 
+Cieśnina Kaletańska 
+Półwysep Jutlandzki 
+Kanał Kiloński 
+Morze Bałtyckie 
+Góry Skandynawskie 
+Półwysep Skandynawski 
+Pojezierze Fińskie 
+Jezioro Ładoga 
+Jezioro Onega 
+Zatoka Fińska 
+Zatoka Ryska 
+Niemen 
+Gotlandia 
+Olandia 
+Alandy 
+Zatoka Botnicka 
+Bornholm 
+Skagerrak 
+Kattegat 
+Więcej 
+Cieśniny Wielki i Mały Bełt 
+Cieśnina Sund 
+Wołga 
+Dniepr 
+Nizina Nadkaspijska 
+Kaukaz 
+Krym 
+Morze Czarne 
+Morze Azowskie 
+Wyżyna Wołyńska 
+Karpaty 
+Sudety 
+Góry Harz 
+Rugia 
+Łaba 
+Dunaj 
+Inn 
+Cisa 
+Wyżyna Siedmiogrodzka 
+Nizina Wołoska 
+Wielka i Mała Nizina 
+Węgierska 
+Balaton 
+Alpy 
+Szumawa 
+Półwysep Bretoński 
+Sekwana 
+Nizina Francuzka 
+Ardeny 
+Wogezy 
+Loara 
+Garonna 
+Rodan 
+Masyw Centralny 
+Góra Mount Blanc 
+Pireneje 
+Tag 
+Ebro 
+Przylądek Roca 
+Duero 
+Góry Kantabryjskie 
+Góry Betyckie 
+Cieśnina Gibraltarska 
+Baleary 
+Majorka 
+Minorka 
+Ibiza 
+Korsyka 
+Jezioro Genewskie 
+Jezioro Bodeńskie 
+Nizina Padańska 
+Pad 
+Jezioro Garda 
+Apeniny 
+Sycylia 
+Sardynia 
+Etna 
+Wezuwjusz 
+Cieśnina Messyńska 
+Morze Liguryjskie 
+Morze Tyrreńskie 
+Morze Jońskie 
+Morze Adriatyckie 
+Malta 
+Cieśnina Sycylijska 
+Wyspy Jońskie 
+Peloponez 
+Góry Dynarskie 
+Kreta 
+Morze Egejskie 
+Cieśnina Bosfor 
+Cieśnina Dardanele 
+Cyklady 
+Sporady 
+Rodos 
+Olimp 
+Zatoka Biskajska 
+Rodopy 
+Morze Marmara 
+Azory 
+Jezioro Wener 
+Jezioro Wetter 
+Newa 
+Dźwina 
+Zelandia 
+Oka 
+Cieśnina Kerczeńska 
+Góry Grampian 
+Góry Schwarzwald 
+Góry Jura 
+Garonna 
+Wyspy Normandzkie 
+Istria 
+Elba 
+Wyspy Liparyjskie 
+Lesbos 
+Góry Pindos 
+Kanał Koryncki 
+Nizina Zachodniosyberyjska 
+Nizina Turańska 
+Ob 
+Irtysz 
+Półwysep Jamat 
+Półwysep Tajmyr 
+Morze Karskie 
+Ziemia Północna 
+Morze Łaptiewów 
+Pogórze Kazachskie 
+Jezioro Bałchasz 
+Jenisej 
+Angara 
+Lena 
+Bajkał 
+Morze Wschodniosyberyjskie 
+Półwysep Czukotka 
+Półwysep Kamczatka 
+Cieśnina Beringa 
+Morze Beringa 
+Morze Ochockie 
+Góry Wierchojańskie 
+Góry Czerskiego 
+Góry Jabłonowe 
+Góry Stanowe 
+Wyżyna Środkowosyberyjska 
+Sajany 
+Ałtaj 
+Wyżyna Mongolska 
+Pustynia Gobi 
+Amur 
+Sachalin 
+Cieśnina Tatarska 
+Pustynia Ałaszan 
+Kuryle 
+Rów Kurylski 
+Morze Japońskie 
+Hokkaido 
+Honsiu 
+Góry Sichote Alin 
+Wyspa Sikoku 
+Wyspa Kiusiu 
+Rów Japoński 
+Półwysep Koreański 
+Kotlina Dżungarska 
+Kotlina Kaszgarska 
+Góry Tien-Szan 
+Wyżyna Ordos 
+Wyżyna Lessowa 
+Nizina Chińska 
+Morze Żółte 
+Morze Południowochińskie 
+Morze Wschodniochińskie 
+Góry Kun-Lun 
+Tybet 
+Himalaje 
+Huang-he 
+Jangcy 
+Góry Południowochińskie 
+Tajwan 
+Hajnan 
+Morze Filipińskie 
+Mekkong 
+Morze Sulu 
+Morze Celebes 
+Wyspa Celebes 
+Borneo 
+Morze Banda 
+Morze Arafura 
+Morze Timor 
+Wyspa Timor 
+Bali 
+Jawa 
+Morze Jawajskie 
+Sumatra 
+Cieśnina Malakka 
+Półwysep Malajski 
+Półwysep Indochiński 
+Brahmaputa 
+Ganges 
+Ghaty Wschodnie i Zachodnie 
+Dekan 
+Półwysep Indyjski 
+Morze Andamańskie 
+Andamany 
+Nizina Gangesu 
+Nizina Indusu 
+Wyżyna Irańska 
+Cejlon 
+Malediwy 
+Karakorum 
+Hindukusz 
+Pamir 
+Amu-Daria 
+Syr-Daria 
+Jezioro Aralskie 
+Pustynia Kara-Kum 
+Pustynia Kyzył-Kum 
+Zagros 
+Elburs 
+Zatoka Perska 
+Zatoka Omańska 
+Cieśnina Ormus 
+Półwysep Arabski 
+Cieśnina Bab al-Mandeb 
+Morze Czerwone 
+Morze Arabskie 
+Zatoka Bengalska 
+Jezioro Kaspijskie 
+Pustynia Rub al-Chali 
+Pustynia Wielki Nefud 
+Pustynia Maty Nefud 
+Jezioro Martwe 
+Jordan 
+Pustynia Syryjska 
+Cypr 
+Tygrys 
+Eufrat 
+Nizina Mezopotamii 
+Półwysep Azja Mniejsza 
+Góry Pontyjskie 
+Góry Taurus 
+Wyżyna Anatolijska 
+Morze Czarne 
+Wyżyna Armeńska 
+Ziemia Północna 
+Ziemia Franciszka Józefa 
+Góry Koriackie 
+Wyspa Wrangla 
+Góry Sichote-Alin 
+Jezioro Sewan 
+Kotlina Syczuańska 
+Irawadi 
+Luzon 
+Morze Banda 
+Morze Moluckie 
+Sokotra 
+Synaj 
+Pustynia Arabska 
+Pustynia Libijska 
+Jezioro Nassera 
+Wielki Erg Wschodni 
+Wielki Erg Zachodni 
+Zatoka Wielka Syrta 
+Góry Atlas 
+Sahara 
+Niger 
+Nil Błękitny 
+Darfur 
+Kotlina Czadu 
+Jezioro Czad 
+Wyspy Kanaryjskie 
+Teneryfa 
+Przylądek Zielony 
+Wyspy Zielonego Przylądka 
+Rzeka Senegal 
+Kongo 
+Kotlina Konga 
+Wyspa Świętego Tomasza 
+Wyspa Świętej Heleny 
+Zatoka Gwinejska 
+Wyżyna Abisyńska 
+Półwysep Somalijski 
+Wielki Rów Wschodni 
+Wielki Rów Zachodni 
+Jezioro Rudolfa 
+Jezioro Alberta 
+Jezioro Tanganika 
+Jezioro Wiktorii 
+Jezioro Kiwu 
+Kilimandżaro 
+Jezioro Malawi (Niassa) 
+Zambezi 
+Seszele 
+Komory 
+Madagaskar 
+Mauritius 
+Reunion 
+Kanał Mozambicki 
+Kotlina Kalahari 
+Pustynia Namib 
+Góry Przylądkowe 
+Góry Smocze 
+Przylądek Igielny 
+Przylądek Dobrej Nadziei
+Oranje 
+Limpopo 
+Masyw Ahaggar 
+Masyw Tibesti 
+Góry Rif 
+Przylądek Biały 
+Wyżyna Bije 
+Okawango 
+Wodospady Wiktorii 
+Jezioro Kiwu 
+Cieśnina Drake'a 
+Wyspa Króla Jerzego 
+Półwysep Antarktyczny 
+Rów Sandwich Południowy 
+Georgia Południowa 
+Szetlandy Południowe 
+Morze Weddella 
+Morze Amundsena 
+Morze Bellinghausena 
+Morze Rossa 
+Mount Vinson 
+Nowa Gwinea 
+Wielkie Góry Śnieżne 
+Cieśnina Torresa 
+Morze Koralowe 
+Wielka Rafa Koralowa 
+Półwysep Jork 
+Zatoka Carpentaria 
+Ziemia Arnhema 
+Wielkie Góry Wododziałowe 
+Góra Kościuszki 
+Wielki Basen Artezyjski 
+Rzeka Murray 
+Wielka Pustynia Piaszczysta 
+Pustynia Wiktorii 
+Pustynia Gibsona 
+Wielka Zatoka Australijska 
+Cieśnina Bassa 
+Tasmania 
+Mariany 
+Rów Mariański 
+Guam 
+Midway 
+Hawaje 
+Wyspa Północna 
+Wyspa Południowa 
+Alpy Południowe 
+Cieśnina Cooka 
+Nowa Kaledonia 
+Wyspy Salomona 
+Tonga 
+Rów Tonga 
+Fidżi 
+Nowa Brytania 
+Nowe Hebrydy 
+Wyspy Samoa 
+Wyspy Tuwalu 
+Rów Kermadec 
+Archipelag Bismarcka 
+Ziemia Arnhema 
+Pustynia Gibsona 
+Pustynia Simpsona 
+Nowe Hybrydy 
+Wyspy Cooka 
+Wyspy Kermadec 
+Rów Tonga 
+Wyspy Tonga 
+Przylądek Horn 
+Cieśnina Magellana 
+Falklandy 
+Wyżyna Patagonii 
+Andy 
+Aconkagua 
+Nizina La Platy 
+Parana 
+Paragwaj 
+Rów Peruwiański 
+Rów Atakamski 
+Kordyliera Wschodnia 
+Kordyliera Zachodnia 
+Kordyliera Środkowa 
+Atakama 
+Wyżyna Boliwijska (Atiplano) 
+Jezioro Titicaca 
+Galapagos 
+Amazonka 
+Ucayali 
+Jezioro Maracaibo 
+Nizina Orinoko 
+Trynidad i Tobago 
+Mate Antyle 
+Morze Karaibskie 
+Wyżyna Gujańska 
+Wodospad Salto Angel 
+Nizina Gujańska 
+Wyżyna Brazylijska 
+Mato Grosso 
+Kanał Panamski 
+Jezioro Nikaragua 
+Półwysep Jukatan 
+Zatoka Meksykańska 
+Kuba 
+Jamajka 
+Haiti 
+Bahamy 
+Puerto Rico 
+Wielkie Antyle 
+Floryda 
+Martynika 
+Gwadelupa 
+Dominika 
+S. Lucia 
+Barbados 
+S. Martin 
+Rów Puerto Rico 
+Kordyliera Wulkaniczna 
+Wyżyna Meksykańska 
+Sierra Madre Wschodnia 
+Sierra Madre Zachodnia 
+Półwysep Kalifornijski 
+Appalachy 
+Nizina Atlantycka 
+Nizina Zatokowa 
+Missisipi 
+Missouri 
+Rzeka Kolorado 
+Wielka Kotlina 
+Wielkie Jezioro Słone 
+Pustynia Mojave 
+Kotlina Śmierci 
+Kordyliera Nadbrzeżna 
+Góry Skaliste 
+Wielkie Równiny Prerii 
+Nowa Szkocja 
+Rzeka Świętego Wawrzyńca 
+Niagara 
+Jezioro Ontario 
+Jezioro Erie 
+Jezioro Górne 
+Jezioro Michigan 
+Jezioro Huron 
+Nizina Hudsona 
+Zatoka Hudsona 
+Ziemia Baffina 
+Cieśnina Davisa 
+Grenlandia 
+Nowa Funlandia 
+Morze Labradorskie 
+Półwysep Labrador 
+Morze Baffina 
+Wyspa Wiktorii 
+Wyspa Królowej Elżbiety 
+Jezioro Niewolnicze 
+Jezioro Niedźwiedzie 
+Jezioro Winnipeg 
+Rzeka Mackenzie 
+Alaska 
+Rzeka Jukon 
+Aleuty 
+Rów Aleucki 
+Morze Beauforta 
+Góry Brooksa 
+Denali (M Kinley) 
+Góry Sierra Nevada 
+Góry Kaskadowe 
+Rzeka Tennessee 
+Wyspa Wiktorii 
+Jezioro Winnipeg 
+Sao Francisco 
+ukajali 
+Zatoka Fundy 
+Nowa Szkocja 
+Altiplano (Wyżyna Boliwijska) 
+Wodospady Iguazu 

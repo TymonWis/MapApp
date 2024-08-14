@@ -2,7 +2,7 @@ import DragAndDrop from "./dragAndDrop.js";
 import startScreen from "./startAppScreen.js"
 const getMapSpots = {
     showMapSpots(){
-            fetch("./src/map-spots.txt")
+            fetch("./src/KL1FIZ.txt")
             .then(function (res) {
                 /* console.log("AAA:", res.text()) */
                 return res.text();
