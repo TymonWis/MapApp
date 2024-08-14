@@ -85,7 +85,7 @@ html, body {
 .startScreenContent {
     background: var(--map-outline);
     margin: 5% auto;
-    padding: 20px;
+    padding: 20px 20px 5px 20px;
     border-radius: 20px;
     /* border: 10px solid var(--textColor); */
     max-width: 400px;
@@ -101,9 +101,8 @@ html, body {
 .timeSelect {
     font-size: 2rem;
     float: right;
-    width:40%; 
+    width:155px; 
     margin-right:3px;
-    margin-bottom: 20px;
 }
 .start-end-btn {
     font-size: 2rem;
@@ -113,7 +112,7 @@ html, body {
     padding: 5px;cursor: pointer; 
     max-width: 130px; 
     text-align: center; 
-    /* margin: 10px auto */
+    margin: 10px auto
 }
 .mainTimer {
     background-color: white;

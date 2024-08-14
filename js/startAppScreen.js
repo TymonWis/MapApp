@@ -5,7 +5,7 @@ function screenModel(){
         <div id="startScreenContent" class="startScreenContent">
             <span class="startTitle">SYMULATOR MAPKI</span>
             <div style="margin: 0 auto;">${guide.getGuide()}</div>
-            <input type="number" id="minutes" class="timeSelect" placeholder="czas[m]"> 
+            
             <div id="start-end" class="start-end-btn">START</div>
         </div>       
     </div>`
