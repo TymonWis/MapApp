@@ -28,6 +28,7 @@ const getMapSpots = {
             });
             document.getElementById('spots-container').style.minHeight = '207px' 
             document.getElementById('start-screen').remove()
+            document.getElementById('minutes').remove()
             document.getElementById('map-container').addEventListener('dragover', DragAndDrop.allowDrop)
             
             let time2 = document.getElementById('timer').value
