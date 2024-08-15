@@ -10,7 +10,8 @@ function showMapSpots(){
 
         .then(function (data) {
             let mapObjectList = data.split(" \r\n")
-
+            document.getElementById('spots-container').innerHTML = ''
+            
             for(let i =0; i<= 14; i++){
                 const li = document.createElement('div')
                 li.classList.add('list-item')

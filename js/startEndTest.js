@@ -4,12 +4,13 @@ import timer from './timer.js'
 function startApp(){
         showMapSpots.showMapSpots()
         document.getElementById('spots-container').style.minHeight = '207px' 
-        document.getElementById('start-screen').remove()
-        document.getElementById('minutes').remove()
+        if(document.getElementById('start-screen')){document.getElementById('start-screen').remove()}
+        if(document.getElementById('minutes')){document.getElementById('minutes').remove()}
         document.getElementById('map-container').addEventListener('drop', (e)=> {
             DragAndDrop.drop(e)
         })
         document.getElementById('map-container').addEventListener('dragover', DragAndDrop.allowDrop)
+        changeButton()
         timer.startTimer(endApp)
 }
 
@@ -17,6 +18,21 @@ function startApp(){
 function endApp(){
     document.getElementById('map-container').removeEventListener('dragover', DragAndDrop.allowDrop)
     console.log('time: ', timer.time)
+    changeButton()
+}
+function changeButton(){
+    var button = document.getElementById('start-end')
+    if(button.innerHTML === 'start'){
+        button.a = undefined
+        button.innerHTML = 'koniec'
+        button.removeEventListener('click', startApp)
+        console.log('zmiana na koniec')
+    }
+    else {
+        button.innerHTML = 'start'
+        button.addEventListener('click', startApp)
+        console.log('zmiana na poczatek')
+    }
 }
 
-export default{startApp}
+export default{startApp, changeButton}
