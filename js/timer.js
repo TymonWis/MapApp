@@ -19,15 +19,12 @@ function startTimer(endFunction){
     /* var time2 = document.getElementById('timer').value */
     
 
-    this.time = document.getElementById('timer').value
-    if(this.time === undefined || this.time <= 0){
-        this.time = 10
-    }
+    this.time=getTimeFromTimer(this.time)
     var interval = setInterval(() => {
-        displayTime(this.time);
         this.time -= 1;
+        displayTime(this.time);
         console.log(this.time)
-        if (this.time < 0) {
+        if (this.time <= 0) {
             clearInterval(interval);
 
             for(let i=0; i <=14; i++){
@@ -35,13 +32,25 @@ function startTimer(endFunction){
                 console.log(i, "0 pkt")
             }
             else{
+            
             console.log(i, "x: ", document.getElementById(`DN${i}`).style.left)
             console.log(i, "y: ", document.getElementById(`DN${i}`).style.top)
             }
             }
+            displayTime(getTimeFromTimer(this.time))
             endFunction()
+
         }
+        
     }, 1000);
+}
+function getTimeFromTimer(time){
+    time = document.getElementById('timer').value
+    if(time === undefined || time <= 0){
+        time = 10
+    }
+    console.log('time: ', time)
+    return time
 }
 function createTimeInput(){
     document.getElementById('mid-container').innerHTML += `<input type="number" id="minutes" class="timeSelect" placeholder="czas[m]">`

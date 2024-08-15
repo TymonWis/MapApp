@@ -20,6 +20,7 @@ function endApp(){
     document.getElementById('map-container').removeEventListener('dragover', DragAndDrop.allowDrop)
     console.log('time: ', timer.time)
     changeButton()
+    timer.createTimeInput()
 }
 function changeButton(){
     var button = document.getElementById('start-end')
