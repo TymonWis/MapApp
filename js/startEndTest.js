@@ -26,7 +26,7 @@ function changeButton(){
     var button = document.getElementById('start-end')
     if(button.innerHTML === 'START'){
         button.innerHTML = 'KONIEC'
-        button.style.background = 'red'
+        /* button.style.background = 'red' */
         
         button.removeEventListener('click', startApp)
         button.addEventListener('click', ()=>{
