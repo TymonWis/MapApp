@@ -104,16 +104,6 @@ html, body {
     width:155px; 
     margin-right:3px;
 }
-.start-end-btn {
-    font-size: 2rem;
-    font-weight: 300;
-    background: var(--btn-border);
-    font-family: 'Raleway', sans-serif;
-    padding: 5px;cursor: pointer; 
-    max-width: 130px; 
-    text-align: center; 
-    margin: 10px auto
-}
 .mainTimer {
     background-color: white;
     margin: 10px 3px 3px auto; 
@@ -129,5 +119,47 @@ html, body {
     background-color: #fefae0; 
     margin: 10px; 
     border-radius: 20px;
-    position: absolute;
+    position: relative;
 }
+.bottom-bar {
+    display: flex;
+}
+
+/* .bottom-bar-btn {
+    font-size: 2rem;
+    font-weight: 300;
+    font-family: 'Raleway', sans-serif;
+    background: var(--btn-border); 
+    border-radius: 5px;    
+    cursor: pointer; 
+
+    padding: 5px;
+
+    flex: 1;
+    display: flex;
+    justify-content: center;
+
+} */
+.box {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+  .box:first-child > div { margin-right: auto; }
+  
+  .box:last-child  > div { margin-left: auto; }
+
+.inner{
+    font-size: 2rem;
+    font-weight: 300;
+    font-family: 'Raleway', sans-serif;
+    background: var(--btn-border); 
+    border-radius: 5px;    
+    cursor: pointer; 
+
+    padding: 5px;
+}
+p {
+    text-align: center;
+    margin: 5px 0 0 0;
+  }

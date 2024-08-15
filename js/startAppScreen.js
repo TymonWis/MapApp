@@ -5,8 +5,6 @@ function screenModel(){
         <div id="startScreenContent" class="startScreenContent">
             <span class="startTitle">SYMULATOR MAPKI</span>
             <div style="margin: 0 auto;">${guide.getGuide()}</div>
-            
-            <div id="start-end" class="start-end-btn">START</div>
         </div>       
     </div>`
 }
