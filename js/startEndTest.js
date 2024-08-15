@@ -10,8 +10,13 @@ function startApp(){
             DragAndDrop.drop(e)
         })
         document.getElementById('map-container').addEventListener('dragover', DragAndDrop.allowDrop)
-        timer.startTimer()
-        /* document.getElementById('map-container').removeEventListener('dragover', DragAndDrop.allowDrop) */
+        timer.startTimer(endApp)
+}
+
+
+function endApp(){
+    document.getElementById('map-container').removeEventListener('dragover', DragAndDrop.allowDrop)
+    console.log('time: ', timer.time)
 }
 
 export default{startApp}
