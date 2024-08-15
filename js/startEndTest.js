@@ -23,13 +23,19 @@ function endApp(){
 function changeButton(){
     var button = document.getElementById('start-end')
     if(button.innerHTML === 'start'){
-        button.a = undefined
         button.innerHTML = 'koniec'
+        button.style.background = 'red'
+        
         button.removeEventListener('click', startApp)
+        button.addEventListener('click', ()=>{
+            timer.time = 0
+        })
+
         console.log('zmiana na koniec')
     }
     else {
         button.innerHTML = 'start'
+        button.style.background = 'var(--btn-border)'
         button.addEventListener('click', startApp)
         console.log('zmiana na poczatek')
     }

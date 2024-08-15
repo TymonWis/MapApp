@@ -10,7 +10,9 @@ function showMapSpots(){
 
         .then(function (data) {
             let mapObjectList = data.split(" \r\n")
+
             document.getElementById('spots-container').innerHTML = ''
+            document.querySelectorAll('.drag-number').forEach(e => e.remove());
             
             for(let i =0; i<= 14; i++){
                 const li = document.createElement('div')
