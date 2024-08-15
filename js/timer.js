@@ -2,7 +2,6 @@ var time = 10
 function changeTime(e){
     time = e.target.value*60
     console.log('e target', e.target)
-    if(time > 3599){time = 3599}
     console.log("new time: ", time)
     displayTime(time)
     document.getElementById('timer').value = time
@@ -44,4 +43,9 @@ function startTimer(endFunction){
         }
     }, 1000);
 }
-export default{changeTime, displayTime, minMaxtime, startTimer, time}
+function createTimeInput(){
+    document.getElementById('mid-container').innerHTML += `<input type="number" id="minutes" class="timeSelect" placeholder="czas[m]">`
+    document.getElementById('minutes').addEventListener('change', minMaxtime)
+    document.getElementById('minutes').addEventListener('change', (changeTime))
+}
+export default{changeTime, displayTime, minMaxtime, startTimer, time, createTimeInput}

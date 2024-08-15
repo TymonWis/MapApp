@@ -1,5 +1,4 @@
 import guide from "./guide.js"
-import timer from "./timer.js"
 function screenModel(){
     return `
     <div id="start-screen" class="startScreen">
@@ -10,9 +9,7 @@ function screenModel(){
     </div>`
 }
 function showModal() {
-    let place = document.getElementById('startAppScreenPlace')
-    place.innerHTML = screenModel()
-    document.getElementById('minutes').addEventListener('change', timer.minMaxtime)
+    document.getElementById('startAppScreenPlace').innerHTML = screenModel()
 }
 
 

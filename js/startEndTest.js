@@ -1,6 +1,7 @@
 import showMapSpots from './getMapSpots.js'
 import DragAndDrop from './dragAndDrop.js'
 import timer from './timer.js'
+import guide from './guide.js'
 function startApp(){
         showMapSpots.showMapSpots()
         document.getElementById('spots-container').style.minHeight = '207px' 
