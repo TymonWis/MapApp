@@ -1,9 +1,9 @@
 import map from './map.js'
 import getMapSpots from "./getMapSpots.js"
-import DragAndDrop from './dragAndDrop.js'
 import startScreen from './startAppScreen.js'
-
+import timer from './timer.js'
+import startApp from './startEndTest.js'
 document.getElementById('map-container').innerHTML += map.getMap()
 startScreen.showModal()
-document.getElementById('start-end').addEventListener('click', getMapSpots.showMapSpots)
-document.getElementById('minutes').addEventListener('change', (startScreen.changeTime))
+document.getElementById('start-end').addEventListener('click', startApp.startApp)
+document.getElementById('minutes').addEventListener('change', (timer.changeTime))
