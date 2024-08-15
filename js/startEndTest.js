@@ -24,8 +24,8 @@ function endApp(){
 }
 function changeButton(){
     var button = document.getElementById('start-end')
-    if(button.innerHTML === 'start'){
-        button.innerHTML = 'koniec'
+    if(button.innerHTML === 'START'){
+        button.innerHTML = 'KONIEC'
         button.style.background = 'red'
         
         button.removeEventListener('click', startApp)
@@ -36,8 +36,8 @@ function changeButton(){
         console.log('zmiana na koniec')
     }
     else {
-        button.innerHTML = 'start'
-        button.style.background = 'var(--btn-border)'
+        button.innerHTML = 'START'
+        button.style.background = 'var(--btn-new)'
         button.addEventListener('click', startApp)
         console.log('zmiana na poczatek')
     }
