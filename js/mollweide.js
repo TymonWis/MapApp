@@ -27,8 +27,13 @@ function mollweide(lat, lon){
     lon_0 = lon_0 * Math.PI / 180
     var theta = solveNR(lat)
 
-    console.log('x: ', R * 2 * sqrt2 * (lon - lon_0) * Math.cos(theta) / Math.PI + 750, "y: ", -1*R * sqrt2 * Math.sin(theta)+375)
-    return (R * 2 * sqrt2 * (lon - lon_0) * Math.cos(theta) / Math.pi + 750,
-            -1*R * sqrt2 * Math.sin(theta)+375)
+    var geo_cords = {
+        x: R * 2 * sqrt2 * (lon - lon_0) * Math.cos(theta) / Math.PI + 750,
+        y: -1*R * sqrt2 * Math.sin(theta)+375
+    }
+    //console.log('x: ', R * 2 * sqrt2 * (lon - lon_0) * Math.cos(theta) / Math.PI + 750, "y: ", -1*R * sqrt2 * Math.sin(theta)+375)
+    /* return (R * 2 * sqrt2 * (lon - lon_0) * Math.cos(theta) / Math.pi + 750,
+            -1*R * sqrt2 * Math.sin(theta)+375) */
+    return geo_cords
 }
 export default {mollweide}

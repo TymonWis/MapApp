@@ -45,24 +45,29 @@ function changeButton(){
         console.log('zmiana na poczatek')
     }
 }
-function finalCheck(){
-    for(let i=0; i <=14; i++){
-        /* const check = document.createElement('div')
-        dispatchEvent.classList.add('check')
-        const markup = `<span id="check${i}" class="check-item">${i+1}</span>`
-        check.innerHTML = markup
-        document.getElementById('map-container').appendChild(check) */
-        
-        //newDiv.style.left = ev.pageX-document.getElementById('map-container').getBoundingClientRect().x+'px';
-        //newDiv.style.top = ev.pageY-document.getElementById('map-container').getBoundingClientRect().y+'px';
-        if(document.getElementById(`DN${i}`).style.left === ''){
-            console.log(i, "0 pkt")
-            //console.log('style top: ', showMapSpots.showMapObjectList()[showMapSpots.showMapObjectList().findIndex(x => x.DisplayName === document.getElementById(`DN${i}`))], showMapSpots.showMapObjectList()[showMapSpots.showMapObjectList().findIndex(x => x.DisplayName === document.getElementById(`DN${i}`))])
-        }
-        else{
-        console.log(i, "x: ", document.getElementById(`DN${i}`).style.left)
-        console.log(i, "y: ", document.getElementById(`DN${i}`).style.top)
-        }
+async function finalCheck(){
+    const data = await getMapSpots.getMapSpotsFromJson()
+    if(data){
+        console.log('data in finalcheck: ', data)
+        for(let i=0; i <=14; i++){
+            console.log('style right: ', mollweide.mollweide(data[data.findIndex(x => x.DisplayName === document.getElementById(`DT${i}`).innerHTML)].Latitude, data[data.findIndex(x => x.DisplayName === document.getElementById(`DT${i}`).innerHTML)].Longitude).x)
+            console.log('style top: ', mollweide.mollweide(data[data.findIndex(x => x.DisplayName === document.getElementById(`DT${i}`).innerHTML)].Latitude, data[data.findIndex(x => x.DisplayName === document.getElementById(`DT${i}`).innerHTML)].Longitude).y)
+            /* const check = document.createElement('div')
+            dispatchEvent.classList.add('check')
+            const markup = `<span id="check${i}" class="check-item">${i+1}</span>`
+            check.innerHTML = markup
+            document.getElementById('map-container').appendChild(check) */
+            
+            //newDiv.style.left = ev.pageX-document.getElementById('map-container').getBoundingClientRect().x+'px';
+            //newDiv.style.top = ev.pageY-document.getElementById('map-container').getBoundingClientRect().y+'px';
+            if(document.getElementById(`DN${i}`).style.left === ''){
+                console.log(i, "0 pkt")
+                }
+            else{
+                console.log(i, "x: ", document.getElementById(`DN${i}`).style.left)
+                console.log(i, "y: ", document.getElementById(`DN${i}`).style.top)
+                }
+            }
         }
 }
 export default{startApp, changeButton}

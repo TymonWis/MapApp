@@ -8,7 +8,7 @@ async function showMapSpots(){
         for(let i =0; i<= 14; i++){
             const li = document.createElement('div')
             li.classList.add('list-item')
-            const markup = `<span id="DN${i}"class="drag-number" draggable="true">${i+1   }</span><span>${data[Math.floor(Math.random() * (data.length-1))].DisplayName}</span>`
+            const markup = `<span id="DN${i}"class="drag-number" draggable="true">${i+1}</span><span id="DT${i}">${data[Math.floor(Math.random() * (data.length-1))].DisplayName}</span>`
             li.innerHTML = markup
             li.addEventListener('dragstart', (e) => {
                 DragAndDrop.drag(e)
