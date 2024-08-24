@@ -51,8 +51,8 @@ async function finalCheck(){
         console.log('data in finalcheck: ', data)
         for(let i=0; i <=14; i++){
             var cords = mollweide.mollweide(data[data.findIndex(x => x.DisplayName === document.getElementById(`DT${i}`).innerHTML)].Latitude, data[data.findIndex(x => x.DisplayName === document.getElementById(`DT${i}`).innerHTML)].Longitude)
-            console.log(i, 'style right: ', cords.x)
-            console.log(i, 'style top: ', cords.y)
+            //console.log(i+1, 'style right: ', cords.x)
+            //console.log(i, 'style top: ', cords.y)
             const check = document.createElement('div')
             check.classList.add('check')
             const markup = `<span id="check${i}" class="check-item">${i+1}</span>`
@@ -62,11 +62,23 @@ async function finalCheck(){
             document.getElementById('map-container').appendChild(check)
 
             if(document.getElementById(`DN${i}`).style.left === ''){
-                console.log(i, "0 pkt")
+                console.log(i+1, "0 pkt")
                 }
             else{
-                console.log(i, "x: ", document.getElementById(`DN${i}`).style.left)
-                console.log(i, "y: ", document.getElementById(`DN${i}`).style.top)
+                console.log(i+1, 'x diff: ', Math.abs((cords.x + 35) - (parseFloat((document.getElementById(`DN${i}`).style.left).replace('px', '')))))
+                console.log(i+1, 'y diff: ', Math.abs((cords.y + 20) - (parseFloat((document.getElementById(`DN${i}`).style.top).replace('px', '')) +15)))
+                console.log(i+1, 'r diff: ', Math.sqrt(Math.pow((cords.x + 35) - (parseFloat((document.getElementById(`DN${i}`).style.left).replace('px', ''))), 2) + Math.pow((cords.y + 20) - (parseFloat((document.getElementById(`DN${i}`).style.top).replace('px', '')) +15), 2)))
+                if(Math.sqrt(Math.pow((cords.x + 35) - (parseFloat((document.getElementById(`DN${i}`).style.left).replace('px', ''))), 2) + Math.pow((cords.y + 20) - (parseFloat((document.getElementById(`DN${i}`).style.top).replace('px', '')) +15), 2)) >= 50){
+                    //document.getElementById(`check${i}`).style.background = 'rgb(249 8 0 / 50%)'
+                    //document.getElementById(`check${i}`).parentNode.style.background = 'rgb(252 3 3 / 30%)'
+                    console.log(i, 'miss')
+                }
+                else{
+                    document.getElementById(`check${i}`).style.background = 'rgba(38, 254, 135, 0.3)'
+                    document.getElementById(`check${i}`).parentNode.style.background = 'rgba(18, 224, 11, 0.12)'
+                }
+                //console.log(i+1, "x: ", document.getElementById(`DN${i}`).style.left)
+                //console.log(i, "y: ", document.getElementById(`DN${i}`).style.top)
                 }
             }
         }
