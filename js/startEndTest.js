@@ -3,7 +3,7 @@ import DragAndDrop from './dragAndDrop.js'
 import timer from './timer.js'
 import guide from './guide.js'
 function startApp(){
-        showMapSpots.showMapSpots()
+        showMapSpots.mapSpotsFromJson()
         document.getElementById('spots-container').style.minHeight = '207px' 
         if(document.getElementById('start-screen')){document.getElementById('start-screen').remove()}
         if(document.getElementById('minutes')){document.getElementById('minutes').remove()}
