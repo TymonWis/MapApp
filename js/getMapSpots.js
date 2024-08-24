@@ -1,5 +1,4 @@
 import DragAndDrop from "./dragAndDrop.js";
-
 function showMapSpots(){
         fetch("./src/wykazy/KL1FIZ.txt")
 
@@ -28,14 +27,12 @@ function showMapSpots(){
             }
         });
     }
-function mapSpotsFromJson(){
+async function mapSpotsFromJson(){
     fetch("./src/wykazy/KL1FIZ.json")
     .then(response => response.json())
     .then(data => {
-        console.log('data', data)
-        console.log('my data ', data[1], data.find(x => x.DisplayName = data[1].DisplayName))
         let mapObjectList = data
-
+        console.log("data: ", mapObjectList)
         document.getElementById('spots-container').innerHTML = ''
         document.querySelectorAll('.drag-number').forEach(e => e.remove());            
         for(let i =0; i<= 14; i++){
@@ -46,7 +43,6 @@ function mapSpotsFromJson(){
                 li.addEventListener('dragstart', (e) => {
                     DragAndDrop.drag(e)
                 })
-                console.log('li:', li)
                 document.getElementById('spots-container').appendChild(li)
         } 
     })

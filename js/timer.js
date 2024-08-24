@@ -26,17 +26,6 @@ function startTimer(endFunction){
         console.log(this.time)
         if (this.time <= 0) {
             clearInterval(interval);
-
-            for(let i=0; i <=14; i++){
-            if(document.getElementById(`DN${i}`).style.left === ''){
-                console.log(i, "0 pkt")
-            }
-            else{
-            
-            console.log(i, "x: ", document.getElementById(`DN${i}`).style.left)
-            console.log(i, "y: ", document.getElementById(`DN${i}`).style.top)
-            }
-            }
             displayTime(getTimeFromTimer(this.time))
             endFunction()
 
