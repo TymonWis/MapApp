@@ -28,12 +28,12 @@ function mollweide(lat, lon){
     var theta = solveNR(lat)
 
     var geo_cords = {
-        x: R * 2 * sqrt2 * (lon - lon_0) * Math.cos(theta) / Math.PI + 750,
-        y: -1*R * sqrt2 * Math.sin(theta)+375
+        x: R * 2 * sqrt2 * (lon - lon_0) * Math.cos(theta) / Math.PI + 795,
+        y: -1*R * sqrt2 * Math.sin(theta)+355
     }
     //console.log('x: ', R * 2 * sqrt2 * (lon - lon_0) * Math.cos(theta) / Math.PI + 750, "y: ", -1*R * sqrt2 * Math.sin(theta)+375)
     /* return (R * 2 * sqrt2 * (lon - lon_0) * Math.cos(theta) / Math.pi + 750,
             -1*R * sqrt2 * Math.sin(theta)+375) */
-    return geo_cords
+           return geo_cords
 }
 export default {mollweide}

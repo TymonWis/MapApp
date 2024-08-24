@@ -50,16 +50,17 @@ async function finalCheck(){
     if(data){
         console.log('data in finalcheck: ', data)
         for(let i=0; i <=14; i++){
-            console.log('style right: ', mollweide.mollweide(data[data.findIndex(x => x.DisplayName === document.getElementById(`DT${i}`).innerHTML)].Latitude, data[data.findIndex(x => x.DisplayName === document.getElementById(`DT${i}`).innerHTML)].Longitude).x)
-            console.log('style top: ', mollweide.mollweide(data[data.findIndex(x => x.DisplayName === document.getElementById(`DT${i}`).innerHTML)].Latitude, data[data.findIndex(x => x.DisplayName === document.getElementById(`DT${i}`).innerHTML)].Longitude).y)
-            /* const check = document.createElement('div')
-            dispatchEvent.classList.add('check')
+            var cords = mollweide.mollweide(data[data.findIndex(x => x.DisplayName === document.getElementById(`DT${i}`).innerHTML)].Latitude, data[data.findIndex(x => x.DisplayName === document.getElementById(`DT${i}`).innerHTML)].Longitude)
+            console.log(i, 'style right: ', cords.x)
+            console.log(i, 'style top: ', cords.y)
+            const check = document.createElement('div')
+            check.classList.add('check')
             const markup = `<span id="check${i}" class="check-item">${i+1}</span>`
             check.innerHTML = markup
-            document.getElementById('map-container').appendChild(check) */
-            
-            //newDiv.style.left = ev.pageX-document.getElementById('map-container').getBoundingClientRect().x+'px';
-            //newDiv.style.top = ev.pageY-document.getElementById('map-container').getBoundingClientRect().y+'px';
+            check.style.left = cords.x + 'px'
+            check.style.top = cords.y + 'px'
+            document.getElementById('map-container').appendChild(check)
+
             if(document.getElementById(`DN${i}`).style.left === ''){
                 console.log(i, "0 pkt")
                 }
