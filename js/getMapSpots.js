@@ -2,6 +2,7 @@ import DragAndDrop from "./dragAndDrop.js";
 async function showMapSpots(){
     document.getElementById('spots-container').innerHTML = ''
     document.querySelectorAll('.drag-number').forEach(e => e.remove());
+    document.querySelectorAll('.check').forEach(e => e.remove());
     const data = await getMapSpotsFromJson()
     if(data){
         console.log('data in sms: ', data)
