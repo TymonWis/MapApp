@@ -5,7 +5,7 @@ import guide from './guide.js'
 import mollweide from './mollweide.js'
 import getMapSpots from './getMapSpots.js'
 function startApp(){
-        showMapSpots.mapSpotsFromJson()
+        showMapSpots.showMapSpots()
         document.getElementById('spots-container').style.minHeight = '207px' 
         if(document.getElementById('start-screen')){document.getElementById('start-screen').remove()}
         if(document.getElementById('minutes')){document.getElementById('minutes').remove()}
