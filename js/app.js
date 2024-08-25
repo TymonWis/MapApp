@@ -10,3 +10,6 @@ startScreen.showModal()
 startApp.changeButton()
 timer.createTimeInput()
 document.getElementById('mode-selector').addEventListener('click', modeSelectPopUp.showPopUp)
+document.getElementById('github').addEventListener('click', ()=>{
+    window.open('https://github.com/TymonWis/MapApp')
+})
