@@ -189,13 +189,14 @@ html, body {
 }
 .score-place {
     background: var(--spots-bg);
-    margin-top: 10px;
+    margin: 10px auto;
     text-align: center;
     border-radius: 10px;
+    width: fit-content;
 }
 .score{
     margin: 5px;
-    font-size: 2rem;
+    font-size: 3rem;
     font-weight: 600;
     margin: auto;
 }

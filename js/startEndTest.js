@@ -17,7 +17,9 @@ function startApp(){
         document.getElementById('mode-selector').removeEventListener('click', modeSelectPopUp.showPopUp)
         if(document.getElementById('start-screen')){document.getElementById('start-screen').remove()}
         timer.removeTimeInput()
-        if(document.getElementById('score')){document.getElementById('score').remove()}
+        if(document.getElementById('score')){document.getElementById('score').remove()
+            document.getElementById('score-place').style.padding = ''
+        }
         document.getElementById('map-container').addEventListener('drop', (e)=> {
             DragAndDrop.drop(e)
         })
@@ -101,7 +103,8 @@ async function finalCheck(){
                 }
             }
             console.log('score: ', score)
-            document.getElementById('score-place').innerHTML = `<span class="score" id="score">WYNIK ${score}</span>`
+            document.getElementById('score-place').innerHTML = `<span class="score" id="score">${score} / 15</span>`
+            document.getElementById('score-place').style.padding = '20px'
         }
 }
 export default{startApp, changeButton}
