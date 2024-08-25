@@ -1,0 +1,2450 @@
+[
+    {
+    "DisplayName": "Nassau", 
+    "WikiName": "The_Bahamas", 
+    "Latitude": "25.00", 
+    "Longitude": "-77.40" 
+     },
+    {
+    "DisplayName": "Barbados", 
+    "WikiName": "Barbados", 
+    "Latitude": "13.17", 
+    "Longitude": "-59.55" 
+     },
+    {
+    "DisplayName": "Belize", 
+    "WikiName": "Belize", 
+    "Latitude": "17.07", 
+    "Longitude": "-88.70" 
+     },
+    {
+    "DisplayName": "Santo Domingo", 
+    "WikiName": "Santo_Domingo", 
+    "Latitude": "18.47", 
+    "Longitude": "-69.95" 
+     },
+    {
+    "DisplayName": "Grenada", 
+    "WikiName": "Grenada", 
+    "Latitude": "12.12", 
+    "Longitude": "-61.67" 
+     },
+    {
+    "DisplayName": "Gwatemala", 
+    "WikiName": "Guatemala", 
+    "Latitude": "15.50", 
+    "Longitude": "-90.25" 
+     },
+    {
+    "DisplayName": "Port-au-Prince", 
+    "WikiName": "Port-au-Prince", 
+    "Latitude": "18.53", 
+    "Longitude": "-72.33" 
+     },
+    {
+    "DisplayName": "Honduras", 
+    "WikiName": "Honduras", 
+    "Latitude": "15.00", 
+    "Longitude": "-86.50" 
+     },
+    {
+    "DisplayName": "Kingston", 
+    "WikiName": "Jamaica", 
+    "Latitude": "18.18", 
+    "Longitude": "-77.40" 
+     },
+    {
+    "DisplayName": "Ottawa", 
+    "WikiName": "Ottawa", 
+    "Latitude": "45.42", 
+    "Longitude": "-75.70" 
+     },
+    {
+    "DisplayName": "San Jose", 
+    "WikiName": "Costa_Rica", 
+    "Latitude": "10.00", 
+    "Longitude": "-84.00" 
+     },
+    {
+    "DisplayName": "Hawana", 
+    "WikiName": "Havana", 
+    "Latitude": "23.14", 
+    "Longitude": "-82.36" 
+     },
+    {
+    "DisplayName": "Meksyk", 
+    "WikiName": "Mexico_City", 
+    "Latitude": "19.43", 
+    "Longitude": "-99.13" 
+     },
+    {
+    "DisplayName": "Nikaragua", 
+    "WikiName": "Nicaragua", 
+    "Latitude": "13.13", 
+    "Longitude": "-85.12" 
+     },
+    {
+    "DisplayName": "Panama", 
+    "WikiName": "Panama_City", 
+    "Latitude": "8.98", 
+    "Longitude": "-79.52" 
+     },
+    {
+    "DisplayName": "Salwador", 
+    "WikiName": "El_Salvador", 
+    "Latitude": "13.68", 
+    "Longitude": "-89.18" 
+     },
+    {
+    "DisplayName": "Waszyngton", 
+    "WikiName": "D.C.", 
+    "Latitude": "38.90", 
+    "Longitude": "-77.02" 
+     },
+    {
+    "DisplayName": "Trynidad i Tobago", 
+    "WikiName": "Trinidad_and_Tobago", 
+    "Latitude": "10.60", 
+    "Longitude": "-61.10" 
+     },
+    {
+    "DisplayName": "Buenos Aires", 
+    "WikiName": "Buenos_Aires", 
+    "Latitude": "-34.60", 
+    "Longitude": "-58.38" 
+     },
+    {
+    "DisplayName": "Quito", 
+    "WikiName": "Quito", 
+    "Latitude": "-0.22", 
+    "Longitude": "-78.51" 
+     },
+    {
+    "DisplayName": "Sucre", 
+    "WikiName": "Sucre", 
+    "Latitude": "-19.05", 
+    "Longitude": "-65.26" 
+     },
+    {
+    "DisplayName": "Gujana", 
+    "WikiName": "Guyana", 
+    "Latitude": "5.00", 
+    "Longitude": "-58.75" 
+     },
+    {
+    "DisplayName": "Brasilia", 
+    "WikiName": "Brasília", 
+    "Latitude": "-15.79", 
+    "Longitude": "-47.88" 
+     },
+    {
+    "DisplayName": "Bogota", 
+    "WikiName": "Bogotá", 
+    "Latitude": "4.71", 
+    "Longitude": "-74.07" 
+     },
+    {
+    "DisplayName": "Santiago", 
+    "WikiName": "Santiago", 
+    "Latitude": "-33.44", 
+    "Longitude": "-70.65" 
+     },
+    {
+    "DisplayName": "Asunción", 
+    "WikiName": "Asunción", 
+    "Latitude": "-25.30", 
+    "Longitude": "-57.63" 
+     },
+    {
+    "DisplayName": "Lima", 
+    "WikiName": "Lima", 
+    "Latitude": "-12.06", 
+    "Longitude": "-77.04" 
+     },
+    {
+    "DisplayName": "Surinam", 
+    "WikiName": "Suriname", 
+    "Latitude": "4.00", 
+    "Longitude": "-56.00" 
+     },
+    {
+    "DisplayName": "Montevideo", 
+    "WikiName": "Montevideo", 
+    "Latitude": "-34.91", 
+    "Longitude": "-56.18" 
+     },
+    {
+    "DisplayName": "Caracas", 
+    "WikiName": "Caracas", 
+    "Latitude": "10.48", 
+    "Longitude": "-66.90" 
+     },
+    {
+    "DisplayName": "Algier", 
+    "WikiName": "Algiers", 
+    "Latitude": "36.73", 
+    "Longitude": "3.09" 
+     },
+    {
+    "DisplayName": "Luanda", 
+    "WikiName": "Luanda", 
+    "Latitude": "-8.84", 
+    "Longitude": "13.23" 
+     },
+    {
+    "DisplayName": "Benin", 
+    "WikiName": "Benin", 
+    "Latitude": "6.47", 
+    "Longitude": "2.60" 
+     },
+    {
+    "DisplayName": "Botswana", 
+    "WikiName": "Botswana", 
+    "Latitude": "-24.07", 
+    "Longitude": "25.09" 
+     },
+    {
+    "DisplayName": "Burkina Faso", 
+    "WikiName": "Burkina_Faso", 
+    "Latitude": "12.33", 
+    "Longitude": "-1.83" 
+     },
+    {
+    "DisplayName": "Burundi", 
+    "WikiName": "Burundi", 
+    "Latitude": "-3.50", 
+    "Longitude": "30.00" 
+     },
+    {
+    "DisplayName": "Ndżamena", 
+    "WikiName": "N'Djamena", 
+    "Latitude": "12.11", 
+    "Longitude": "15.04" 
+     },
+    {
+    "DisplayName": "Demokratyczna Republika Konga", 
+    "WikiName": "Democratic_Republic_of_the_Congo", 
+    "Latitude": "-3.00", 
+    "Longitude": "24.00" 
+     },
+    {
+    "DisplayName": "Kinszasa", 
+    "WikiName": "Kinshasa", 
+    "Latitude": "-4.32", 
+    "Longitude": "15.31" 
+     },
+    {
+    "DisplayName": "Dżibuti", 
+    "WikiName": "Djibouti", 
+    "Latitude": "11.50", 
+    "Longitude": "43.00" 
+     },
+    {
+    "DisplayName": "Kair", 
+    "WikiName": "Cairo", 
+    "Latitude": "30.04", 
+    "Longitude": "31.24" 
+     },
+    {
+    "DisplayName": "Erytrea", 
+    "WikiName": "Eritrea", 
+    "Latitude": "15.00", 
+    "Longitude": "39.00" 
+     },
+    {
+    "DisplayName": "Addis Abeba", 
+    "WikiName": "Addis_Ababa", 
+    "Latitude": "9.03", 
+    "Longitude": "38.74" 
+     },
+    {
+    "DisplayName": "Gabon", 
+    "WikiName": "Gabon", 
+    "Latitude": "-1.00", 
+    "Longitude": "12.00" 
+     },
+    {
+    "DisplayName": "Gambia", 
+    "WikiName": "Gambia", 
+    "Latitude": "13.45", 
+    "Longitude": "-16.57" 
+     },
+    {
+    "DisplayName": "Ghana", 
+    "WikiName": "Ghana", 
+    "Latitude": "8.03", 
+    "Longitude": "-1.08" 
+     },
+    {
+    "DisplayName": "Gwinea", 
+    "WikiName": "Guinea", 
+    "Latitude": "11.00", 
+    "Longitude": "-10.00" 
+     },
+    {
+    "DisplayName": "Jaunde", 
+    "WikiName": "Yaoundé", 
+    "Latitude": "3.87", 
+    "Longitude": "11.52" 
+     },
+    {
+    "DisplayName": "Nairobi", 
+    "WikiName": "Nairobi", 
+    "Latitude": "-1.29", 
+    "Longitude": "36.82" 
+     },
+    {
+    "DisplayName": "Komory", 
+    "WikiName": "Comoros", 
+    "Latitude": "-12.30", 
+    "Longitude": "43.70" 
+     },
+    {
+    "DisplayName": "Kongo", 
+    "WikiName": "Republic_of_the_Congo", 
+    "Latitude": "-1.44", 
+    "Longitude": "15.56" 
+     },
+    {
+    "DisplayName": "Lesotho", 
+    "WikiName": "Lesotho", 
+    "Latitude": "-29.60", 
+    "Longitude": "28.30" 
+     },
+    {
+    "DisplayName": "Monrovia", 
+    "WikiName": "Monrovia", 
+    "Latitude": "6.31", 
+    "Longitude": "-10.80" 
+     },
+    {
+    "DisplayName": "Trypolis", 
+    "WikiName": "Libya", 
+    "Latitude": "27.00", 
+    "Longitude": "17.00" 
+     },
+    {
+    "DisplayName": "Madagaskar", 
+    "WikiName": "Madagascar", 
+    "Latitude": "-20.00", 
+    "Longitude": "47.00" 
+     },
+    {
+    "DisplayName": "Malawi", 
+    "WikiName": "Malawi", 
+    "Latitude": "-13.50", 
+    "Longitude": "34.00" 
+     },
+    {
+    "DisplayName": "Mali", 
+    "WikiName": "Mali", 
+    "Latitude": "17.00", 
+    "Longitude": "-4.00" 
+     },
+    {
+    "DisplayName": "Rabat", 
+    "WikiName": "Rabat", 
+    "Latitude": "34.02", 
+    "Longitude": "-6.84" 
+     },
+    {
+    "DisplayName": "Mauretania", 
+    "WikiName": "Mauritania", 
+    "Latitude": "20.00", 
+    "Longitude": "-12.00" 
+     },
+    {
+    "DisplayName": "Mauritius", 
+    "WikiName": "Mauritius", 
+    "Latitude": "-20.20", 
+    "Longitude": "57.50" 
+     },
+    {
+    "DisplayName": "Mozambik", 
+    "WikiName": "Mozambique", 
+    "Latitude": "-18.25", 
+    "Longitude": "35.00" 
+     },
+    {
+    "DisplayName": "Namibia", 
+    "WikiName": "Namibia", 
+    "Latitude": "-22.00", 
+    "Longitude": "17.00" 
+     },
+    {
+    "DisplayName": "Niger", 
+    "WikiName": "Niger", 
+    "Latitude": "16.00", 
+    "Longitude": "8.00" 
+     },
+    {
+    "DisplayName": "Abudża", 
+    "WikiName": "Abuja", 
+    "Latitude": "9.07", 
+    "Longitude": "7.48" 
+     },
+    {
+    "DisplayName": "Pretoria", 
+    "WikiName": "Pretoria", 
+    "Latitude": "-25.75", 
+    "Longitude": "28.19" 
+     },
+    {
+    "DisplayName": "Rep. Środkowoafrykańska", 
+    "WikiName": "Central_African_Republic", 
+    "Latitude": "7.00", 
+    "Longitude": "21.00" 
+     },
+    {
+    "DisplayName": "Republika Zielonego Przylądka", 
+    "WikiName": "Cape_Verde", 
+    "Latitude": "15.30", 
+    "Longitude": "-23.70" 
+     },
+    {
+    "DisplayName": "Rwanda", 
+    "WikiName": "Rwanda", 
+    "Latitude": "-2.00", 
+    "Longitude": "30.00" 
+     },
+    {
+    "DisplayName": "Dakar", 
+    "WikiName": "Dakar", 
+    "Latitude": "14.69", 
+    "Longitude": "-17.45" 
+     },
+    {
+    "DisplayName": "Seszele", 
+    "WikiName": "Seychelles", 
+    "Latitude": "-4.58", 
+    "Longitude": "55.67" 
+     },
+    {
+    "DisplayName": "Sierra Leone", 
+    "WikiName": "Sierra_Leone", 
+    "Latitude": "8.50", 
+    "Longitude": "-12.10" 
+     },
+    {
+    "DisplayName": "Somalia", 
+    "WikiName": "Somalia", 
+    "Latitude": "10.00", 
+    "Longitude": "49.00" 
+     },
+    {
+    "DisplayName": "Chartum", 
+    "WikiName": "Khartoum", 
+    "Latitude": "15.60", 
+    "Longitude": "32.50" 
+     },
+    {
+    "DisplayName": "Sudan Południowy", 
+    "WikiName": "South_Sudan", 
+    "Latitude": "8.00", 
+    "Longitude": "30.00" 
+     },
+    {
+    "DisplayName": "Dar Es Salaam", 
+    "WikiName": "Dar_es_Salaam", 
+    "Latitude": "-6.82", 
+    "Longitude": "39.28" 
+     },
+    {
+    "DisplayName": "Togo", 
+    "WikiName": "Togo", 
+    "Latitude": "8.00", 
+    "Longitude": "1.00" 
+     },
+    {
+    "DisplayName": "Tunis", 
+    "WikiName": "Tunis", 
+    "Latitude": "36.81", 
+    "Longitude": "10.18" 
+     },
+    {
+    "DisplayName": "Uganda", 
+    "WikiName": "Uganda", 
+    "Latitude": "1.00", 
+    "Longitude": "32.00" 
+     },
+    {
+    "DisplayName": "Wybrzeże Kości Słoniowej", 
+    "WikiName": "Ivory_Coast", 
+    "Latitude": "8.00", 
+    "Longitude": "-5.00" 
+     },
+    {
+    "DisplayName": "Wyspy Świętego Tomasza i Książęca", 
+    "WikiName": "São_Tomé_and_Príncipe", 
+    "Latitude": "0.32", 
+    "Longitude": "6.60" 
+     },
+    {
+    "DisplayName": "Lusaka", 
+    "WikiName": "Lusaka", 
+    "Latitude": "-15.42", 
+    "Longitude": "28.28" 
+     },
+    {
+    "DisplayName": "Zimbabwe", 
+    "WikiName": "Zimbabwe", 
+    "Latitude": "-19.00", 
+    "Longitude": "30.00" 
+     },
+    {
+    "DisplayName": "Kabul", 
+    "WikiName": "Kabul", 
+    "Latitude": "34.53", 
+    "Longitude": "69.18" 
+     },
+    {
+    "DisplayName": "Rijad", 
+    "WikiName": "Riyadh", 
+    "Latitude": "24.63", 
+    "Longitude": "46.72" 
+     },
+    {
+    "DisplayName": "Erewań", 
+    "WikiName": "Yerevan", 
+    "Latitude": "40.18", 
+    "Longitude": "44.51" 
+     },
+    {
+    "DisplayName": "Baku", 
+    "WikiName": "Baku", 
+    "Latitude": "40.40", 
+    "Longitude": "49.88" 
+     },
+    {
+    "DisplayName": "Bahrajn", 
+    "WikiName": "Bahrain", 
+    "Latitude": "26.07", 
+    "Longitude": "50.50" 
+     },
+    {
+    "DisplayName": "Dakka", 
+    "WikiName": "Dhaka", 
+    "Latitude": "23.80", 
+    "Longitude": "90.42" 
+     },
+    {
+    "DisplayName": "Bhutan", 
+    "WikiName": "Bhutan", 
+    "Latitude": "27.42", 
+    "Longitude": "90.44" 
+     },
+    {
+    "DisplayName": "Pekin", 
+    "WikiName": "Beijing", 
+    "Latitude": "39.91", 
+    "Longitude": "116.40" 
+     },
+    {
+    "DisplayName": "Nikozja", 
+    "WikiName": "Nicosia", 
+    "Latitude": "35.17", 
+    "Longitude": "33.37" 
+     },
+    {
+    "DisplayName": "Manila", 
+    "WikiName": "Manila", 
+    "Latitude": "14.60", 
+    "Longitude": "120.98" 
+     },
+    {
+    "DisplayName": "Tbilisi", 
+    "WikiName": "Tbilisi", 
+    "Latitude": "41.72", 
+    "Longitude": "44.79" 
+     },
+    {
+    "DisplayName": "Nowe Delhi", 
+    "WikiName": "New_Delhi", 
+    "Latitude": "28.61", 
+    "Longitude": "77.21" 
+     },
+    {
+    "DisplayName": "Dżakarta", 
+    "WikiName": "Jakarta", 
+    "Latitude": "-6.18", 
+    "Longitude": "106.83" 
+     },
+    {
+    "DisplayName": "Bagdad", 
+    "WikiName": "Baghdad", 
+    "Latitude": "33.32", 
+    "Longitude": "44.37" 
+     },
+    {
+    "DisplayName": "Teheran", 
+    "WikiName": "Tehran", 
+    "Latitude": "35.69", 
+    "Longitude": "51.39" 
+     },
+    {
+    "DisplayName": "Tel AWIW", 
+    "WikiName": "Tel_Aviv", 
+    "Latitude": "32.08", 
+    "Longitude": "34.78" 
+     },
+    {
+    "DisplayName": "Tokio", 
+    "WikiName": "Tokyo", 
+    "Latitude": "35.69", 
+    "Longitude": "139.69" 
+     },
+    {
+    "DisplayName": "Jemen", 
+    "WikiName": "Yemen", 
+    "Latitude": "15.35", 
+    "Longitude": "44.21" 
+     },
+    {
+    "DisplayName": "Amman", 
+    "WikiName": "Amman", 
+    "Latitude": "31.95", 
+    "Longitude": "35.93" 
+     },
+    {
+    "DisplayName": "Phnom Penh", 
+    "WikiName": "Phnom_Penh", 
+    "Latitude": "11.57", 
+    "Longitude": "104.92" 
+     },
+    {
+    "DisplayName": "Katar", 
+    "WikiName": "Qatar", 
+    "Latitude": "25.50", 
+    "Longitude": "51.25" 
+     },
+    {
+    "DisplayName": "Nur-Suttan", 
+    "WikiName": "Astana", 
+    "Latitude": "51.15", 
+    "Longitude": "71.42" 
+     },
+    {
+    "DisplayName": "Kirgistan", 
+    "WikiName": "Kyrgyzstan", 
+    "Latitude": "41.00", 
+    "Longitude": "75.00" 
+     },
+    {
+    "DisplayName": "Seul", 
+    "WikiName": "Seoul", 
+    "Latitude": "37.56", 
+    "Longitude": "126.99" 
+     },
+    {
+    "DisplayName": "Pjongjang", 
+    "WikiName": "Pyongyang", 
+    "Latitude": "39.02", 
+    "Longitude": "125.75" 
+     },
+    {
+    "DisplayName": "Kuwejt", 
+    "WikiName": "Kuwait", 
+    "Latitude": "29.50", 
+    "Longitude": "47.75" 
+     },
+    {
+    "DisplayName": "Laos", 
+    "WikiName": "Laos", 
+    "Latitude": "18.00", 
+    "Longitude": "105.00" 
+     },
+    {
+    "DisplayName": "Bejrut", 
+    "WikiName": "Beirut", 
+    "Latitude": "33.90", 
+    "Longitude": "35.51" 
+     },
+    {
+    "DisplayName": "Malediwy", 
+    "WikiName": "Maldives", 
+    "Latitude": "4.18", 
+    "Longitude": "73.52" 
+     },
+    {
+    "DisplayName": "Kuala Lumpur", 
+    "WikiName": "Kuala_Lumpur", 
+    "Latitude": "3.15", 
+    "Longitude": "101.70" 
+     },
+    {
+    "DisplayName": "Mjanma (Birma)", 
+    "WikiName": "Myanmar_(Burma)", 
+    "Latitude": "22.00", 
+    "Longitude": "96.00" 
+     },
+    {
+    "DisplayName": "Ułan Bator", 
+    "WikiName": "Ulaanbaatar", 
+    "Latitude": "47.92", 
+    "Longitude": "106.92" 
+     },
+    {
+    "DisplayName": "Katmandu", 
+    "WikiName": "Kathmandu", 
+    "Latitude": "27.72", 
+    "Longitude": "85.32" 
+     },
+    {
+    "DisplayName": "Oman", 
+    "WikiName": "Oman", 
+    "Latitude": "21.00", 
+    "Longitude": "57.00" 
+     },
+    {
+    "DisplayName": "Islamabad", 
+    "WikiName": "Islamabad", 
+    "Latitude": "33.69", 
+    "Longitude": "73.06" 
+     },
+    {
+    "DisplayName": "Moskwa", 
+    "WikiName": "Moscow", 
+    "Latitude": "55.76", 
+    "Longitude": "37.62" 
+     },
+    {
+    "DisplayName": "Singapur", 
+    "WikiName": "Singapore", 
+    "Latitude": "1.28", 
+    "Longitude": "103.83" 
+     },
+    {
+    "DisplayName": "Sri Lanka", 
+    "WikiName": "Sri_Lanka", 
+    "Latitude": "7.00", 
+    "Longitude": "81.00" 
+     },
+    {
+    "DisplayName": "Damaszek", 
+    "WikiName": "Damascus", 
+    "Latitude": "33.51", 
+    "Longitude": "36.29" 
+     },
+    {
+    "DisplayName": "Tadżykistan", 
+    "WikiName": "Tajikistan", 
+    "Latitude": "39.00", 
+    "Longitude": "71.00" 
+     },
+    {
+    "DisplayName": "Bangkok", 
+    "WikiName": "Bangkok", 
+    "Latitude": "13.75", 
+    "Longitude": "100.49" 
+     },
+    {
+    "DisplayName": "Timor Wschodni", 
+    "WikiName": "East_Timor", 
+    "Latitude": "-8.55", 
+    "Longitude": "125.57" 
+     },
+    {
+    "DisplayName": "Ankara", 
+    "WikiName": "Ankara", 
+    "Latitude": "39.93", 
+    "Longitude": "32.85" 
+     },
+    {
+    "DisplayName": "Turkmenistan", 
+    "WikiName": "Turkmenistan", 
+    "Latitude": "39.00", 
+    "Longitude": "60.00" 
+     },
+    {
+    "DisplayName": "Taszkent", 
+    "WikiName": "Tashkent", 
+    "Latitude": "41.31", 
+    "Longitude": "69.28" 
+     },
+    {
+    "DisplayName": "Hanoi", 
+    "WikiName": "Hanoi", 
+    "Latitude": "21.00", 
+    "Longitude": "105.85" 
+     },
+    {
+    "DisplayName": "Abu Zabi", 
+    "WikiName": "Abu_Dhabi", 
+    "Latitude": "24.47", 
+    "Longitude": "54.37" 
+     },
+    {
+    "DisplayName": "Canberra", 
+    "WikiName": "Canberra", 
+    "Latitude": "-35.28", 
+    "Longitude": "149.13" 
+     },
+    {
+    "DisplayName": "Suva", 
+    "WikiName": "Suva", 
+    "Latitude": "-18.14", 
+    "Longitude": "178.44" 
+     },
+    {
+    "DisplayName": "Kiribati", 
+    "WikiName": "Kiribati", 
+    "Latitude": "1.42", 
+    "Longitude": "173.00" 
+     },
+    {
+    "DisplayName": "Wellington", 
+    "WikiName": "Wellington", 
+    "Latitude": "-41.29", 
+    "Longitude": "174.78" 
+     },
+    {
+    "DisplayName": "Papua-Nowa Gwinea - Port Moresby", 
+    "WikiName": "Port_Moresby", 
+    "Latitude": "-9.48", 
+    "Longitude": "147.15" 
+     },
+    {
+    "DisplayName": "Samoa", 
+    "WikiName": "Samoa", 
+    "Latitude": "-13.74", 
+    "Longitude": "-172.22" 
+     },
+    {
+    "DisplayName": "Mikronezja", 
+    "WikiName": "Federated_States_of_Micronesia", 
+    "Latitude": "6.92", 
+    "Longitude": "158.25" 
+     },
+    {
+    "DisplayName": "Tonga", 
+    "WikiName": "Tonga", 
+    "Latitude": "-20.00", 
+    "Longitude": "-175.00" 
+     },
+    {
+    "DisplayName": "Wyspy Marshalla", 
+    "WikiName": "Marshall_Islands", 
+    "Latitude": "9.82", 
+    "Longitude": "169.28" 
+     },
+    {
+    "DisplayName": "Wyspy Alandzkie", 
+    "WikiName": "Åland_Islands", 
+    "Latitude": "60.25", 
+    "Longitude": "20.37" 
+     },
+    {
+    "DisplayName": "Wyspy Owcze", 
+    "WikiName": "Faroe_Islands", 
+    "Latitude": "62.00", 
+    "Longitude": "-6.78" 
+     },
+    {
+    "DisplayName": "Svalbard", 
+    "WikiName": "Svalbard", 
+    "Latitude": "78.22", 
+    "Longitude": "15.65" 
+     },
+    {
+    "DisplayName": "Wyspa Man", 
+    "WikiName": "Isle_of_Man", 
+    "Latitude": "54.23", 
+    "Longitude": "-4.53" 
+     },
+    {
+    "DisplayName": "Wyspy Normandzkie (Jersey", 
+    "WikiName": "Channel_Islands", 
+    "Latitude": "49.43", 
+    "Longitude": "-2.35" 
+     },
+    {
+    "DisplayName": "Gibraltar", 
+    "WikiName": "Gibraltar", 
+    "Latitude": "36.13", 
+    "Longitude": "-5.35" 
+     },
+    {
+    "DisplayName": "Gujana Francuska", 
+    "WikiName": "French_Guiana", 
+    "Latitude": "3.93", 
+    "Longitude": "53.13" 
+     },
+    {
+    "DisplayName": "Martynika", 
+    "WikiName": "Martinique", 
+    "Latitude": "14.65", 
+    "Longitude": "-61.02" 
+     },
+    {
+    "DisplayName": "Gwadelupa", 
+    "WikiName": "Guadeloupe", 
+    "Latitude": "16.25", 
+    "Longitude": "-61.50" 
+     },
+    {
+    "DisplayName": "Aruba", 
+    "WikiName": "Aruba", 
+    "Latitude": "12.50", 
+    "Longitude": "-69.97" 
+     },
+    {
+    "DisplayName": "Brytyjskie Wyspy Dziewicze", 
+    "WikiName": "British_Virgin_Islands", 
+    "Latitude": "18.45", 
+    "Longitude": "-64.54" 
+     },
+    {
+    "DisplayName": "Amerykańskie Wyspy Dziewicze", 
+    "WikiName": "United_States_Virgin_Islands", 
+    "Latitude": "18.33", 
+    "Longitude": "-64.90" 
+     },
+    {
+    "DisplayName": "Kajmany", 
+    "WikiName": "Cayman_Islands", 
+    "Latitude": "19.32", 
+    "Longitude": "-81.23" 
+     },
+    {
+    "DisplayName": "Puerto Rico", 
+    "WikiName": "Puerto_Rico", 
+    "Latitude": "18.20", 
+    "Longitude": "-66.50" 
+     },
+    {
+    "DisplayName": "Bermudy", 
+    "WikiName": "Bermuda", 
+    "Latitude": "32.32", 
+    "Longitude": "-64.73" 
+     },
+    {
+    "DisplayName": "Saint-Martin", 
+    "WikiName": "Collectivity_of_Saint_Martin", 
+    "Latitude": "18.08", 
+    "Longitude": "-63.06" 
+     },
+    {
+    "DisplayName": "Falklandy", 
+    "WikiName": "Falkland_Islands", 
+    "Latitude": "-51.73", 
+    "Longitude": "-59.22" 
+     },
+    {
+    "DisplayName": "Ceuta", 
+    "WikiName": "Ceuta", 
+    "Latitude": "35.89", 
+    "Longitude": "-5.32" 
+     },
+    {
+    "DisplayName": "Melilla", 
+    "WikiName": "Melilla", 
+    "Latitude": "35.30", 
+    "Longitude": "-2.95" 
+     },
+    {
+    "DisplayName": "Wyspa Wniebowstąpienia", 
+    "WikiName": "Ascension_Island", 
+    "Latitude": "-7.93", 
+    "Longitude": "-14.37" 
+     },
+    {
+    "DisplayName": "Wyspa Świętej Heleny", 
+    "WikiName": "Saint_Helena", 
+    "Latitude": "-15.97", 
+    "Longitude": "-5.70" 
+     },
+    {
+    "DisplayName": "Reunion", 
+    "WikiName": "Réunion", 
+    "Latitude": "-21.11", 
+    "Longitude": "55.53" 
+     },
+    {
+    "DisplayName": "Majotta", 
+    "WikiName": "Mayotte", 
+    "Latitude": "-12.84", 
+    "Longitude": "45.14" 
+     },
+    {
+    "DisplayName": "Mariany Północne", 
+    "WikiName": "Northern_Mariana_Islands", 
+    "Latitude": "16.70", 
+    "Longitude": "145.78" 
+     },
+    {
+    "DisplayName": "Guam", 
+    "WikiName": "Guam", 
+    "Latitude": "13.50", 
+    "Longitude": "144.80" 
+     },
+    {
+    "DisplayName": "Midway", 
+    "WikiName": "Midway_Atoll", 
+    "Latitude": "28.21", 
+    "Longitude": "-177.35" 
+     },
+    {
+    "DisplayName": "Nowa Kaledonia", 
+    "WikiName": "New_Caledonia", 
+    "Latitude": "-21.25", 
+    "Longitude": "165.30" 
+     },
+    {
+    "DisplayName": "Samoa Amerykańskie", 
+    "WikiName": "American_Samoa", 
+    "Latitude": "-14.30", 
+    "Longitude": "-170.70" 
+     },
+    {
+    "DisplayName": "Wyspy Cooka", 
+    "WikiName": "Cook_Islands", 
+    "Latitude": "-21.23", 
+    "Longitude": "-159.77" 
+     },
+    {
+    "DisplayName": "Polinezja Francuzka", 
+    "WikiName": "French_Polynesia", 
+    "Latitude": "-17.53", 
+    "Longitude": "-149.57" 
+     },
+    {
+    "DisplayName": "Georgia Południowa", 
+    "WikiName": "South_Georgia", 
+    "Latitude": "-54.40", 
+    "Longitude": "-36.70" 
+     },
+    {
+    "DisplayName": "Sandwich Południowy", 
+    "WikiName": "South_Sandwich_Islands", 
+    "Latitude": "-56.60", 
+    "Longitude": "-27.72" 
+     },
+    {
+    "DisplayName": "Edynburg", 
+    "WikiName": "Edinburgh", 
+    "Latitude": "55.95", 
+    "Longitude": "-3.19" 
+     },
+    {
+    "DisplayName": "Glasgow", 
+    "WikiName": "Glasgow", 
+    "Latitude": "55.86", 
+    "Longitude": "-4.25" 
+     },
+    {
+    "DisplayName": "Liverpool", 
+    "WikiName": "Liverpool", 
+    "Latitude": "53.41", 
+    "Longitude": "-2.98" 
+     },
+    {
+    "DisplayName": "Manchester", 
+    "WikiName": "Manchester", 
+    "Latitude": "53.48", 
+    "Longitude": "-2.25" 
+     },
+    {
+    "DisplayName": "Birmingham", 
+    "WikiName": "Birmingham", 
+    "Latitude": "52.48", 
+    "Longitude": "-1.90" 
+     },
+    {
+    "DisplayName": "Trondheim", 
+    "WikiName": "Trondheim", 
+    "Latitude": "63.43", 
+    "Longitude": "10.39" 
+     },
+    {
+    "DisplayName": "Tromsø", 
+    "WikiName": "Tromsø", 
+    "Latitude": "69.68", 
+    "Longitude": "18.94" 
+     },
+    {
+    "DisplayName": "Bergen", 
+    "WikiName": "Bergen", 
+    "Latitude": "60.39", 
+    "Longitude": "5.33" 
+     },
+    {
+    "DisplayName": "Stavanger", 
+    "WikiName": "Stavanger", 
+    "Latitude": "58.97", 
+    "Longitude": "5.73" 
+     },
+    {
+    "DisplayName": "Malmö", 
+    "WikiName": "Malmö", 
+    "Latitude": "55.61", 
+    "Longitude": "13.04" 
+     },
+    {
+    "DisplayName": "Göteborg", 
+    "WikiName": "Gothenburg", 
+    "Latitude": "57.71", 
+    "Longitude": "11.97" 
+     },
+    {
+    "DisplayName": "Karlskrona", 
+    "WikiName": "Karlskrona", 
+    "Latitude": "56.16", 
+    "Longitude": "15.59" 
+     },
+    {
+    "DisplayName": "Kiruna", 
+    "WikiName": "Kiruna", 
+    "Latitude": "67.85", 
+    "Longitude": "20.30" 
+     },
+    {
+    "DisplayName": "Turku", 
+    "WikiName": "Turku", 
+    "Latitude": "60.45", 
+    "Longitude": "22.27" 
+     },
+    {
+    "DisplayName": "Oulu", 
+    "WikiName": "Oulu", 
+    "Latitude": "65.01", 
+    "Longitude": "25.47" 
+     },
+    {
+    "DisplayName": "Lahti", 
+    "WikiName": "Lahti", 
+    "Latitude": "60.98", 
+    "Longitude": "25.65" 
+     },
+    {
+    "DisplayName": "Odense", 
+    "WikiName": "Odense", 
+    "Latitude": "55.40", 
+    "Longitude": "10.39" 
+     },
+    {
+    "DisplayName": "Nantes", 
+    "WikiName": "Nantes", 
+    "Latitude": "47.22", 
+    "Longitude": "-1.55" 
+     },
+    {
+    "DisplayName": "Szawle", 
+    "WikiName": "Šiauliai", 
+    "Latitude": "55.93", 
+    "Longitude": "23.32" 
+     },
+    {
+    "DisplayName": "Kowno", 
+    "WikiName": "Kaunas", 
+    "Latitude": "54.90", 
+    "Longitude": "23.89" 
+     },
+    {
+    "DisplayName": "Kłajpeda", 
+    "WikiName": "Klaipėda", 
+    "Latitude": "55.71", 
+    "Longitude": "21.13" 
+     },
+    {
+    "DisplayName": "Hamburg", 
+    "WikiName": "Hamburg", 
+    "Latitude": "53.55", 
+    "Longitude": "10.00" 
+     },
+    {
+    "DisplayName": "Brema", 
+    "WikiName": "Bremen", 
+    "Latitude": "53.08", 
+    "Longitude": "8.81" 
+     },
+    {
+    "DisplayName": "Kilonia", 
+    "WikiName": "Kiel", 
+    "Latitude": "54.32", 
+    "Longitude": "10.14" 
+     },
+    {
+    "DisplayName": "Lubeka", 
+    "WikiName": "Lübeck", 
+    "Latitude": "53.87", 
+    "Longitude": "10.69" 
+     },
+    {
+    "DisplayName": "Rostock", 
+    "WikiName": "Rostock", 
+    "Latitude": "54.08", 
+    "Longitude": "12.13" 
+     },
+    {
+    "DisplayName": "Poczdam", 
+    "WikiName": "Potsdam", 
+    "Latitude": "52.40", 
+    "Longitude": "13.07" 
+     },
+    {
+    "DisplayName": "Hanower", 
+    "WikiName": "Hanover", 
+    "Latitude": "52.37", 
+    "Longitude": "9.72" 
+     },
+    {
+    "DisplayName": "Kolonia", 
+    "WikiName": "Cologne", 
+    "Latitude": "50.94", 
+    "Longitude": "6.95" 
+     },
+    {
+    "DisplayName": "Düsseldorf", 
+    "WikiName": "Düsseldorf", 
+    "Latitude": "51.23", 
+    "Longitude": "6.78" 
+     },
+    {
+    "DisplayName": "Frankfurt nad Menem", 
+    "WikiName": "Frankfurt", 
+    "Latitude": "50.11", 
+    "Longitude": "8.68" 
+     },
+    {
+    "DisplayName": "Dortmund", 
+    "WikiName": "Dortmund", 
+    "Latitude": "51.51", 
+    "Longitude": "7.47" 
+     },
+    {
+    "DisplayName": "Essen", 
+    "WikiName": "Essen", 
+    "Latitude": "51.45", 
+    "Longitude": "7.01" 
+     },
+    {
+    "DisplayName": "Bonn", 
+    "WikiName": "Bonn", 
+    "Latitude": "50.73", 
+    "Longitude": "7.10" 
+     },
+    {
+    "DisplayName": "Monachium", 
+    "WikiName": "Munich", 
+    "Latitude": "48.14", 
+    "Longitude": "11.57" 
+     },
+    {
+    "DisplayName": "Norymberga", 
+    "WikiName": "Nuremberg", 
+    "Latitude": "49.45", 
+    "Longitude": "11.08" 
+     },
+    {
+    "DisplayName": "Lipsk", 
+    "WikiName": "Leipzig", 
+    "Latitude": "51.34", 
+    "Longitude": "12.38" 
+     },
+    {
+    "DisplayName": "Drezno", 
+    "WikiName": "Dresden", 
+    "Latitude": "51.05", 
+    "Longitude": "13.74" 
+     },
+    {
+    "DisplayName": "Haga", 
+    "WikiName": "The_Hague", 
+    "Latitude": "52.08", 
+    "Longitude": "4.31" 
+     },
+    {
+    "DisplayName": "Rotterdam", 
+    "WikiName": "Rotterdam", 
+    "Latitude": "51.92", 
+    "Longitude": "4.48" 
+     },
+    {
+    "DisplayName": "Arnhem", 
+    "WikiName": "Arnhem", 
+    "Latitude": "51.98", 
+    "Longitude": "5.92" 
+     },
+    {
+    "DisplayName": "Antwerpia", 
+    "WikiName": "Antwerp", 
+    "Latitude": "51.22", 
+    "Longitude": "4.40" 
+     },
+    {
+    "DisplayName": "Ostenda", 
+    "WikiName": "Ostend", 
+    "Latitude": "51.23", 
+    "Longitude": "2.92" 
+     },
+    {
+    "DisplayName": "Lille", 
+    "WikiName": "Lille", 
+    "Latitude": "50.63", 
+    "Longitude": "3.06" 
+     },
+    {
+    "DisplayName": "Strasburg", 
+    "WikiName": "Strasbourg", 
+    "Latitude": "48.58", 
+    "Longitude": "7.75" 
+     },
+    {
+    "DisplayName": "Lyon", 
+    "WikiName": "Lyon", 
+    "Latitude": "45.77", 
+    "Longitude": "4.83" 
+     },
+    {
+    "DisplayName": "Grenoble", 
+    "WikiName": "Grenoble", 
+    "Latitude": "45.17", 
+    "Longitude": "5.72" 
+     },
+    {
+    "DisplayName": "Marsylia", 
+    "WikiName": "Marseille", 
+    "Latitude": "43.30", 
+    "Longitude": "5.37" 
+     },
+    {
+    "DisplayName": "Nicea", 
+    "WikiName": "Nice", 
+    "Latitude": "43.70", 
+    "Longitude": "7.27" 
+     },
+    {
+    "DisplayName": "Rennes", 
+    "WikiName": "Rennes", 
+    "Latitude": "48.11", 
+    "Longitude": "-1.68" 
+     },
+    {
+    "DisplayName": "Bordeaux", 
+    "WikiName": "Bordeaux", 
+    "Latitude": "44.83", 
+    "Longitude": "-0.58" 
+     },
+    {
+    "DisplayName": "Tuluza", 
+    "WikiName": "Toulouse", 
+    "Latitude": "43.60", 
+    "Longitude": "1.44" 
+     },
+    {
+    "DisplayName": "Bilbao", 
+    "WikiName": "Bilbao", 
+    "Latitude": "43.26", 
+    "Longitude": "-2.92" 
+     },
+    {
+    "DisplayName": "San Sebastián", 
+    "WikiName": "San_Sebastián", 
+    "Latitude": "43.32", 
+    "Longitude": "-1.99" 
+     },
+    {
+    "DisplayName": "Barcelona", 
+    "WikiName": "Barcelona", 
+    "Latitude": "41.38", 
+    "Longitude": "2.18" 
+     },
+    {
+    "DisplayName": "Walencja", 
+    "WikiName": "Valencia", 
+    "Latitude": "39.47", 
+    "Longitude": "-0.38" 
+     },
+    {
+    "DisplayName": "Santiago de Compostela", 
+    "WikiName": "Santiago_de_Compostela", 
+    "Latitude": "42.88", 
+    "Longitude": "-8.54" 
+     },
+    {
+    "DisplayName": "Saragossa", 
+    "WikiName": "Zaragoza", 
+    "Latitude": "41.65", 
+    "Longitude": "-0.88" 
+     },
+    {
+    "DisplayName": "Malaga", 
+    "WikiName": "Málaga", 
+    "Latitude": "36.72", 
+    "Longitude": "-4.42" 
+     },
+    {
+    "DisplayName": "Sewilla", 
+    "WikiName": "Seville", 
+    "Latitude": "37.39", 
+    "Longitude": "-5.99" 
+     },
+    {
+    "DisplayName": "Porto", 
+    "WikiName": "Porto", 
+    "Latitude": "41.15", 
+    "Longitude": "-8.62" 
+     },
+    {
+    "DisplayName": "Zurych", 
+    "WikiName": "Zürich", 
+    "Latitude": "47.37", 
+    "Longitude": "8.54" 
+     },
+    {
+    "DisplayName": "Lozanna", 
+    "WikiName": "Lausanne", 
+    "Latitude": "46.05", 
+    "Longitude": "6.06" 
+     },
+    {
+    "DisplayName": "Genewa", 
+    "WikiName": "Geneva", 
+    "Latitude": "46.20", 
+    "Longitude": "6.15" 
+     },
+    {
+    "DisplayName": "Innsbruck", 
+    "WikiName": "Innsbruck", 
+    "Latitude": "47.27", 
+    "Longitude": "11.39" 
+     },
+    {
+    "DisplayName": "Salzburg", 
+    "WikiName": "Salzburg", 
+    "Latitude": "47.80", 
+    "Longitude": "13.04" 
+     },
+    {
+    "DisplayName": "Graz", 
+    "WikiName": "Graz", 
+    "Latitude": "47.07", 
+    "Longitude": "15.44" 
+     },
+    {
+    "DisplayName": "Czeskie Budziejowice", 
+    "WikiName": "České_Budějovice", 
+    "Latitude": "48.97", 
+    "Longitude": "14.47" 
+     },
+    {
+    "DisplayName": "Pilzno", 
+    "WikiName": "Plzeň", 
+    "Latitude": "49.75", 
+    "Longitude": "13.38" 
+     },
+    {
+    "DisplayName": "Brno", 
+    "WikiName": "Brno", 
+    "Latitude": "49.19", 
+    "Longitude": "16.61" 
+     },
+    {
+    "DisplayName": "Ostrawa", 
+    "WikiName": "Ostrava", 
+    "Latitude": "49.84", 
+    "Longitude": "18.29" 
+     },
+    {
+    "DisplayName": "Miszkolc", 
+    "WikiName": "Miskolc", 
+    "Latitude": "48.10", 
+    "Longitude": "20.79" 
+     },
+    {
+    "DisplayName": "Debreczyn", 
+    "WikiName": "Debrecen", 
+    "Latitude": "47.53", 
+    "Longitude": "21.64" 
+     },
+    {
+    "DisplayName": "Pecz", 
+    "WikiName": "Pécs", 
+    "Latitude": "46.07", 
+    "Longitude": "18.23" 
+     },
+    {
+    "DisplayName": "Koszyce", 
+    "WikiName": "Košice", 
+    "Latitude": "48.72", 
+    "Longitude": "21.25" 
+     },
+    {
+    "DisplayName": "Poprad", 
+    "WikiName": "Poprad", 
+    "Latitude": "49.06", 
+    "Longitude": "20.30" 
+     },
+    {
+    "DisplayName": "Sankt Petersburg", 
+    "WikiName": "Saint_Petersburg", 
+    "Latitude": "59.94", 
+    "Longitude": "30.31" 
+     },
+    {
+    "DisplayName": "Twer", 
+    "WikiName": "Tver", 
+    "Latitude": "56.86", 
+    "Longitude": "35.92" 
+     },
+    {
+    "DisplayName": "Niżny Nowogród", 
+    "WikiName": "Nizhny_Novgorod", 
+    "Latitude": "56.33", 
+    "Longitude": "44.01" 
+     },
+    {
+    "DisplayName": "Murmańsk", 
+    "WikiName": "Murmansk", 
+    "Latitude": "68.97", 
+    "Longitude": "33.08" 
+     },
+    {
+    "DisplayName": "Samara", 
+    "WikiName": "Samara", 
+    "Latitude": "53.20", 
+    "Longitude": "50.14" 
+     },
+    {
+    "DisplayName": "Perm", 
+    "WikiName": "Perm_Krai", 
+    "Latitude": "59.23", 
+    "Longitude": "56.13" 
+     },
+    {
+    "DisplayName": "Wołgograd", 
+    "WikiName": "Volgograd", 
+    "Latitude": "48.71", 
+    "Longitude": "44.51" 
+     },
+    {
+    "DisplayName": "Lwów", 
+    "WikiName": "Lviv", 
+    "Latitude": "49.84", 
+    "Longitude": "24.03" 
+     },
+    {
+    "DisplayName": "Witebsk", 
+    "WikiName": "Vitebsk", 
+    "Latitude": "55.19", 
+    "Longitude": "30.21" 
+     },
+    {
+    "DisplayName": "Grodno", 
+    "WikiName": "Grodno", 
+    "Latitude": "53.67", 
+    "Longitude": "23.83" 
+     },
+    {
+    "DisplayName": "Donieck", 
+    "WikiName": "Donetsk", 
+    "Latitude": "48.00", 
+    "Longitude": "37.81" 
+     },
+    {
+    "DisplayName": "Charków", 
+    "WikiName": "Kharkiv", 
+    "Latitude": "49.99", 
+    "Longitude": "36.23" 
+     },
+    {
+    "DisplayName": "Turyn", 
+    "WikiName": "Turin", 
+    "Latitude": "45.08", 
+    "Longitude": "7.68" 
+     },
+    {
+    "DisplayName": "Mediolan", 
+    "WikiName": "Milan", 
+    "Latitude": "45.47", 
+    "Longitude": "9.19" 
+     },
+    {
+    "DisplayName": "Genua", 
+    "WikiName": "Genoa", 
+    "Latitude": "44.41", 
+    "Longitude": "8.93" 
+     },
+    {
+    "DisplayName": "Piza", 
+    "WikiName": "Pisa", 
+    "Latitude": "43.72", 
+    "Longitude": "10.40" 
+     },
+    {
+    "DisplayName": "Florencja", 
+    "WikiName": "Florence", 
+    "Latitude": "43.77", 
+    "Longitude": "11.25" 
+     },
+    {
+    "DisplayName": "Bolonia", 
+    "WikiName": "Bologna", 
+    "Latitude": "44.49", 
+    "Longitude": "11.34" 
+     },
+    {
+    "DisplayName": "Verona", 
+    "WikiName": "Verona", 
+    "Latitude": "45.44", 
+    "Longitude": "10.99" 
+     },
+    {
+    "DisplayName": "Wenecja", 
+    "WikiName": "Venice", 
+    "Latitude": "45.44", 
+    "Longitude": "12.34" 
+     },
+    {
+    "DisplayName": "Neapol", 
+    "WikiName": "Naples", 
+    "Latitude": "40.84", 
+    "Longitude": "14.25" 
+     },
+    {
+    "DisplayName": "Palermo", 
+    "WikiName": "Palermo", 
+    "Latitude": "38.11", 
+    "Longitude": "13.35" 
+     },
+    {
+    "DisplayName": "Bari", 
+    "WikiName": "Bari", 
+    "Latitude": "41.13", 
+    "Longitude": "16.87" 
+     },
+    {
+    "DisplayName": "Rijeka", 
+    "WikiName": "Rijeka", 
+    "Latitude": "45.33", 
+    "Longitude": "14.44" 
+     },
+    {
+    "DisplayName": "Zadar", 
+    "WikiName": "Zadar", 
+    "Latitude": "44.12", 
+    "Longitude": "15.23" 
+     },
+    {
+    "DisplayName": "Split", 
+    "WikiName": "Croatia", 
+    "Latitude": "45.17", 
+    "Longitude": "15.50" 
+     },
+    {
+    "DisplayName": "Dubrownik", 
+    "WikiName": "Dubrovnik", 
+    "Latitude": "42.64", 
+    "Longitude": "18.11" 
+     },
+    {
+    "DisplayName": "Nowy Sad", 
+    "WikiName": "Novi_Sad", 
+    "Latitude": "45.25", 
+    "Longitude": "19.84" 
+     },
+    {
+    "DisplayName": "Nisz", 
+    "WikiName": "Niš", 
+    "Latitude": "43.32", 
+    "Longitude": "21.90" 
+     },
+    {
+    "DisplayName": "Warna", 
+    "WikiName": "Gulf_of_Varna", 
+    "Latitude": "43.20", 
+    "Longitude": "27.93" 
+     },
+    {
+    "DisplayName": "Płowdiw", 
+    "WikiName": "Plovdiv", 
+    "Latitude": "42.15", 
+    "Longitude": "24.75" 
+     },
+    {
+    "DisplayName": "Burgas", 
+    "WikiName": "Burgas", 
+    "Latitude": "42.50", 
+    "Longitude": "27.47" 
+     },
+    {
+    "DisplayName": "Konstanca", 
+    "WikiName": "Constanța", 
+    "Latitude": "44.17", 
+    "Longitude": "28.63" 
+     },
+    {
+    "DisplayName": "Cluj-Napoca", 
+    "WikiName": "Cluj-Napoca", 
+    "Latitude": "46.77", 
+    "Longitude": "23.58" 
+     },
+    {
+    "DisplayName": "Timisoara", 
+    "WikiName": "Timișoara", 
+    "Latitude": "45.76", 
+    "Longitude": "21.23" 
+     },
+    {
+    "DisplayName": "Saloniki", 
+    "WikiName": "Thessaloniki", 
+    "Latitude": "40.64", 
+    "Longitude": "22.94" 
+     },
+    {
+    "DisplayName": "Korynt", 
+    "WikiName": "Corinth", 
+    "Latitude": "37.94", 
+    "Longitude": "22.93" 
+     },
+    {
+    "DisplayName": "Heraklion", 
+    "WikiName": "Heraklion", 
+    "Latitude": "35.34", 
+    "Longitude": "25.13" 
+     },
+    {
+    "DisplayName": "Izmir", 
+    "WikiName": "Izmir", 
+    "Latitude": "38.42", 
+    "Longitude": "27.13" 
+     },
+    {
+    "DisplayName": "Stambuł", 
+    "WikiName": "Istanbul", 
+    "Latitude": "41.01", 
+    "Longitude": "28.95" 
+     },
+    {
+    "DisplayName": "Antalya", 
+    "WikiName": "Antalya", 
+    "Latitude": "36.89", 
+    "Longitude": "30.71" 
+     },
+    {
+    "DisplayName": "Aleppo", 
+    "WikiName": "Aleppo", 
+    "Latitude": "36.20", 
+    "Longitude": "37.17" 
+     },
+    {
+    "DisplayName": "Jerozolima", 
+    "WikiName": "Jerusalem", 
+    "Latitude": "31.78", 
+    "Longitude": "35.23" 
+     },
+    {
+    "DisplayName": "Mekka", 
+    "WikiName": "Mecca", 
+    "Latitude": "21.42", 
+    "Longitude": "39.82" 
+     },
+    {
+    "DisplayName": "Medyna", 
+    "WikiName": "Medina", 
+    "Latitude": "24.47", 
+    "Longitude": "39.61" 
+     },
+    {
+    "DisplayName": "Mosul", 
+    "WikiName": "Mosul", 
+    "Latitude": "36.33", 
+    "Longitude": "43.13" 
+     },
+    {
+    "DisplayName": "Ałmaty", 
+    "WikiName": "Almaty", 
+    "Latitude": "43.24", 
+    "Longitude": "76.92" 
+     },
+    {
+    "DisplayName": "Buchara", 
+    "WikiName": "Bukhara", 
+    "Latitude": "39.77", 
+    "Longitude": "64.42" 
+     },
+    {
+    "DisplayName": "Karaczi", 
+    "WikiName": "Karachi", 
+    "Latitude": "24.86", 
+    "Longitude": "67.01" 
+     },
+    {
+    "DisplayName": "Urumczi", 
+    "WikiName": "Ürümqi", 
+    "Latitude": "43.82", 
+    "Longitude": "87.61" 
+     },
+    {
+    "DisplayName": "Omsk", 
+    "WikiName": "Omsk", 
+    "Latitude": "54.98", 
+    "Longitude": "73.37" 
+     },
+    {
+    "DisplayName": "Nowosybirsk", 
+    "WikiName": "Novosibirsk", 
+    "Latitude": "55.05", 
+    "Longitude": "82.95" 
+     },
+    {
+    "DisplayName": "Krasnojarsk", 
+    "WikiName": "Krasnoyarsk", 
+    "Latitude": "56.01", 
+    "Longitude": "92.87" 
+     },
+    {
+    "DisplayName": "Irkuck", 
+    "WikiName": "Irkutsk", 
+    "Latitude": "52.28", 
+    "Longitude": "104.28" 
+     },
+    {
+    "DisplayName": "Władywostok", 
+    "WikiName": "Vladivostok", 
+    "Latitude": "43.12", 
+    "Longitude": "131.89" 
+     },
+    {
+    "DisplayName": "Jakuck", 
+    "WikiName": "Yakutsk", 
+    "Latitude": "62.03", 
+    "Longitude": "129.73" 
+     },
+    {
+    "DisplayName": "Chabarowsk", 
+    "WikiName": "Khabarovsk", 
+    "Latitude": "48.48", 
+    "Longitude": "135.08" 
+     },
+    {
+    "DisplayName": "Sapporo", 
+    "WikiName": "Sapporo", 
+    "Latitude": "43.06", 
+    "Longitude": "141.35" 
+     },
+    {
+    "DisplayName": "Osaka", 
+    "WikiName": "Osaka", 
+    "Latitude": "34.69", 
+    "Longitude": "135.50" 
+     },
+    {
+    "DisplayName": "Kobe", 
+    "WikiName": "Kobe", 
+    "Latitude": "34.69", 
+    "Longitude": "135.20" 
+     },
+    {
+    "DisplayName": "Jokohama", 
+    "WikiName": "Yokohama", 
+    "Latitude": "35.44", 
+    "Longitude": "139.64" 
+     },
+    {
+    "DisplayName": "Hiroszima", 
+    "WikiName": "Hiroshima", 
+    "Latitude": "34.39", 
+    "Longitude": "132.45" 
+     },
+    {
+    "DisplayName": "Ho Chi Minh", 
+    "WikiName": "Ho_Chi_Minh_City", 
+    "Latitude": "10.78", 
+    "Longitude": "106.70" 
+     },
+    {
+    "DisplayName": "Lahaur", 
+    "WikiName": "Lahore", 
+    "Latitude": "31.55", 
+    "Longitude": "74.34" 
+     },
+    {
+    "DisplayName": "Waranasi", 
+    "WikiName": "Varanasi", 
+    "Latitude": "25.32", 
+    "Longitude": "83.01" 
+     },
+    {
+    "DisplayName": "Kalkuta", 
+    "WikiName": "Kolkata", 
+    "Latitude": "22.57", 
+    "Longitude": "88.37" 
+     },
+    {
+    "DisplayName": "Bombaj", 
+    "WikiName": "Mumbai", 
+    "Latitude": "19.08", 
+    "Longitude": "72.88" 
+     },
+    {
+    "DisplayName": "Madras", 
+    "WikiName": "Chennai", 
+    "Latitude": "13.08", 
+    "Longitude": "80.28" 
+     },
+    {
+    "DisplayName": "Lhasa", 
+    "WikiName": "Lhasa", 
+    "Latitude": "29.65", 
+    "Longitude": "91.12" 
+     },
+    {
+    "DisplayName": "Szanghaj", 
+    "WikiName": "Shanghai", 
+    "Latitude": "31.23", 
+    "Longitude": "121.47" 
+     },
+    {
+    "DisplayName": "Harbin", 
+    "WikiName": "Harbin", 
+    "Latitude": "45.76", 
+    "Longitude": "126.64" 
+     },
+    {
+    "DisplayName": "Wuhan", 
+    "WikiName": "Wuhan", 
+    "Latitude": "30.59", 
+    "Longitude": "114.30" 
+     },
+    {
+    "DisplayName": "Kanton", 
+    "WikiName": "Guangzhou", 
+    "Latitude": "23.13", 
+    "Longitude": "113.26" 
+     },
+    {
+    "DisplayName": "Hongkong", 
+    "WikiName": "Hong_Kong", 
+    "Latitude": "22.30", 
+    "Longitude": "114.20" 
+     },
+    {
+    "DisplayName": "Makau", 
+    "WikiName": "Macau", 
+    "Latitude": "22.18", 
+    "Longitude": "113.53" 
+     },
+    {
+    "DisplayName": "Honolulu", 
+    "WikiName": "Honolulu", 
+    "Latitude": "21.31", 
+    "Longitude": "-157.86" 
+     },
+    {
+    "DisplayName": "Auckland", 
+    "WikiName": "Auckland", 
+    "Latitude": "-36.85", 
+    "Longitude": "174.77" 
+     },
+    {
+    "DisplayName": "Perth", 
+    "WikiName": "Perth", 
+    "Latitude": "-31.96", 
+    "Longitude": "115.86" 
+     },
+    {
+    "DisplayName": "Adelaide", 
+    "WikiName": "Adelaide", 
+    "Latitude": "-34.93", 
+    "Longitude": "138.60" 
+     },
+    {
+    "DisplayName": "Melbourne", 
+    "WikiName": "Melbourne", 
+    "Latitude": "-37.81", 
+    "Longitude": "144.96" 
+     },
+    {
+    "DisplayName": "Sydney", 
+    "WikiName": "Sydney", 
+    "Latitude": "-33.87", 
+    "Longitude": "151.21" 
+     },
+    {
+    "DisplayName": "Aleksandria", 
+    "WikiName": "Alexandria", 
+    "Latitude": "31.20", 
+    "Longitude": "29.89" 
+     },
+    {
+    "DisplayName": "Suez", 
+    "WikiName": "Suez", 
+    "Latitude": "29.97", 
+    "Longitude": "32.55" 
+     },
+    {
+    "DisplayName": "Asuan", 
+    "WikiName": "Aswan", 
+    "Latitude": "24.09", 
+    "Longitude": "32.90" 
+     },
+    {
+    "DisplayName": "Mombasa", 
+    "WikiName": "Mombasa", 
+    "Latitude": "-4.05", 
+    "Longitude": "39.67" 
+     },
+    {
+    "DisplayName": "Casablanca", 
+    "WikiName": "Casablanca", 
+    "Latitude": "33.53", 
+    "Longitude": "-7.58" 
+     },
+    {
+    "DisplayName": "Johannesburg", 
+    "WikiName": "Johannesburg", 
+    "Latitude": "-26.20", 
+    "Longitude": "28.05" 
+     },
+    {
+    "DisplayName": "Kapsztad", 
+    "WikiName": "Cape_Town", 
+    "Latitude": "-33.93", 
+    "Longitude": "18.42" 
+     },
+    {
+    "DisplayName": "Lagos", 
+    "WikiName": "Lagos", 
+    "Latitude": "6.46", 
+    "Longitude": "3.38" 
+     },
+    {
+    "DisplayName": "Durban", 
+    "WikiName": "Durban", 
+    "Latitude": "-29.88", 
+    "Longitude": "31.05" 
+     },
+    {
+    "DisplayName": "Cali", 
+    "WikiName": "Cali", 
+    "Latitude": "3.42", 
+    "Longitude": "-76.52" 
+     },
+    {
+    "DisplayName": "Medellín", 
+    "WikiName": "Medellín", 
+    "Latitude": "6.23", 
+    "Longitude": "-75.59" 
+     },
+    {
+    "DisplayName": "Maracaibo", 
+    "WikiName": "Maracaibo", 
+    "Latitude": "10.63", 
+    "Longitude": "-71.63" 
+     },
+    {
+    "DisplayName": "Sucre", 
+    "WikiName": "Sucre", 
+    "Latitude": "-19.05", 
+    "Longitude": "-65.26" 
+     },
+    {
+    "DisplayName": "Cuzco", 
+    "WikiName": "Cusco", 
+    "Latitude": "-13.53", 
+    "Longitude": "-71.97" 
+     },
+    {
+    "DisplayName": "Córdoba", 
+    "WikiName": "Argentina", 
+    "Latitude": "-34.00", 
+    "Longitude": "-64.00" 
+     },
+    {
+    "DisplayName": "Porto Alegre", 
+    "WikiName": "Porto_Alegre", 
+    "Latitude": "-30.03", 
+    "Longitude": "-51.23" 
+     },
+    {
+    "DisplayName": "Rio de Janeiro", 
+    "WikiName": "Rio_de_Janeiro", 
+    "Latitude": "-22.91", 
+    "Longitude": "-43.21" 
+     },
+    {
+    "DisplayName": "Sao Paulo", 
+    "WikiName": "São_Paulo", 
+    "Latitude": "-23.55", 
+    "Longitude": "-46.63" 
+     },
+    {
+    "DisplayName": "Manaus", 
+    "WikiName": "Manaus", 
+    "Latitude": "-3.12", 
+    "Longitude": "-60.02" 
+     },
+    {
+    "DisplayName": "Salvador", 
+    "WikiName": "Bahia", 
+    "Latitude": "-12.00", 
+    "Longitude": "-41.00" 
+     },
+    {
+    "DisplayName": "Acapulco", 
+    "WikiName": "Acapulco", 
+    "Latitude": "16.86", 
+    "Longitude": "-99.88" 
+     },
+    {
+    "DisplayName": "Monterrey", 
+    "WikiName": "Monterrey", 
+    "Latitude": "25.68", 
+    "Longitude": "-100.32" 
+     },
+    {
+    "DisplayName": "San Diego", 
+    "WikiName": "San_Diego", 
+    "Latitude": "32.72", 
+    "Longitude": "-117.16" 
+     },
+    {
+    "DisplayName": "San Francisco", 
+    "WikiName": "San_Francisco", 
+    "Latitude": "37.78", 
+    "Longitude": "-122.42" 
+     },
+    {
+    "DisplayName": "Los Angeles", 
+    "WikiName": "Los_Angeles", 
+    "Latitude": "34.05", 
+    "Longitude": "-118.25" 
+     },
+    {
+    "DisplayName": "Vancouver", 
+    "WikiName": "Vancouver", 
+    "Latitude": "49.26", 
+    "Longitude": "-123.11" 
+     },
+    {
+    "DisplayName": "Anchorage", 
+    "WikiName": "Anchorage", 
+    "Latitude": "61.22", 
+    "Longitude": "-149.89" 
+     },
+    {
+    "DisplayName": "Calgary", 
+    "WikiName": "Calgary", 
+    "Latitude": "51.05", 
+    "Longitude": "-114.07" 
+     },
+    {
+    "DisplayName": "Toronto", 
+    "WikiName": "Toronto", 
+    "Latitude": "43.74", 
+    "Longitude": "-79.37" 
+     },
+    {
+    "DisplayName": "Montreal", 
+    "WikiName": "Montreal", 
+    "Latitude": "45.51", 
+    "Longitude": "-73.55" 
+     },
+    {
+    "DisplayName": "Seattle", 
+    "WikiName": "Seattle", 
+    "Latitude": "47.61", 
+    "Longitude": "-122.33" 
+     },
+    {
+    "DisplayName": "Chicago", 
+    "WikiName": "Chicago", 
+    "Latitude": "41.88", 
+    "Longitude": "-87.63" 
+     },
+    {
+    "DisplayName": "Detroit", 
+    "WikiName": "Detroit", 
+    "Latitude": "42.33", 
+    "Longitude": "-83.05" 
+     },
+    {
+    "DisplayName": "Las Vegas", 
+    "WikiName": "Las_Vegas", 
+    "Latitude": "36.17", 
+    "Longitude": "-115.14" 
+     },
+    {
+    "DisplayName": "Denver", 
+    "WikiName": "Denver", 
+    "Latitude": "39.74", 
+    "Longitude": "-104.98" 
+     },
+    {
+    "DisplayName": "Nowy Orlean", 
+    "WikiName": "New_Orleans", 
+    "Latitude": "29.98", 
+    "Longitude": "-90.08" 
+     },
+    {
+    "DisplayName": "Miami", 
+    "WikiName": "Miami", 
+    "Latitude": "25.78", 
+    "Longitude": "-80.22" 
+     },
+    {
+    "DisplayName": "Nowy Jork", 
+    "WikiName": "New_York_City", 
+    "Latitude": "40.71", 
+    "Longitude": "-74.01" 
+     },
+    {
+    "DisplayName": "Atlanta", 
+    "WikiName": "Atlanta", 
+    "Latitude": "33.75", 
+    "Longitude": "-84.39" 
+     },
+    {
+    "DisplayName": "Filadelfia", 
+    "WikiName": "Philadelphia", 
+    "Latitude": "39.95", 
+    "Longitude": "-75.16" 
+     },
+    {
+    "DisplayName": "Memphis", 
+    "WikiName": "Tennessee", 
+    "Latitude": "36.00", 
+    "Longitude": "-86.00" 
+     },
+    {
+    "DisplayName": "Tirana", 
+    "WikiName": "Tirana", 
+    "Latitude": "41.33", 
+    "Longitude": "19.82" 
+     },
+    {
+    "DisplayName": "Andorra la Vella", 
+    "WikiName": "Andorra_la_Vella", 
+    "Latitude": "42.50", 
+    "Longitude": "1.50" 
+     },
+    {
+    "DisplayName": "Wiedeń", 
+    "WikiName": "Vienna", 
+    "Latitude": "48.21", 
+    "Longitude": "16.37" 
+     },
+    {
+    "DisplayName": "Bruksela", 
+    "WikiName": "Brussels", 
+    "Latitude": "50.85", 
+    "Longitude": "4.35" 
+     },
+    {
+    "DisplayName": "Mińsk", 
+    "WikiName": "Minsk", 
+    "Latitude": "53.90", 
+    "Longitude": "27.56" 
+     },
+    {
+    "DisplayName": "Sarajewo", 
+    "WikiName": "Sarajevo", 
+    "Latitude": "43.86", 
+    "Longitude": "18.41" 
+     },
+    {
+    "DisplayName": "Zagrzeb", 
+    "WikiName": "Zagreb", 
+    "Latitude": "45.81", 
+    "Longitude": "15.98" 
+     },
+    {
+    "DisplayName": "Podgorica", 
+    "WikiName": "Podgorica", 
+    "Latitude": "42.44", 
+    "Longitude": "19.26" 
+     },
+    {
+    "DisplayName": "Kopenhaga", 
+    "WikiName": "Copenhagen", 
+    "Latitude": "55.68", 
+    "Longitude": "12.57" 
+     },
+    {
+    "DisplayName": "Tallinn", 
+    "WikiName": "Tallinn", 
+    "Latitude": "59.44", 
+    "Longitude": "24.75" 
+     },
+    {
+    "DisplayName": "Helsinki", 
+    "WikiName": "Helsinki", 
+    "Latitude": "60.17", 
+    "Longitude": "24.94" 
+     },
+    {
+    "DisplayName": "Ateny", 
+    "WikiName": "Athens", 
+    "Latitude": "37.98", 
+    "Longitude": "23.73" 
+     },
+    {
+    "DisplayName": "Madryt", 
+    "WikiName": "Madrid", 
+    "Latitude": "40.42", 
+    "Longitude": "-3.70" 
+     },
+    {
+    "DisplayName": "Amsterdam", 
+    "WikiName": "Amsterdam", 
+    "Latitude": "52.37", 
+    "Longitude": "4.89" 
+     },
+    {
+    "DisplayName": "Dublin", 
+    "WikiName": "Dublin", 
+    "Latitude": "53.35", 
+    "Longitude": "-6.26" 
+     },
+    {
+    "DisplayName": "Reykjavik", 
+    "WikiName": "Reykjavík", 
+    "Latitude": "64.15", 
+    "Longitude": "-21.94" 
+     },
+    {
+    "DisplayName": "Astana", 
+    "WikiName": "Astana", 
+    "Latitude": "51.15", 
+    "Longitude": "71.42" 
+     },
+    {
+    "DisplayName": "Vaduz", 
+    "WikiName": "Vaduz", 
+    "Latitude": "47.14", 
+    "Longitude": "9.52" 
+     },
+    {
+    "DisplayName": "Wilno", 
+    "WikiName": "Vilnius", 
+    "Latitude": "54.69", 
+    "Longitude": "25.28" 
+     },
+    {
+    "DisplayName": "Luksemburg", 
+    "WikiName": "Luxembourg_City", 
+    "Latitude": "49.61", 
+    "Longitude": "6.13" 
+     },
+    {
+    "DisplayName": "Ryga", 
+    "WikiName": "Riga", 
+    "Latitude": "56.95", 
+    "Longitude": "24.11" 
+     },
+    {
+    "DisplayName": "Skopje", 
+    "WikiName": "Skopje", 
+    "Latitude": "42.00", 
+    "Longitude": "21.43" 
+     },
+    {
+    "DisplayName": "Valletta", 
+    "WikiName": "Valletta", 
+    "Latitude": "35.90", 
+    "Longitude": "14.51" 
+     },
+    {
+    "DisplayName": "Monako", 
+    "WikiName": "Monaco", 
+    "Latitude": "43.73", 
+    "Longitude": "7.42" 
+     },
+    {
+    "DisplayName": "Berlin", 
+    "WikiName": "Berlin", 
+    "Latitude": "52.52", 
+    "Longitude": "13.41" 
+     },
+    {
+    "DisplayName": "Oslo", 
+    "WikiName": "Oslo", 
+    "Latitude": "59.91", 
+    "Longitude": "10.74" 
+     },
+    {
+    "DisplayName": "Warszawa", 
+    "WikiName": "Warsaw", 
+    "Latitude": "52.23", 
+    "Longitude": "21.01" 
+     },
+    {
+    "DisplayName": "Lizbona", 
+    "WikiName": "Lisbon", 
+    "Latitude": "38.73", 
+    "Longitude": "-9.15" 
+     },
+    {
+    "DisplayName": "Moskwa", 
+    "WikiName": "Moscow", 
+    "Latitude": "55.76", 
+    "Longitude": "37.62" 
+     },
+    {
+    "DisplayName": "Bukareszt", 
+    "WikiName": "Bucharest", 
+    "Latitude": "44.43", 
+    "Longitude": "26.10" 
+     },
+    {
+    "DisplayName": "San Marino", 
+    "WikiName": "San_Marino", 
+    "Latitude": "43.93", 
+    "Longitude": "12.43" 
+     },
+    {
+    "DisplayName": "Belgrad", 
+    "WikiName": "Belgrade", 
+    "Latitude": "44.82", 
+    "Longitude": "20.46" 
+     },
+    {
+    "DisplayName": "Bratysława", 
+    "WikiName": "Bratislava", 
+    "Latitude": "48.14", 
+    "Longitude": "17.11" 
+     },
+    {
+    "DisplayName": "Lublana", 
+    "WikiName": "Ljubljana", 
+    "Latitude": "46.05", 
+    "Longitude": "14.51" 
+     },
+    {
+    "DisplayName": "Berno", 
+    "WikiName": "Bern", 
+    "Latitude": "46.95", 
+    "Longitude": "7.45" 
+     },
+    {
+    "DisplayName": "Sztokholm", 
+    "WikiName": "Stockholm", 
+    "Latitude": "59.33", 
+    "Longitude": "18.07" 
+     },
+    {
+    "DisplayName": "Ankara", 
+    "WikiName": "Ankara", 
+    "Latitude": "39.93", 
+    "Longitude": "32.85" 
+     },
+    {
+    "DisplayName": "Kijów", 
+    "WikiName": "Kyiv", 
+    "Latitude": "50.45", 
+    "Longitude": "30.52" 
+     },
+    {
+    "DisplayName": "Watykan", 
+    "WikiName": "Vatican_City", 
+    "Latitude": "41.90", 
+    "Longitude": "12.45" 
+     },
+    {
+    "DisplayName": "Londyn", 
+    "WikiName": "London", 
+    "Latitude": "51.51", 
+    "Longitude": "-0.13" 
+     }
+]
