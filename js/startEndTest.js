@@ -9,7 +9,7 @@ function startApp(){
         document.querySelectorAll('.drag-number').forEach(e => e.remove());
         document.querySelectorAll('.check').forEach(e => e.remove());
         document.getElementById
-        showMapSpots.showMapSpots()
+        showMapSpots.showMapSpots('KL1FIZ')
         document.getElementById('spots-container').style.minHeight = '207px' 
         if(document.getElementById('start-screen')){document.getElementById('start-screen').remove()}
         if(document.getElementById('minutes')){document.getElementById('minutes').remove()}
@@ -51,7 +51,7 @@ function changeButton(){
     }
 }
 async function finalCheck(){
-    const data = await getMapSpots.getMapSpotsFromJson()
+    const data = await getMapSpots.getMapSpotsFromJson('KL1FIZ')
     if(data){
         var score = 0
         console.log('data in finalcheck: ', data)

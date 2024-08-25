@@ -1,6 +1,6 @@
 import DragAndDrop from "./dragAndDrop.js";
-async function showMapSpots(){
-    const data = await getMapSpotsFromJson()
+async function showMapSpots(wykaz){
+    const data = await getMapSpotsFromJson(wykaz)
     if(data){
         console.log('data in sms: ', data)
         for(let i =0; i<= 14; i++){
@@ -15,9 +15,9 @@ async function showMapSpots(){
             } 
         }
     }
-async function getMapSpotsFromJson(){
+async function getMapSpotsFromJson(wykaz){
     try{
-        const response = await fetch('./src/wykazy/KL1FIZ.json')
+        const response = await fetch(`./src/wykazy/W${wykaz}.json`)
         if(!response.ok){
             throw new error(`network response was not ok`)
         } 
