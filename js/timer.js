@@ -1,4 +1,5 @@
 var time = 240
+var minutes = document.getElementById('minutes')
 function changeTime(e){
     time = e.target.value*60
     console.log('e target', e.target)
@@ -42,8 +43,18 @@ function getTimeFromTimer(time){
     return time
 }
 function createTimeInput(){
-    document.getElementById('mid-container').innerHTML += `<input type="number" id="minutes" class="timeSelect" placeholder="czas[m]">`
+    //document.getElementById('mid-container').innerHTML += `<input type="number" id="minutes" class="timeSelect" placeholder="czas[m]">`
     document.getElementById('minutes').addEventListener('change', minMaxtime)
     document.getElementById('minutes').addEventListener('change', (changeTime))
+    document.getElementById('minutes').style.background = 'white'
+    document.getElementById('minutes').style.color = 'gray'
+    if(document.getElementById('minutes').value){document.getElementById('minutes').value=''}
+    
 }
-export default{changeTime, displayTime, minMaxtime, startTimer, time, createTimeInput}
+function removeTimeInput(){
+    document.getElementById('minutes').removeEventListener('change', minMaxtime)
+    document.getElementById('minutes').removeEventListener('change', (changeTime))
+    document.getElementById('minutes').style.background = 'red'
+    document.getElementById('minutes').style.color = 'white'
+}
+export default{changeTime, displayTime, minMaxtime, startTimer, time, createTimeInput, removeTimeInput}

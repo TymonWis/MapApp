@@ -16,7 +16,7 @@ function startApp(){
         document.getElementById('mode-selector').style.background = 'red'
         document.getElementById('mode-selector').removeEventListener('click', modeSelectPopUp.showPopUp)
         if(document.getElementById('start-screen')){document.getElementById('start-screen').remove()}
-        if(document.getElementById('minutes')){document.getElementById('minutes').remove()}
+        timer.removeTimeInput()
         if(document.getElementById('score')){document.getElementById('score').remove()}
         document.getElementById('map-container').addEventListener('drop', (e)=> {
             DragAndDrop.drop(e)
