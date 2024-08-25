@@ -75,4 +75,4 @@ function showPopUp(){
         }
         })
 }
-export default{showPopUp}
+export default{showPopUp, getMode}
