@@ -1,6 +1,6 @@
 [
     {
-    "DisplayName": "Morze Białe", 
+        "DisplayName": "Morze Białe", 
     "WikiName": "White_Sea", 
     "Latitude": "65.50", 
     "Longitude": "37.50" 
@@ -378,7 +378,7 @@
     "Longitude": "20.50" 
     },
     {
-    "DisplayName": "Mała Nizina Węgierska", 
+    "DisplayName": "Mała Nizina", 
     "WikiName": "Little_Hungarian_Plain", 
     "Latitude": "47.75", 
     "Longitude": "17.33" 
@@ -2656,5 +2656,353 @@
     "WikiName": "Denali", 
     "Latitude": "63.07", 
     "Longitude": "-151.01" 
-    }
+    },
+    {
+    "DisplayName": "Jezioro Wener", 
+    "WikiName": "Vänern", 
+    "Latitude": "58.92", 
+    "Longitude": "13.50" 
+        },
+    {
+    "DisplayName": "Jezioro Wetter", 
+    "WikiName": "Vättern", 
+    "Latitude": "58.40", 
+    "Longitude": "14.60" 
+        },
+    {
+    "DisplayName": "Newa", 
+    "WikiName": "Neva_River", 
+    "Latitude": "59.96", 
+    "Longitude": "30.22" 
+        },
+    {
+    "DisplayName": "Dźwina", 
+    "WikiName": "Daugava_River", 
+    "Latitude": "57.06", 
+    "Longitude": "24.03" 
+        },
+    {
+    "DisplayName": "Zelandia", 
+    "WikiName": "Zealand", 
+    "Latitude": "55.50", 
+    "Longitude": "11.75" 
+        },
+    {
+    "DisplayName": "Oka", 
+    "WikiName": "Oka_River", 
+    "Latitude": "52.36", 
+    "Longitude": "36.22" 
+        },
+    {
+    "DisplayName": "Cieśnina Kerczeńska", 
+    "WikiName": "Kerch_Strait", 
+    "Latitude": "45.25", 
+    "Longitude": "36.50" 
+        },
+    {
+    "DisplayName": "Góry Grampian", 
+    "WikiName": "Grampian_Mountains", 
+    "Latitude": "56.92", 
+    "Longitude": "-4.00" 
+        },
+    {
+    "DisplayName": "Góry Schwarzwald", 
+    "WikiName": "Black_Forest", 
+    "Latitude": "48.30", 
+    "Longitude": "8.15" 
+        },
+    {
+    "DisplayName": "Góry Jura", 
+    "WikiName": "Jura_Mountains", 
+    "Latitude": "46.67", 
+    "Longitude": "6.25" 
+        },
+    {
+    "DisplayName": "Garonna", 
+    "WikiName": "Garonne", 
+    "Latitude": "45.04", 
+    "Longitude": "-0.61" 
+        },
+    {
+    "DisplayName": "Wyspy Normandzkie", 
+    "WikiName": "Channel_Islands", 
+    "Latitude": "49.43", 
+    "Longitude": "-2.35" 
+        },
+    {
+    "DisplayName": "Istria", 
+    "WikiName": "Istria", 
+    "Latitude": "45.26", 
+    "Longitude": "13.90" 
+        },
+    {
+    "DisplayName": "Elba", 
+    "WikiName": "Elba", 
+    "Latitude": "42.78", 
+    "Longitude": "10.28" 
+        },
+    {
+    "DisplayName": "Wyspy Liparyjskie", 
+    "WikiName": "Aeolian_Islands", 
+    "Latitude": "38.53", 
+    "Longitude": "14.90" 
+        },
+    {
+    "DisplayName": "Lesbos", 
+    "WikiName": "Lesbos", 
+    "Latitude": "39.22", 
+    "Longitude": "26.28" 
+        },
+    {
+    "DisplayName": "Góry Pindos", 
+    "WikiName": "Pindus", 
+    "Latitude": "40.09", 
+    "Longitude": "20.93" 
+        },
+    {
+    "DisplayName": "Kanał Koryncki", 
+    "WikiName": "Corinth_Canal", 
+    "Latitude": "37.93", 
+    "Longitude": "22.98" 
+        },
+    {
+    "DisplayName": "Góry Sierra Nevada", 
+    "WikiName": "Sierra_Nevada_(U.S.)", 
+    "Latitude": "38.00", 
+    "Longitude": "-119.50" 
+        },
+    {
+    "DisplayName": "Góry Kaskadowe", 
+    "WikiName": "Cascade_Range", 
+    "Latitude": "46.85", 
+    "Longitude": "-121.76" 
+        },
+    {
+    "DisplayName": "Rzeka Tennessee", 
+    "WikiName": "Tennessee_River", 
+    "Latitude": "37.07", 
+    "Longitude": "-88.56" 
+        },
+    {
+    "DisplayName": "Wyspa Wiktorii", 
+    "WikiName": "Victoria_Island_(Canada)", 
+    "Latitude": "70.42", 
+    "Longitude": "-107.75" 
+        },
+    {
+    "DisplayName": "Jezioro Winnipeg", 
+    "WikiName": "Lake_Winnipeg", 
+    "Latitude": "52.12", 
+    "Longitude": "-97.25" 
+        },
+    {
+    "DisplayName": "Sao Francisco", 
+    "WikiName": "São_Francisco_River", 
+    "Latitude": "-10.50", 
+    "Longitude": "-36.40" 
+        },
+    {
+    "DisplayName": "Ukajali", 
+    "WikiName": "Ucayali_River", 
+    "Latitude": "-8.59", 
+    "Longitude": "-74.37" 
+        },
+    {
+    "DisplayName": "Zatoka Fundy", 
+    "WikiName": "Bay_of_Fundy", 
+    "Latitude": "45.00", 
+    "Longitude": "-65.75" 
+        },
+    {
+    "DisplayName": "Nowa Szkocja", 
+    "WikiName": "Nova_Scotia", 
+    "Latitude": "45.00", 
+    "Longitude": "-63.00" 
+        },
+    {
+    "DisplayName": "Altiplano (Wyżyna Boliwijska)", 
+    "WikiName": "Altiplano", 
+    "Latitude": "-16.00", 
+    "Longitude": "-69.65" 
+        },
+    {
+    "DisplayName": "Wodospady Iguazu", 
+    "WikiName": "Iguazu_Falls", 
+    "Latitude": "-25.69", 
+    "Longitude": "-54.44" 
+        },
+    {
+    "DisplayName": "Masyw Ahaggar", 
+    "WikiName": "Hoggar_Mountains", 
+    "Latitude": "23.29", 
+    "Longitude": "5.53" 
+        },
+    {
+    "DisplayName": "Masyw Tibesti", 
+    "WikiName": "Tibesti_Mountains", 
+    "Latitude": "20.78", 
+    "Longitude": "18.05" 
+        },
+    {
+    "DisplayName": "Góry Rif", 
+    "WikiName": "Rif_Mountains", 
+    "Latitude": "35.00", 
+    "Longitude": "-4.00" 
+        },
+    {
+    "DisplayName": "Przylądek Biały", 
+    "WikiName": "Bizerte", 
+    "Latitude": "37.28", 
+    "Longitude": "9.86" 
+        },
+    {
+    "DisplayName": "Wyżyna Bije", 
+    "WikiName": "Huambo", 
+    "Latitude": "-12.78", 
+    "Longitude": "15.73" 
+        },
+    {
+    "DisplayName": "Okawango", 
+    "WikiName": "Okavango_Delta", 
+    "Latitude": "-19.40", 
+    "Longitude": "22.90" 
+        },
+    {
+    "DisplayName": "Wodospady Wiktorii", 
+    "WikiName": "Victoria_Falls", 
+    "Latitude": "-17.92", 
+    "Longitude": "25.86" 
+        },
+    {
+    "DisplayName": "Jezioro Kiwu", 
+    "WikiName": "Lake_Kivu", 
+    "Latitude": "-2.00", 
+    "Longitude": "29.00" 
+        },
+    {
+    "DisplayName": "Ziemia Północna", 
+    "WikiName": "Severnaya_Zemlya", 
+    "Latitude": "79.50", 
+    "Longitude": "97.25" 
+        },
+    {
+    "DisplayName": "Ziemia Franciszka Józefa", 
+    "WikiName": "Franz_Josef_Land", 
+    "Latitude": "81.00", 
+    "Longitude": "55.00" 
+        },
+    {
+    "DisplayName": "Góry Koriackie", 
+    "WikiName": "Koryak_Mountains", 
+    "Latitude": "62.50", 
+    "Longitude": "172.00" 
+        },
+    {
+    "DisplayName": "Wyspa Wrangla", 
+    "WikiName": "Wrangel_Island", 
+    "Latitude": "71.23", 
+    "Longitude": "-179.42" 
+        },
+    {
+    "DisplayName": "Góry Sichote-Alin", 
+    "WikiName": "Sikhote-Alin", 
+    "Latitude": "45.33", 
+    "Longitude": "136.17" 
+        },
+    {
+    "DisplayName": "Jezioro Sewan", 
+    "WikiName": "Lake_Sevan", 
+    "Latitude": "40.32", 
+    "Longitude": "45.35" 
+        },
+    {
+    "DisplayName": "Kotlina Syczuańska", 
+    "WikiName": "Sichuan_Basin", 
+    "Latitude": "30.50", 
+    "Longitude": "105.50" 
+        },
+    {
+    "DisplayName": "Irawadi", 
+    "WikiName": "Irrawaddy_River", 
+    "Latitude": "15.86", 
+    "Longitude": "95.24" 
+        },
+    {
+    "DisplayName": "Luzon", 
+    "WikiName": "Luzon", 
+    "Latitude": "16.00", 
+    "Longitude": "121.00" 
+        },
+    {
+    "DisplayName": "Morze Banda", 
+    "WikiName": "Banda_Sea", 
+    "Latitude": "-6.00", 
+    "Longitude": "127.00" 
+        },
+    {
+    "DisplayName": "Morze Moluckie", 
+    "WikiName": "Molucca_Sea", 
+    "Latitude": "-0.42", 
+    "Longitude": "125.42" 
+        },
+    {
+    "DisplayName": "Sokotra", 
+    "WikiName": "Socotra", 
+    "Latitude": "12.51", 
+    "Longitude": "53.92" 
+        },
+    {
+    "DisplayName": "Ziemia Arnhema", 
+    "WikiName": "Arnhem_Land", 
+    "Latitude": "-12.73", 
+    "Longitude": "134.59" 
+        },
+    {
+    "DisplayName": "Pustynia Gibsona", 
+    "WikiName": "Gibson_Desert", 
+    "Latitude": "-23.00", 
+    "Longitude": "125.00" 
+        },
+    {
+    "DisplayName": "Pustynia Simpsona", 
+    "WikiName": "Simpson_Desert", 
+    "Latitude": "-24.57", 
+    "Longitude": "137.42" 
+        },
+    {
+    "DisplayName": "Nowe Hybrydy", 
+    "WikiName": "New_Hebrides", 
+    "Latitude": "-16.63", 
+    "Longitude": "168.02" 
+        },
+    {
+    "DisplayName": "Wyspy Cooka", 
+    "WikiName": "Cook_Islands", 
+    "Latitude": "-21.23", 
+    "Longitude": "-159.77" 
+        },
+    {
+    "DisplayName": "Rów Kermadec", 
+    "WikiName": "Kermadec_Trench", 
+    "Latitude": "-31.00", 
+    "Longitude": "-177.00" 
+        },
+    {
+    "DisplayName": "Wyspy Kermadec", 
+    "WikiName": "Kermadec_Islands", 
+    "Latitude": "-29.28", 
+    "Longitude": "-177.92" 
+        },
+    {
+    "DisplayName": "Rów Tonga", 
+    "WikiName": "Tonga_Trench", 
+    "Latitude": "-22.00", 
+    "Longitude": "-174.00" 
+        },
+    {
+    "DisplayName": "Wyspy Tonga", 
+    "WikiName": "Tonga", 
+    "Latitude": "-20.00", 
+    "Longitude": "-175.00" 
+        }
 ]
