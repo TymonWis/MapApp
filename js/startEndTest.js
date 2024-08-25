@@ -9,9 +9,12 @@ function startApp(){
         document.getElementById('spots-container').innerHTML = ''
         document.querySelectorAll('.drag-number').forEach(e => e.remove());
         document.querySelectorAll('.check').forEach(e => e.remove());
-        document.getElementById('mode-selector').removeEventListener('click', modeSelectPopUp.showPopUp)
+
+        
         showMapSpots.showMapSpots(`${modeSelectPopUp.getMode()}`)
         document.getElementById('spots-container').style.minHeight = '207px' 
+        document.getElementById('mode-selector').style.background = 'red'
+        document.getElementById('mode-selector').removeEventListener('click', modeSelectPopUp.showPopUp)
         if(document.getElementById('start-screen')){document.getElementById('start-screen').remove()}
         if(document.getElementById('minutes')){document.getElementById('minutes').remove()}
         if(document.getElementById('score')){document.getElementById('score').remove()}
@@ -30,6 +33,7 @@ function endApp(){
     changeButton()
     timer.createTimeInput()
     finalCheck()
+    document.getElementById('mode-selector').style.background = 'var(--btn-new)'
     document.getElementById('mode-selector').addEventListener('click', modeSelectPopUp.showPopUp)
 }
 function changeButton(){
