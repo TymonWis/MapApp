@@ -4,11 +4,12 @@ import timer from './timer.js'
 import guide from './guide.js'
 import mollweide from './mollweide.js'
 import getMapSpots from './getMapSpots.js'
+import modeSelectPopUp from './modeSelectPopUp.js'
 function startApp(){
         document.getElementById('spots-container').innerHTML = ''
         document.querySelectorAll('.drag-number').forEach(e => e.remove());
         document.querySelectorAll('.check').forEach(e => e.remove());
-        document.getElementById
+        document.getElementById('mode-selector').removeEventListener('click', modeSelectPopUp.showPopUp)
         showMapSpots.showMapSpots('KL1FIZ')
         document.getElementById('spots-container').style.minHeight = '207px' 
         if(document.getElementById('start-screen')){document.getElementById('start-screen').remove()}
@@ -29,6 +30,7 @@ function endApp(){
     changeButton()
     timer.createTimeInput()
     finalCheck()
+    document.getElementById('mode-selector').addEventListener('click', modeSelectPopUp.showPopUp)
 }
 function changeButton(){
     var button = document.getElementById('start-end')
