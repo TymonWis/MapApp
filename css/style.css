@@ -91,6 +91,7 @@ html, body {
     border-radius: 20px;
     /* border: 10px solid var(--textColor); */
     max-width: 400px;
+    text-align: center;
 }
 .startScrHeader { 
     display: flex;
@@ -162,10 +163,6 @@ html, body {
 
     padding: 8px;
 }
-p {
-    text-align: center;
-    margin: 5px 0 0 0;
-  }
 .podpis{
     font-family: 'Raleway', sans-serif;
     font-weight: 500;
@@ -201,4 +198,22 @@ p {
     font-size: 2rem;
     font-weight: 600;
     margin: auto;
+}
+.modeSelectPopUp {
+    position: fixed;
+    top:0px;
+    left:0px;
+    z-index: 2;
+    background: rgba(0,0,0,.4);
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+.modeSelectPopUpContent {
+    background: var(--map-outline);
+    margin: 5% auto;
+    padding: 20px 20px 10px 20px;
+    border-radius: 20px;
+    /* border: 10px solid var(--textColor); */
+    max-width: 600px;
 }
