@@ -5,10 +5,15 @@ import guide from './guide.js'
 import mollweide from './mollweide.js'
 import getMapSpots from './getMapSpots.js'
 function startApp(){
+        document.getElementById('spots-container').innerHTML = ''
+        document.querySelectorAll('.drag-number').forEach(e => e.remove());
+        document.querySelectorAll('.check').forEach(e => e.remove());
+        document.getElementById
         showMapSpots.showMapSpots()
         document.getElementById('spots-container').style.minHeight = '207px' 
         if(document.getElementById('start-screen')){document.getElementById('start-screen').remove()}
         if(document.getElementById('minutes')){document.getElementById('minutes').remove()}
+        if(document.getElementById('score')){document.getElementById('score').remove()}
         document.getElementById('map-container').addEventListener('drop', (e)=> {
             DragAndDrop.drop(e)
         })
@@ -48,6 +53,7 @@ function changeButton(){
 async function finalCheck(){
     const data = await getMapSpots.getMapSpotsFromJson()
     if(data){
+        var score = 0
         console.log('data in finalcheck: ', data)
         for(let i=0; i <=14; i++){
             var cords = mollweide.mollweide(data[data.findIndex(x => x.DisplayName === document.getElementById(`DT${i}`).innerHTML)].Latitude, data[data.findIndex(x => x.DisplayName === document.getElementById(`DT${i}`).innerHTML)].Longitude)
@@ -68,16 +74,18 @@ async function finalCheck(){
                 console.log(i+1, 'x diff: ', Math.abs((cords.x + 35) - (parseFloat((document.getElementById(`DN${i}`).style.left).replace('px', '')))))
                 console.log(i+1, 'y diff: ', Math.abs((cords.y + 20) - (parseFloat((document.getElementById(`DN${i}`).style.top).replace('px', '')) +15)))
                 console.log(i+1, 'r diff: ', Math.sqrt(Math.pow((cords.x + 35) - (parseFloat((document.getElementById(`DN${i}`).style.left).replace('px', ''))), 2) + Math.pow((cords.y + 20) - (parseFloat((document.getElementById(`DN${i}`).style.top).replace('px', '')) +15), 2)))
-                if(Math.sqrt(Math.pow((cords.x + 35) - (parseFloat((document.getElementById(`DN${i}`).style.left).replace('px', ''))), 2) + Math.pow((cords.y + 20) - (parseFloat((document.getElementById(`DN${i}`).style.top).replace('px', '')) +15), 2)) <50){
-                    
-                    document.getElementById(`check${i}`).style.background = 'rgba(38, 254, 135, 0.3)'
-                    document.getElementById(`check${i}`).parentNode.style.background = 'rgba(18, 224, 11, 0.12)'
-                }
+
+                if(Math.sqrt(Math.pow((cords.x) - (parseFloat((document.getElementById(`DN${i}`).style.left).replace('px', ''))), 2) + Math.pow((cords.y) - (parseFloat((document.getElementById(`DN${i}`).style.top).replace('px', ''))), 2)) <40)
+                    {
+                    score++
+                    document.getElementById(`check${i}`).parentNode.style.background = 'rgba(18, 224, 11, 0.3)'
+                    }
                 
-                else{
+                else
+                    {
                     if(Math.sqrt(Math.pow((cords.x + 35) - (parseFloat((document.getElementById(`DN${i}`).style.left).replace('px', ''))), 2) + Math.pow((cords.y + 20) - (parseFloat((document.getElementById(`DN${i}`).style.top).replace('px', '')) +15), 2)) < 65)
                         {
-                            document.getElementById(`check${i}`).style.background = 'rgb(226 249 0 / 50%)'
+                            score += 0.5
                             document.getElementById(`check${i}`).parentNode.style.background = 'rgb(205 212 29 / 30%)'
                         }
                         else{
@@ -86,6 +94,8 @@ async function finalCheck(){
                     }
                 }
             }
+            console.log('score: ', score)
+            document.getElementById('score-place').innerHTML = `<span class="score" id="score">WYNIK ${score}</span>`
         }
 }
 export default{startApp, changeButton}

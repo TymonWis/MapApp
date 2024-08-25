@@ -11,6 +11,7 @@
     --badge-bg: ;
     --badge-color: ;
     --map-bg: #faedcd;
+    --spots-bg: #fefae0;
     --map-outline: #d4a373;
     --btn-new: #191102;
 }
@@ -21,7 +22,7 @@ html, body {
     
 }
 .container {
-    max-width: 1625px;
+    width: 1625px;
     margin: auto;
     background: var(--container-color);
     border: 8px solid var(--container-color);
@@ -175,18 +176,29 @@ p {
 .check {
     position:absolute;
     background: rgb(252 3 3 / 30%);
-    padding: 20px;
+    padding: 0 5px;
     border-radius: 50%;
 }
 .check-item {
     display:inline-block;
     vertical-align:middle;
-    background: rgb(249 8 0 / 50%);
+/* background: rgb(249 8 0 / 50%); */
 /*     width: 50px;
     height: 50px; */
-    padding: 0 5px;
     border-radius: 50%;
     overflow: hidden; 
     text-align: center;
     color: rgba(0, 0, 0, 1);
+}
+.score-place {
+    background: var(--spots-bg);
+    margin-top: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+.score{
+    margin: 5px;
+    font-size: 2rem;
+    font-weight: 600;
+    margin: auto;
 }
