@@ -16,24 +16,6 @@ async function showMapSpots(){
         }
     }
 async function getMapSpotsFromJson(){
-    /* fetch("./src/wykazy/KL1FIZ.json")
-    .then(response => response.json())
-    .then(data => {
-        let mapObjectList = data
-        console.log("data: ", mapObjectList)
-        document.getElementById('spots-container').innerHTML = ''
-        document.querySelectorAll('.drag-number').forEach(e => e.remove());            
-        for(let i =0; i<= 14; i++){
-                const li = document.createElement('div')
-                li.classList.add('list-item')
-                const markup = `<span id="DN${i}"class="drag-number" draggable="true">${i+1   }</span><span>${mapObjectList[Math.floor(Math.random() * (mapObjectList.length-1))].DisplayName}</span>`
-                li.innerHTML = markup
-                li.addEventListener('dragstart', (e) => {
-                    DragAndDrop.drag(e)
-                })
-                document.getElementById('spots-container').appendChild(li)
-        } 
-    }) */
     try{
         const response = await fetch('./src/wykazy/KL1FIZ.json')
         if(!response.ok){

@@ -1,4 +1,4 @@
-var time = 10
+var time = 240
 function changeTime(e){
     time = e.target.value*60
     console.log('e target', e.target)
@@ -36,7 +36,7 @@ function startTimer(endFunction){
 function getTimeFromTimer(time){
     time = document.getElementById('timer').value
     if(time === undefined || time <= 0){
-        time = 10
+        time = 240
     }
     console.log('time: ', time)
     return time
