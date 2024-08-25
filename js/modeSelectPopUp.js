@@ -5,16 +5,33 @@ function getPopUp(){
             <div style="text-align: center">
             <span class="startTitle">WYBIERZ TRYB</span>
             </div>
-            <div id="button-container">
-                <div class="flex-col">
-                    <span style="margin: 0 auto">KLASA 1</span>
-                    <span style="margin: 0 auto">MAPA POLITYCZNA</span>
+            <div id="button-container" class="button-container flex-col">
+                <div class="selected">
+                    <span>KLASA 1</span>
+                    <span>MAPA FIZYCZNA</span>
                 </div>
-            <div>
+                <div>
+                    <span>KLASA 2</span>
+                    <span>MAPA FIZYCZNA</span>
+                </div>
+                <div>
+                    <span>KLASA 2</span>
+                    <span>MAPA POLITYCZNA</span>
+                </div>
+                <div>
+                    <span>KLASA 3</span>
+                    <span>MAPA FIZYCZNA</span>
+                </div>
+                <div>
+                    <span>KLASA 3</span>
+                    <span>MAPA POLITYCZNA</span>
+                </div>
+            </div>
         </div>       
     </div>`
 }
 function showPopUp(){
     document.getElementById('pop-up-place').innerHTML = getPopUp()
+  //  document.querySelector('button-container')
 }
 export default{showPopUp}
