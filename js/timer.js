@@ -56,5 +56,6 @@ function removeTimeInput(){
     document.getElementById('minutes').removeEventListener('change', (changeTime))
     document.getElementById('minutes').style.background = 'red'
     document.getElementById('minutes').style.color = 'white'
+    if(document.getElementById('minutes').value){document.getElementById('minutes').value=''}
 }
 export default{changeTime, displayTime, minMaxtime, startTimer, time, createTimeInput, removeTimeInput}
