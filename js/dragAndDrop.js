@@ -10,6 +10,17 @@ const DragAndDrop = {
     ev.preventDefault();
     console.log("pgX", ev.pageX)
     console.log("pgY", ev.pageY)
+    
+    const markup = document.createElement('span')
+    markup.classList.add('after-drag-number')
+    markup.innerHTML = document.getElementById(ev.dataTransfer.getData("text")).innerHTML 
+    console.log('markup: ', markup)
+    //console.log(markup, document.getElementById(ev.dataTransfer.getData("text")).innerHTML, `DT${parseFloat(document.getElementById(ev.dataTransfer.getData("text")).innerHTML)-1}`, document.getElementById(`DT${parseFloat(document.getElementById(ev.dataTransfer.getData("text")).innerHTML)-1}`).parentNode)
+    //if(document.getElementById(`DT${parseFloat(document.getElementById(ev.dataTransfer.getData("text")).innerHTML)-1}`).parentNode.childElementCount == 2){}
+    console.log('aa:',document.getElementById(`DT${parseFloat(document.getElementById(ev.dataTransfer.getData("text")).innerHTML)-1}`).parentNode.firstChild)
+    if(!document.getElementById(`DT${parseFloat(document.getElementById(ev.dataTransfer.getData("text")).innerHTML)-1}`).parentNode.firstChild.classList.contains('after-drag-number')){
+    document.getElementById(`DT${parseFloat(document.getElementById(ev.dataTransfer.getData("text")).innerHTML)-1}`).parentNode.insertBefore(markup, document.getElementById(`DT${parseFloat(document.getElementById(ev.dataTransfer.getData("text")).innerHTML)-1}`).parentNode.firstChild)
+    }
     let newDiv = document.getElementById(ev.dataTransfer.getData("text"))
     newDiv.addEventListener('dragstart', (e) => {
         DragAndDrop.drag(e)
