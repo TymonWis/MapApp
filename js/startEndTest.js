@@ -87,6 +87,7 @@ async function finalCheck(){
                     {
                     score++
                     document.getElementById(`check${i}`).parentNode.style.background = 'rgba(18, 224, 11, 0.3)'
+                    document.getElementById(`DT${i}`).parentNode.style.background = 'rgba(18, 224, 11, 0.1)'
                     }
                 
                 else
@@ -95,9 +96,11 @@ async function finalCheck(){
                         {
                             score += 0.5
                             document.getElementById(`check${i}`).parentNode.style.background = 'rgb(205 212 29 / 30%)'
+                            document.getElementById(`DT${i}`).parentNode.style.background = 'rgb(242 252 0 / 30%)'
                         }
                         else{
-                    console.log(i, 'miss')
+                            console.log(i, 'miss')
+                            document.getElementById(`DT${i}`).parentNode.style.background = 'rgb(252 3 3 / 30%)'
                             }
                     }
                 }
