@@ -1,62 +1,23 @@
 [
-    {
-    "DisplayName": "obj1", 
-    "WikiName": "The_Bahamas", 
-    "Latitude": "25.00", 
-    "Longitude": "-77.40" 
-     },
-    {
-    "DisplayName": "obj2", 
-    "WikiName": "Barbados", 
-    "Latitude": "13.17", 
-    "Longitude": "-59.55" 
-     },
-    {
-    "DisplayName": "ob3", 
-    "WikiName": "Belize", 
-    "Latitude": "17.07", 
-    "Longitude": "-88.70" 
-     },
-    {
-    "DisplayName": "Santo Domingo", 
-    "WikiName": "Santo_Domingo", 
-    "Latitude": "18.47", 
-    "Longitude": "-69.95" 
-     },
-    {
-    "DisplayName": "Grenada", 
-    "WikiName": "Grenada", 
-    "Latitude": "12.12", 
-    "Longitude": "-61.67" 
-     },
-    {
-    "DisplayName": "Gwatemala", 
-    "WikiName": "Guatemala", 
-    "Latitude": "15.50", 
-    "Longitude": "-90.25" 
-     },
-    {
-    "DisplayName": "Port-au-Prince", 
-    "WikiName": "Port-au-Prince", 
-    "Latitude": "18.53", 
-    "Longitude": "-72.33" 
-     },
-    {
-    "DisplayName": "Honduras", 
-    "WikiName": "Honduras", 
-    "Latitude": "15.00", 
-    "Longitude": "-86.50" 
-     },
-    {
-    "DisplayName": "Kingston", 
-    "WikiName": "Jamaica", 
-    "Latitude": "18.18", 
-    "Longitude": "-77.40" 
-     },
-    {
-    "DisplayName": "Ottawa", 
-    "WikiName": "Ottawa", 
-    "Latitude": "45.42", 
-    "Longitude": "-75.70" 
-     }
+    { "DisplayName": "Aleksandrów Kujawski", "Latitude": "52.88", "Longitude": "18.70"},
+    { "DisplayName": "Aleksandrów Łódzki", "Latitude": "51.82", "Longitude": "19.29"},
+    { "DisplayName": "Andrychów", "Latitude": "49.86", "Longitude": "19.33"},
+    { "DisplayName": "Augustów", "Latitude": "53.83", "Longitude": "23.00"},
+    { "DisplayName": "Barlinek", "Latitude": "52.99", "Longitude": "15.19"},
+    { "DisplayName": "Bartoszyce", "Latitude": "54.24", "Longitude": "20.80"},
+    { "DisplayName": "Będzin", "Latitude": "50.34", "Longitude": "19.12"},
+    { "DisplayName": "Bełchatów", "Latitude": "51.36", "Longitude": "19.36"},
+    { "DisplayName": "Biała Podlaska", "Latitude": "52.03", "Longitude": "23.11"},
+    { "DisplayName": "Białogard", "Latitude": "54.00", "Longitude": "15.97"},
+    { "DisplayName": "Białystok", "Latitude": "53.13", "Longitude": "23.15"},
+    { "DisplayName": "Bielawa", "Latitude": "50.68", "Longitude": "16.61"},
+    { "DisplayName": "Bielsk Podlaski", "Latitude": "52.78", "Longitude": "23.29"},
+    { "DisplayName": "Bielsko-Biała", "Latitude": "49.81", "Longitude": "19.04"},
+    { "DisplayName": "Bieruń", "Latitude": "50.10", "Longitude": "19.10"},
+    { "DisplayName": "Biłgoraj", "Latitude": "50.53", "Longitude": "22.72"},
+    { "DisplayName": "Biskupiec", "Latitude": "53.87", "Longitude": "20.95"},
+    { "DisplayName": "Blachownia", "Latitude": "50.79", "Longitude": "18.95"},
+    { "DisplayName": "Błonie", "Latitude": "52.19", "Longitude": "20.62"},
+    { "DisplayName": "Bochnia", "Latitude": "49.97", "Longitude": "20.42"},
+    { "DisplayName": "Bogatynia", "Latitude": "50.91", "Longitude": "14.96"}
 ]
