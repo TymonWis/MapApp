@@ -6,6 +6,7 @@ import mollweide from './mollweide.js'
 import getMapSpots from './getMapSpots.js'
 import modeSelectPopUp from './modeSelectPopUp.js'
 import maps from './maps.js'
+import cordsTranslate from './cordsTranslate.js'
 function startApp(){
         if(modeSelectPopUp.getMode() == 'KL3POL' || modeSelectPopUp.getMode() == 'KL3FIZ'){
             maps.getPL()
@@ -71,9 +72,14 @@ async function finalCheck(){
         var score = 0
         console.log('data in finalcheck: ', data)
         for(let i=0; i <=14; i++){
-            var cords = mollweide.mollweide(data[data.findIndex(x => x.DisplayName === document.getElementById(`DT${i}`).innerHTML)].Latitude, data[data.findIndex(x => x.DisplayName === document.getElementById(`DT${i}`).innerHTML)].Longitude)
-            //console.log(i+1, 'style right: ', cords.x)
-            //console.log(i, 'style top: ', cords.y)
+            cordsTranslate.translate(data[data.findIndex(x => x.DisplayName === document.getElementById(`DT${i}`).innerHTML)].Latitude, data[data.findIndex(x => x.DisplayName === document.getElementById(`DT${i}`).innerHTML)].Longitude)
+            //console.log(data[data.findIndex(x => x.DisplayName === document.getElementById(`DT${i}`).innerText)].Longitude, data[data.findIndex(x => x.DisplayName === document.getElementById(`DT${i}`).innerText)].Latitude))
+            if(modeSelectPopUp.getMode() == 'KL3POL' || modeSelectPopUp.getMode() == 'KL3FIZ'){
+            var cords = cordsTranslate.translate(data[data.findIndex(x => x.DisplayName === document.getElementById(`DT${i}`).innerHTML)].Latitude, data[data.findIndex(x => x.DisplayName === document.getElementById(`DT${i}`).innerHTML)].Longitude)
+            }
+            else{var cords = mollweide.mollweide(data[data.findIndex(x => x.DisplayName === document.getElementById(`DT${i}`).innerHTML)].Latitude, data[data.findIndex(x => x.DisplayName === document.getElementById(`DT${i}`).innerHTML)].Longitude)}
+            console.log(i+1, 'style right: ', cords.x)
+            console.log(i+1, 'style top: ', cords.y)
             const check = document.createElement('div')
             check.classList.add('check')
             const markup = `<span id="check${i}" class="check-item">${i+1}</span>`
