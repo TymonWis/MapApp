@@ -5,7 +5,14 @@ import guide from './guide.js'
 import mollweide from './mollweide.js'
 import getMapSpots from './getMapSpots.js'
 import modeSelectPopUp from './modeSelectPopUp.js'
+import maps from './maps.js'
 function startApp(){
+        if(modeSelectPopUp.getMode() == 'KL3POL' || modeSelectPopUp.getMode() == 'KL3FIZ'){
+            maps.getPL()
+        }
+        else{
+            maps.getWM()
+        }
         document.getElementById('spots-container').innerHTML = ''
         document.querySelectorAll('.drag-number').forEach(e => e.remove());
         document.querySelectorAll('.check').forEach(e => e.remove());

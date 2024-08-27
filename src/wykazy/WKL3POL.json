@@ -1,0 +1,62 @@
+[
+    {
+    "DisplayName": "obj1", 
+    "WikiName": "The_Bahamas", 
+    "Latitude": "25.00", 
+    "Longitude": "-77.40" 
+     },
+    {
+    "DisplayName": "obj2", 
+    "WikiName": "Barbados", 
+    "Latitude": "13.17", 
+    "Longitude": "-59.55" 
+     },
+    {
+    "DisplayName": "ob3", 
+    "WikiName": "Belize", 
+    "Latitude": "17.07", 
+    "Longitude": "-88.70" 
+     },
+    {
+    "DisplayName": "Santo Domingo", 
+    "WikiName": "Santo_Domingo", 
+    "Latitude": "18.47", 
+    "Longitude": "-69.95" 
+     },
+    {
+    "DisplayName": "Grenada", 
+    "WikiName": "Grenada", 
+    "Latitude": "12.12", 
+    "Longitude": "-61.67" 
+     },
+    {
+    "DisplayName": "Gwatemala", 
+    "WikiName": "Guatemala", 
+    "Latitude": "15.50", 
+    "Longitude": "-90.25" 
+     },
+    {
+    "DisplayName": "Port-au-Prince", 
+    "WikiName": "Port-au-Prince", 
+    "Latitude": "18.53", 
+    "Longitude": "-72.33" 
+     },
+    {
+    "DisplayName": "Honduras", 
+    "WikiName": "Honduras", 
+    "Latitude": "15.00", 
+    "Longitude": "-86.50" 
+     },
+    {
+    "DisplayName": "Kingston", 
+    "WikiName": "Jamaica", 
+    "Latitude": "18.18", 
+    "Longitude": "-77.40" 
+     },
+    {
+    "DisplayName": "Ottawa", 
+    "WikiName": "Ottawa", 
+    "Latitude": "45.42", 
+    "Longitude": "-75.70" 
+     }
+]

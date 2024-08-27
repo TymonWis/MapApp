@@ -19,19 +19,19 @@ function getPopUp(){
                     <span>KLASA 2</span>
                     <span>MAPA POLITYCZNA</span>
                 </div>
-                
+                <div id="KL3FIZ">
+                    <span>KLASA 3</span>
+                    <span>MAPA FIZYCZNA</span>
+                </div>
+                <div id="KL3POL">
+                    <span>KLASA 3</span>
+                    <span>MAPA POLITYCZNA</span>
+                </div>
             </div>
         </div>       
     </div>`
 }
-/* <div id="KL3FIZ">
-    <span>KLASA 3</span>
-    <span>MAPA FIZYCZNA</span>
-</div>
-<div id="KL3POL">
-    <span>KLASA 3</span>
-    <span>MAPA POLITYCZNA</span>
-</div> */
+
 function getMode(){
     /* console.log('mode: ', mode)
     if(mode == 2){return 'KL2FIZ'}
