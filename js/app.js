@@ -1,11 +1,11 @@
-import map from './map.js'
+import maps from './maps.js'
 import getMapSpots from "./getMapSpots.js"
 import startScreen from './startAppScreen.js'
 import timer from './timer.js'
 import startApp from './startEndTest.js'
 import startEndTest from './startEndTest.js'
 import modeSelectPopUp from './modeSelectPopUp.js'
-document.getElementById('map-container').innerHTML += map.getMap()
+document.getElementById('map-container').innerHTML += maps.getWM()
 startScreen.showModal()
 startApp.changeButton()
 document.getElementById('mid-container').innerHTML += `<input type="number" id="minutes" class="timeSelect" placeholder="czas[m]">`
