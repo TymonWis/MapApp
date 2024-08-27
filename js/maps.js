@@ -3114,10 +3114,10 @@ const maps = {
      style="fill:#faedcd;fill-opacity:1;stroke:#000000" />
 </svg>`,
    getPL(){
-      return this.PolandMap
+      document.getElementById('map-place').innerHTML = this.PolandMap
    },
    getWM(){
-      return this.worldMap
+      document.getElementById('map-place').innerHTML = this.worldMap
    },
 }
 export default maps
