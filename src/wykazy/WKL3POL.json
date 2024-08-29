@@ -1,23 +1,1838 @@
 [
-    { "DisplayName": "Aleksandrów Kujawski", "Latitude": "52.88", "Longitude": "18.70"},
-    { "DisplayName": "Aleksandrów Łódzki", "Latitude": "51.82", "Longitude": "19.29"},
-    { "DisplayName": "Andrychów", "Latitude": "49.86", "Longitude": "19.33"},
-    { "DisplayName": "Augustów", "Latitude": "53.83", "Longitude": "23.00"},
-    { "DisplayName": "Barlinek", "Latitude": "52.99", "Longitude": "15.19"},
-    { "DisplayName": "Bartoszyce", "Latitude": "54.24", "Longitude": "20.80"},
-    { "DisplayName": "Będzin", "Latitude": "50.34", "Longitude": "19.12"},
-    { "DisplayName": "Bełchatów", "Latitude": "51.36", "Longitude": "19.36"},
-    { "DisplayName": "Biała Podlaska", "Latitude": "52.03", "Longitude": "23.11"},
-    { "DisplayName": "Białogard", "Latitude": "54.00", "Longitude": "15.97"},
-    { "DisplayName": "Białystok", "Latitude": "53.13", "Longitude": "23.15"},
-    { "DisplayName": "Bielawa", "Latitude": "50.68", "Longitude": "16.61"},
-    { "DisplayName": "Bielsk Podlaski", "Latitude": "52.78", "Longitude": "23.29"},
-    { "DisplayName": "Bielsko-Biała", "Latitude": "49.81", "Longitude": "19.04"},
-    { "DisplayName": "Bieruń", "Latitude": "50.10", "Longitude": "19.10"},
-    { "DisplayName": "Biłgoraj", "Latitude": "50.53", "Longitude": "22.72"},
-    { "DisplayName": "Biskupiec", "Latitude": "53.87", "Longitude": "20.95"},
-    { "DisplayName": "Blachownia", "Latitude": "50.79", "Longitude": "18.95"},
-    { "DisplayName": "Błonie", "Latitude": "52.19", "Longitude": "20.62"},
-    { "DisplayName": "Bochnia", "Latitude": "49.97", "Longitude": "20.42"},
-    { "DisplayName": "Bogatynia", "Latitude": "50.91", "Longitude": "14.96"}
+    {
+    "DisplayName": "Świnoujście", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Świnoujście", 
+    "Latitude": "53.91", 
+    "Longitude": "14.25" 
+     },
+    {
+    "DisplayName": "Międzyzdroje", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Międzyzdroje", 
+    "Latitude": "53.93", 
+    "Longitude": "14.45" 
+     },
+    {
+    "DisplayName": "Kamień Pomorski", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Kamień_Pomorski", 
+    "Latitude": "53.97", 
+    "Longitude": "14.78" 
+     },
+    {
+    "DisplayName": "Police", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Police", 
+    "Latitude": "53.55", 
+    "Longitude": "14.57" 
+     },
+    {
+    "DisplayName": "Goleniów", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Goleniów", 
+    "Latitude": "53.57", 
+    "Longitude": "14.83" 
+     },
+    {
+    "DisplayName": "Gryfino", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Gryfino", 
+    "Latitude": "53.25", 
+    "Longitude": "14.49" 
+     },
+    {
+    "DisplayName": "Kostrzyn nad Odrą", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Kostrzyn_nad_Odrą", 
+    "Latitude": "52.59", 
+    "Longitude": "14.67" 
+     },
+    {
+    "DisplayName": "Pyrzyce", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Pyrzyce", 
+    "Latitude": "53.14", 
+    "Longitude": "14.89" 
+     },
+    {
+    "DisplayName": "Stargard", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Stargard", 
+    "Latitude": "53.34", 
+    "Longitude": "15.04" 
+     },
+    {
+    "DisplayName": "Choszczno", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Choszczno", 
+    "Latitude": "53.17", 
+    "Longitude": "15.42" 
+     },
+    {
+    "DisplayName": "Wałcz", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Wałcz", 
+    "Latitude": "53.28", 
+    "Longitude": "16.46" 
+     },
+    {
+    "DisplayName": "Drawsko Pomorskie", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Drawsko_Pomorskie", 
+    "Latitude": "53.53", 
+    "Longitude": "15.81" 
+     },
+    {
+    "DisplayName": "Złocieniec", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Złocieniec", 
+    "Latitude": "53.53", 
+    "Longitude": "16.01" 
+     },
+    {
+    "DisplayName": "Łobez", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Łobez", 
+    "Latitude": "53.64", 
+    "Longitude": "15.62" 
+     },
+    {
+    "DisplayName": "Gryfice", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Gryfice", 
+    "Latitude": "53.92", 
+    "Longitude": "15.20" 
+     },
+    {
+    "DisplayName": "Kołobrzeg", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Kołobrzeg", 
+    "Latitude": "54.18", 
+    "Longitude": "15.58" 
+     },
+    {
+    "DisplayName": "Koszalin", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Koszalin", 
+    "Latitude": "54.19", 
+    "Longitude": "16.18" 
+     },
+    {
+    "DisplayName": "Świdwin", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Świdwin", 
+    "Latitude": "53.77", 
+    "Longitude": "15.78" 
+     },
+    {
+    "DisplayName": "Białogard", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Białogard", 
+    "Latitude": "54.00", 
+    "Longitude": "15.99" 
+     },
+    {
+    "DisplayName": "Mielno", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Mielno", 
+    "Latitude": "54.26", 
+    "Longitude": "16.06" 
+     },
+    {
+    "DisplayName": "Sławno", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Sławno", 
+    "Latitude": "54.36", 
+    "Longitude": "16.68" 
+     },
+    {
+    "DisplayName": "Darłowo", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Darłowo", 
+    "Latitude": "54.42", 
+    "Longitude": "16.41" 
+     },
+    {
+    "DisplayName": "Szczecinek", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Szczecinek", 
+    "Latitude": "53.72", 
+    "Longitude": "16.69" 
+     },
+    {
+    "DisplayName": "Stupsk", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Stupsk", 
+    "Latitude": "53.02", 
+    "Longitude": "20.44" 
+     },
+    {
+    "DisplayName": "Ustka", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Ustka", 
+    "Latitude": "54.58", 
+    "Longitude": "16.87" 
+     },
+    {
+    "DisplayName": "Łeba", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Łeba", 
+    "Latitude": "54.76", 
+    "Longitude": "17.56" 
+     },
+    {
+    "DisplayName": "Lębork", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Lębork", 
+    "Latitude": "54.54", 
+    "Longitude": "17.75" 
+     },
+    {
+    "DisplayName": "Wejherowo", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Wejherowo", 
+    "Latitude": "54.60", 
+    "Longitude": "18.25" 
+     },
+    {
+    "DisplayName": "Gdynia", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Gdynia", 
+    "Latitude": "54.52", 
+    "Longitude": "18.54" 
+     },
+    {
+    "DisplayName": "Puck", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Puck", 
+    "Latitude": "54.72", 
+    "Longitude": "18.41" 
+     },
+    {
+    "DisplayName": "Władysławowo", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Władysławowo", 
+    "Latitude": "54.78", 
+    "Longitude": "18.40" 
+     },
+    {
+    "DisplayName": "Sopot", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Sopot", 
+    "Latitude": "54.44", 
+    "Longitude": "18.56" 
+     },
+    {
+    "DisplayName": "Gdańsk", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Gdańsk", 
+    "Latitude": "54.35", 
+    "Longitude": "18.65" 
+     },
+    {
+    "DisplayName": "Kartuzy", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Kartuzy", 
+    "Latitude": "54.34", 
+    "Longitude": "18.20" 
+     },
+    {
+    "DisplayName": "Kościerzyna", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Kościerzyna", 
+    "Latitude": "54.12", 
+    "Longitude": "17.98" 
+     },
+    {
+    "DisplayName": "Reda", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Reda_(miasto)", 
+    "Latitude": "54.61", 
+    "Longitude": "18.35" 
+     },
+    {
+    "DisplayName": "Rumia", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Rumia", 
+    "Latitude": "54.57", 
+    "Longitude": "18.39" 
+     },
+    {
+    "DisplayName": "Bytów", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Bytów", 
+    "Latitude": "54.17", 
+    "Longitude": "17.49" 
+     },
+    {
+    "DisplayName": "Miastko", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Miastko", 
+    "Latitude": "54.00", 
+    "Longitude": "16.98" 
+     },
+    {
+    "DisplayName": "Chojnice", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Chojnice", 
+    "Latitude": "53.69", 
+    "Longitude": "17.56" 
+     },
+    {
+    "DisplayName": "Człuchów", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Człuchów", 
+    "Latitude": "53.66", 
+    "Longitude": "17.36" 
+     },
+    {
+    "DisplayName": "Tczew", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Tczew", 
+    "Latitude": "54.08", 
+    "Longitude": "18.77" 
+     },
+    {
+    "DisplayName": "Malbork", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Malbork", 
+    "Latitude": "54.03", 
+    "Longitude": "19.03" 
+     },
+    {
+    "DisplayName": "Kwidzyń", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Kwidzyn", 
+    "Latitude": "53.74", 
+    "Longitude": "18.93" 
+     },
+    {
+    "DisplayName": "Starogard Gdański", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Starogard_Gdański", 
+    "Latitude": "53.96", 
+    "Longitude": "18.53" 
+     },
+    {
+    "DisplayName": "Radom", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Radom", 
+    "Latitude": "51.40", 
+    "Longitude": "21.16" 
+     },
+    {
+    "DisplayName": "Warka", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Warka", 
+    "Latitude": "51.78", 
+    "Longitude": "21.19" 
+     },
+    {
+    "DisplayName": "Szydłowiec", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Szydłowiec", 
+    "Latitude": "51.22", 
+    "Longitude": "20.86" 
+     },
+    {
+    "DisplayName": "Brodnica", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Brodnica", 
+    "Latitude": "53.26", 
+    "Longitude": "19.40" 
+     },
+    {
+    "DisplayName": "Rypin", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Rypin", 
+    "Latitude": "53.07", 
+    "Longitude": "19.41" 
+     },
+    {
+    "DisplayName": "Lipno", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Lipno", 
+    "Latitude": "52.85", 
+    "Longitude": "19.18" 
+     },
+    {
+    "DisplayName": "Włocławek", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Włocławek", 
+    "Latitude": "52.66", 
+    "Longitude": "19.07" 
+     },
+    {
+    "DisplayName": "Ciechocinek", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Ciechocinek", 
+    "Latitude": "52.88", 
+    "Longitude": "18.78" 
+     },
+    {
+    "DisplayName": "Aleksandrów Kujawski", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Aleksandrów_Kujawski", 
+    "Latitude": "52.88", 
+    "Longitude": "18.69" 
+     },
+    {
+    "DisplayName": "Toruń", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Toruń", 
+    "Latitude": "53.02", 
+    "Longitude": "18.61" 
+     },
+    {
+    "DisplayName": "Radziejów", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Radziejów", 
+    "Latitude": "52.62", 
+    "Longitude": "18.52" 
+     },
+    {
+    "DisplayName": "Inowrocław", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Inowrocław", 
+    "Latitude": "52.80", 
+    "Longitude": "18.26" 
+     },
+    {
+    "DisplayName": "Mogilno", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Mogilno", 
+    "Latitude": "52.66", 
+    "Longitude": "17.95" 
+     },
+    {
+    "DisplayName": "Żnin", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Żnin", 
+    "Latitude": "52.83", 
+    "Longitude": "17.72" 
+     },
+    {
+    "DisplayName": "Szubin", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Szubin", 
+    "Latitude": "53.01", 
+    "Longitude": "17.74" 
+     },
+    {
+    "DisplayName": "Nakło nad Notecią", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Nakło_nad_Notecią", 
+    "Latitude": "53.14", 
+    "Longitude": "17.60" 
+     },
+    {
+    "DisplayName": "Bydgoszcz", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Bydgoszcz", 
+    "Latitude": "53.12", 
+    "Longitude": "18.01" 
+     },
+    {
+    "DisplayName": "Golub-Dobrzyń", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Golub-Dobrzyń", 
+    "Latitude": "53.11", 
+    "Longitude": "19.05" 
+     },
+    {
+    "DisplayName": "Chełmno", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Chełmno", 
+    "Latitude": "53.35", 
+    "Longitude": "18.42" 
+     },
+    {
+    "DisplayName": "Świecie", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Świecie", 
+    "Latitude": "53.41", 
+    "Longitude": "18.45" 
+     },
+    {
+    "DisplayName": "Wąbrzeźno", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Wąbrzeźno", 
+    "Latitude": "53.28", 
+    "Longitude": "18.95" 
+     },
+    {
+    "DisplayName": "Grudziądz", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Grudziądz", 
+    "Latitude": "53.49", 
+    "Longitude": "18.76" 
+     },
+    {
+    "DisplayName": "Tuchola", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Tuchola", 
+    "Latitude": "53.58", 
+    "Longitude": "17.85" 
+     },
+    {
+    "DisplayName": "Sępólno Krajeńskie", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Sępólno_Krajeńskie", 
+    "Latitude": "53.45", 
+    "Longitude": "17.53" 
+     },
+    {
+    "DisplayName": "Złotów", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Złotów", 
+    "Latitude": "53.36", 
+    "Longitude": "17.04" 
+     },
+    {
+    "DisplayName": "Piła", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Piła", 
+    "Latitude": "53.15", 
+    "Longitude": "16.73" 
+     },
+    {
+    "DisplayName": "Wyrzysk", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Wyrzysk", 
+    "Latitude": "53.15", 
+    "Longitude": "17.27" 
+     },
+    {
+    "DisplayName": "Chodzież", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Chodzież", 
+    "Latitude": "52.99", 
+    "Longitude": "16.91" 
+     },
+    {
+    "DisplayName": "Czarnków", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Czarnków", 
+    "Latitude": "52.90", 
+    "Longitude": "16.56" 
+     },
+    {
+    "DisplayName": "Wągrowiec", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Wągrowiec", 
+    "Latitude": "52.81", 
+    "Longitude": "17.21" 
+     },
+    {
+    "DisplayName": "Gniezno", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Gniezno", 
+    "Latitude": "52.54", 
+    "Longitude": "17.60" 
+     },
+    {
+    "DisplayName": "Oborniki", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Oborniki", 
+    "Latitude": "52.64", 
+    "Longitude": "16.81" 
+     },
+    {
+    "DisplayName": "Poznań", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Poznań", 
+    "Latitude": "52.41", 
+    "Longitude": "16.93" 
+     },
+    {
+    "DisplayName": "Międzychód", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Międzychód", 
+    "Latitude": "52.60", 
+    "Longitude": "15.89" 
+     },
+    {
+    "DisplayName": "Grodzisk Wielkopolski", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Grodzisk_Wielkopolski", 
+    "Latitude": "52.23", 
+    "Longitude": "16.37" 
+     },
+    {
+    "DisplayName": "Wolsztyn", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Wolsztyn", 
+    "Latitude": "52.11", 
+    "Longitude": "16.12" 
+     },
+    {
+    "DisplayName": "Kościan", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Kościan", 
+    "Latitude": "52.08", 
+    "Longitude": "16.64" 
+     },
+    {
+    "DisplayName": "Leszno", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Leszno", 
+    "Latitude": "51.85", 
+    "Longitude": "16.58" 
+     },
+    {
+    "DisplayName": "Września", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Września", 
+    "Latitude": "52.32", 
+    "Longitude": "17.55" 
+     },
+    {
+    "DisplayName": "Konin", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Konin", 
+    "Latitude": "52.23", 
+    "Longitude": "18.26" 
+     },
+    {
+    "DisplayName": "Koło", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Koło", 
+    "Latitude": "52.20", 
+    "Longitude": "18.65" 
+     },
+    {
+    "DisplayName": "Turek", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Turek", 
+    "Latitude": "52.01", 
+    "Longitude": "18.49" 
+     },
+    {
+    "DisplayName": "Kalisz", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Kalisz", 
+    "Latitude": "51.76", 
+    "Longitude": "18.09" 
+     },
+    {
+    "DisplayName": "Jarocin", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Jarocin", 
+    "Latitude": "51.97", 
+    "Longitude": "17.50" 
+     },
+    {
+    "DisplayName": "Środa Wielkopolska", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Środa_Wielkopolska", 
+    "Latitude": "52.23", 
+    "Longitude": "17.27" 
+     },
+    {
+    "DisplayName": "Rawicz", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Rawicz", 
+    "Latitude": "51.61", 
+    "Longitude": "16.86" 
+     },
+    {
+    "DisplayName": "Krotoszyn", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Krotoszyn", 
+    "Latitude": "51.70", 
+    "Longitude": "17.44" 
+     },
+    {
+    "DisplayName": "Pleszew", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Pleszew", 
+    "Latitude": "51.90", 
+    "Longitude": "17.79" 
+     },
+    {
+    "DisplayName": "Ostrów Wielkopolski", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Ostrów_Wielkopolski", 
+    "Latitude": "51.65", 
+    "Longitude": "17.81" 
+     },
+    {
+    "DisplayName": "Ostrzeszów", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Ostrzeszów", 
+    "Latitude": "51.42", 
+    "Longitude": "17.93" 
+     },
+    {
+    "DisplayName": "Biłgoraj", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Biłgoraj", 
+    "Latitude": "50.54", 
+    "Longitude": "22.72" 
+     },
+    {
+    "DisplayName": "Kraśnik", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Kraśnik", 
+    "Latitude": "50.92", 
+    "Longitude": "22.22" 
+     },
+    {
+    "DisplayName": "Głogów", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Głogów", 
+    "Latitude": "51.66", 
+    "Longitude": "16.08" 
+     },
+    {
+    "DisplayName": "Milicz", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Milicz", 
+    "Latitude": "51.53", 
+    "Longitude": "17.27" 
+     },
+    {
+    "DisplayName": "Oleśnica", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Oleśnica", 
+    "Latitude": "51.21", 
+    "Longitude": "17.38" 
+     },
+    {
+    "DisplayName": "Trzebnica", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Trzebnica", 
+    "Latitude": "51.30", 
+    "Longitude": "17.06" 
+     },
+    {
+    "DisplayName": "Wrocław", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Wrocław", 
+    "Latitude": "51.11", 
+    "Longitude": "17.02" 
+     },
+    {
+    "DisplayName": "Lubin", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Lubin", 
+    "Latitude": "51.40", 
+    "Longitude": "16.21" 
+     },
+    {
+    "DisplayName": "Polkowice", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Polkowice", 
+    "Latitude": "51.50", 
+    "Longitude": "16.07" 
+     },
+    {
+    "DisplayName": "Legnica", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Legnica", 
+    "Latitude": "51.21", 
+    "Longitude": "16.16" 
+     },
+    {
+    "DisplayName": "Bolesławiec", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Bolesławiec", 
+    "Latitude": "51.26", 
+    "Longitude": "15.56" 
+     },
+    {
+    "DisplayName": "Zgorzelec", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Zgorzelec", 
+    "Latitude": "51.15", 
+    "Longitude": "15.01" 
+     },
+    {
+    "DisplayName": "Lwówek Śląski", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Lwówek_Śląski", 
+    "Latitude": "51.11", 
+    "Longitude": "15.58" 
+     },
+    {
+    "DisplayName": "Jelenia Góra", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Jelenia_Góra", 
+    "Latitude": "50.90", 
+    "Longitude": "15.74" 
+     },
+    {
+    "DisplayName": "Świeradów-Zdrój", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Świeradów-Zdrój", 
+    "Latitude": "50.91", 
+    "Longitude": "15.33" 
+     },
+    {
+    "DisplayName": "Szklarska Poręba", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Szklarska_Poręba", 
+    "Latitude": "50.83", 
+    "Longitude": "15.52" 
+     },
+    {
+    "DisplayName": "Karpacz", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Karpacz", 
+    "Latitude": "50.78", 
+    "Longitude": "15.76" 
+     },
+    {
+    "DisplayName": "Kowary", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Kowary", 
+    "Latitude": "50.79", 
+    "Longitude": "15.83" 
+     },
+    {
+    "DisplayName": "Kamienna Góra", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Kamienna_Góra", 
+    "Latitude": "50.78", 
+    "Longitude": "16.04" 
+     },
+    {
+    "DisplayName": "Wałbrzych", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Wałbrzych", 
+    "Latitude": "50.77", 
+    "Longitude": "16.27" 
+     },
+    {
+    "DisplayName": "Jawor", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Jawor", 
+    "Latitude": "51.05", 
+    "Longitude": "16.20" 
+     },
+    {
+    "DisplayName": "Strzelin", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Strzelin", 
+    "Latitude": "50.78", 
+    "Longitude": "17.06" 
+     },
+    {
+    "DisplayName": "Strzegom", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Strzegom", 
+    "Latitude": "50.96", 
+    "Longitude": "16.34" 
+     },
+    {
+    "DisplayName": "Świdnica", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Świdnica", 
+    "Latitude": "50.84", 
+    "Longitude": "16.49" 
+     },
+    {
+    "DisplayName": "Dzierżoniów", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Dzierżoniów", 
+    "Latitude": "50.73", 
+    "Longitude": "16.65" 
+     },
+    {
+    "DisplayName": "Kłodzko", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Kłodzko", 
+    "Latitude": "50.44", 
+    "Longitude": "16.65" 
+     },
+    {
+    "DisplayName": "Polanica-Zdrój", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Polanica-Zdrój", 
+    "Latitude": "50.41", 
+    "Longitude": "16.51" 
+     },
+    {
+    "DisplayName": "Duszniki-Zdrój", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Duszniki-Zdrój", 
+    "Latitude": "50.40", 
+    "Longitude": "16.39" 
+     },
+    {
+    "DisplayName": "Kudowa-Zdrój", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Kudowa-Zdrój", 
+    "Latitude": "50.44", 
+    "Longitude": "16.24" 
+     },
+    {
+    "DisplayName": "Lądek-Zdrój", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Lądek-Zdrój", 
+    "Latitude": "50.34", 
+    "Longitude": "16.88" 
+     },
+    {
+    "DisplayName": "Namysłów", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Namysłów", 
+    "Latitude": "51.07", 
+    "Longitude": "17.71" 
+     },
+    {
+    "DisplayName": "Kluczbork", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Kluczbork", 
+    "Latitude": "50.97", 
+    "Longitude": "18.21" 
+     },
+    {
+    "DisplayName": "Brzeg", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Brzeg", 
+    "Latitude": "50.86", 
+    "Longitude": "17.47" 
+     },
+    {
+    "DisplayName": "Opole", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Opole", 
+    "Latitude": "50.66", 
+    "Longitude": "17.93" 
+     },
+    {
+    "DisplayName": "Strzelce Opolskie", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Strzelce_Opolskie", 
+    "Latitude": "50.51", 
+    "Longitude": "18.30" 
+     },
+    {
+    "DisplayName": "Prudnik", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Prudnik", 
+    "Latitude": "50.32", 
+    "Longitude": "17.58" 
+     },
+    {
+    "DisplayName": "Głubczyce", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Głubczyce", 
+    "Latitude": "50.20", 
+    "Longitude": "17.83" 
+     },
+    {
+    "DisplayName": "Kędzierzyn-Koźle", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Kędzierzyn-Koźle", 
+    "Latitude": "50.34", 
+    "Longitude": "18.21" 
+     },
+    {
+    "DisplayName": "Częstochowa", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Częstochowa", 
+    "Latitude": "50.82", 
+    "Longitude": "19.14" 
+     },
+    {
+    "DisplayName": "Lubliniec", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Lubliniec", 
+    "Latitude": "50.67", 
+    "Longitude": "18.68" 
+     },
+    {
+    "DisplayName": "Myszków", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Myszków", 
+    "Latitude": "50.58", 
+    "Longitude": "19.33" 
+     },
+    {
+    "DisplayName": "Zawiercie", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Zawiercie", 
+    "Latitude": "50.49", 
+    "Longitude": "19.42" 
+     },
+    {
+    "DisplayName": "Dąbrowa Górnicza", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Dąbrowa_Górnicza", 
+    "Latitude": "50.32", 
+    "Longitude": "19.19" 
+     },
+    {
+    "DisplayName": "Tarnowskie Góry", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Tarnowskie_Góry", 
+    "Latitude": "50.44", 
+    "Longitude": "18.86" 
+     },
+    {
+    "DisplayName": "Będzin", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Będzin", 
+    "Latitude": "50.32", 
+    "Longitude": "19.13" 
+     },
+    {
+    "DisplayName": "Bytom", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Bytom", 
+    "Latitude": "50.35", 
+    "Longitude": "18.92" 
+     },
+    {
+    "DisplayName": "Chorzów", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Chorzów", 
+    "Latitude": "50.30", 
+    "Longitude": "18.95" 
+     },
+    {
+    "DisplayName": "Gliwice", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Gliwice", 
+    "Latitude": "50.29", 
+    "Longitude": "18.67" 
+     },
+    {
+    "DisplayName": "Zabrze", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Zabrze", 
+    "Latitude": "50.30", 
+    "Longitude": "18.78" 
+     },
+    {
+    "DisplayName": "Elbląg", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Elbląg", 
+    "Latitude": "54.16", 
+    "Longitude": "19.40" 
+     },
+    {
+    "DisplayName": "Frombork", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Frombork", 
+    "Latitude": "54.36", 
+    "Longitude": "19.68" 
+     },
+    {
+    "DisplayName": "Braniewo", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Braniewo", 
+    "Latitude": "54.38", 
+    "Longitude": "19.82" 
+     },
+    {
+    "DisplayName": "Iława", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Iława", 
+    "Latitude": "53.60", 
+    "Longitude": "19.57" 
+     },
+    {
+    "DisplayName": "Ostróda", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Ostróda", 
+    "Latitude": "53.69", 
+    "Longitude": "19.97" 
+     },
+    {
+    "DisplayName": "Nowe Miasto Lubawskie", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Nowe_Miasto_Lubawskie", 
+    "Latitude": "53.43", 
+    "Longitude": "19.59" 
+     },
+    {
+    "DisplayName": "Nidzica", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Nidzica", 
+    "Latitude": "53.36", 
+    "Longitude": "20.43" 
+     },
+    {
+    "DisplayName": "Olsztyn", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Olsztyn", 
+    "Latitude": "53.77", 
+    "Longitude": "20.48" 
+     },
+    {
+    "DisplayName": "Szczytno", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Szczytno", 
+    "Latitude": "53.56", 
+    "Longitude": "20.99" 
+     },
+    {
+    "DisplayName": "Działdowo", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Działdowo", 
+    "Latitude": "53.24", 
+    "Longitude": "20.18" 
+     },
+    {
+    "DisplayName": "Lidzbark Warmiński", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Lidzbark_Warmiński", 
+    "Latitude": "54.12", 
+    "Longitude": "20.57" 
+     },
+    {
+    "DisplayName": "Mrągowo", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Mrągowo", 
+    "Latitude": "53.87", 
+    "Longitude": "21.30" 
+     },
+    {
+    "DisplayName": "Mikołajki", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Mikołajki", 
+    "Latitude": "53.80", 
+    "Longitude": "21.57" 
+     },
+    {
+    "DisplayName": "Pisz", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Pisz", 
+    "Latitude": "53.63", 
+    "Longitude": "21.81" 
+     },
+    {
+    "DisplayName": "Orzysz", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Orzysz", 
+    "Latitude": "53.80", 
+    "Longitude": "21.93" 
+     },
+    {
+    "DisplayName": "Ełk", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Ełk", 
+    "Latitude": "53.82", 
+    "Longitude": "22.36" 
+     },
+    {
+    "DisplayName": "Giżycko", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Giżycko", 
+    "Latitude": "54.04", 
+    "Longitude": "21.76" 
+     },
+    {
+    "DisplayName": "Węgorzewo", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Węgorzewo", 
+    "Latitude": "54.21", 
+    "Longitude": "21.74" 
+     },
+    {
+    "DisplayName": "Olecko", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Olecko", 
+    "Latitude": "54.04", 
+    "Longitude": "22.50" 
+     },
+    {
+    "DisplayName": "Suwałki", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Suwałki", 
+    "Latitude": "54.10", 
+    "Longitude": "22.93" 
+     },
+    {
+    "DisplayName": "Gołdap", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Gołdap", 
+    "Latitude": "54.32", 
+    "Longitude": "22.31" 
+     },
+    {
+    "DisplayName": "Sejny", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Sejny", 
+    "Latitude": "54.11", 
+    "Longitude": "23.35" 
+     },
+    {
+    "DisplayName": "Augustów", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Augustów", 
+    "Latitude": "53.84", 
+    "Longitude": "22.98" 
+     },
+    {
+    "DisplayName": "Grajewo", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Grajewo", 
+    "Latitude": "53.65", 
+    "Longitude": "22.45" 
+     },
+    {
+    "DisplayName": "Sokółka", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Sokółka", 
+    "Latitude": "53.41", 
+    "Longitude": "23.50" 
+     },
+    {
+    "DisplayName": "Łomża", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Łomża", 
+    "Latitude": "53.18", 
+    "Longitude": "22.07" 
+     },
+    {
+    "DisplayName": "Białystok", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Białystok", 
+    "Latitude": "53.14", 
+    "Longitude": "23.15" 
+     },
+    {
+    "DisplayName": "Bielsk Podlaski", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Bielsk_Podlaski", 
+    "Latitude": "52.77", 
+    "Longitude": "23.19" 
+     },
+    {
+    "DisplayName": "Hajnówka", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Hajnówka", 
+    "Latitude": "52.74", 
+    "Longitude": "23.58" 
+     },
+    {
+    "DisplayName": "Zambrów", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Zambrów", 
+    "Latitude": "52.99", 
+    "Longitude": "22.24" 
+     },
+    {
+    "DisplayName": "Ostrołęka", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Ostrołęka", 
+    "Latitude": "53.08", 
+    "Longitude": "21.57" 
+     },
+    {
+    "DisplayName": "Ostrów Mazowiecka", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Ostrów_Mazowiecka", 
+    "Latitude": "52.80", 
+    "Longitude": "21.90" 
+     },
+    {
+    "DisplayName": "Mława", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Mława", 
+    "Latitude": "53.13", 
+    "Longitude": "20.36" 
+     },
+    {
+    "DisplayName": "Przasnysz", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Przasnysz", 
+    "Latitude": "53.02", 
+    "Longitude": "20.88" 
+     },
+    {
+    "DisplayName": "Sierpc", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Sierpc", 
+    "Latitude": "52.85", 
+    "Longitude": "19.67" 
+     },
+    {
+    "DisplayName": "Ciechanów", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Ciechanów", 
+    "Latitude": "52.88", 
+    "Longitude": "20.61" 
+     },
+    {
+    "DisplayName": "Płońsk", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Płońsk", 
+    "Latitude": "52.62", 
+    "Longitude": "20.37" 
+     },
+    {
+    "DisplayName": "Pułtusk", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Pułtusk", 
+    "Latitude": "52.71", 
+    "Longitude": "21.08" 
+     },
+    {
+    "DisplayName": "Wyszków", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Wyszków", 
+    "Latitude": "52.59", 
+    "Longitude": "21.46" 
+     },
+    {
+    "DisplayName": "Płock", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Płock", 
+    "Latitude": "52.55", 
+    "Longitude": "19.70" 
+     },
+    {
+    "DisplayName": "Nowy Dwór Mazowiecki", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Nowy_Dwór_Mazowiecki", 
+    "Latitude": "52.43", 
+    "Longitude": "20.72" 
+     },
+    {
+    "DisplayName": "Legionowo", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Legionowo", 
+    "Latitude": "52.41", 
+    "Longitude": "20.93" 
+     },
+    {
+    "DisplayName": "Wołomin", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Wołomin", 
+    "Latitude": "52.35", 
+    "Longitude": "21.24" 
+     },
+    {
+    "DisplayName": "Sokołów Podlaski", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Sokołów_Podlaski", 
+    "Latitude": "52.41", 
+    "Longitude": "22.25" 
+     },
+    {
+    "DisplayName": "Siedlce", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Siedlce", 
+    "Latitude": "52.17", 
+    "Longitude": "22.27" 
+     },
+    {
+    "DisplayName": "Mińsk Mazowiecki", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Mińsk_Mazowiecki", 
+    "Latitude": "52.18", 
+    "Longitude": "21.56" 
+     },
+    {
+    "DisplayName": "Garwolin", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Garwolin", 
+    "Latitude": "51.90", 
+    "Longitude": "21.62" 
+     },
+    {
+    "DisplayName": "Otwock", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Otwock", 
+    "Latitude": "52.11", 
+    "Longitude": "21.27" 
+     },
+    {
+    "DisplayName": "Kępno", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Kępno", 
+    "Latitude": "51.28", 
+    "Longitude": "17.99" 
+     },
+    {
+    "DisplayName": "Gorzów Wielkopolski", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Gorzów_Wielkopolski", 
+    "Latitude": "52.73", 
+    "Longitude": "15.24" 
+     },
+    {
+    "DisplayName": "Międzyrzecz", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Międzyrzecz", 
+    "Latitude": "52.45", 
+    "Longitude": "15.59" 
+     },
+    {
+    "DisplayName": "Słubice", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Słubice", 
+    "Latitude": "52.35", 
+    "Longitude": "14.57" 
+     },
+    {
+    "DisplayName": "Gubin", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Gubin", 
+    "Latitude": "51.93", 
+    "Longitude": "14.72" 
+     },
+    {
+    "DisplayName": "Krosno Odrzańskie", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Krosno_Odrzańskie", 
+    "Latitude": "52.05", 
+    "Longitude": "15.11" 
+     },
+    {
+    "DisplayName": "Świebodzin", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Świebodzin", 
+    "Latitude": "52.25", 
+    "Longitude": "15.53" 
+     },
+    {
+    "DisplayName": "Zielona Góra", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Zielona_Góra", 
+    "Latitude": "51.94", 
+    "Longitude": "15.51" 
+     },
+    {
+    "DisplayName": "Żary", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Żary", 
+    "Latitude": "51.64", 
+    "Longitude": "15.14" 
+     },
+    {
+    "DisplayName": "Żagań(Zagań)", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Żagań", 
+    "Latitude": "51.62", 
+    "Longitude": "15.31" 
+     },
+    {
+    "DisplayName": "Nowa Sól", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Nowa_Sól", 
+    "Latitude": "51.81", 
+    "Longitude": "15.72" 
+     },
+    {
+    "DisplayName": "Kutno", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Kutno", 
+    "Latitude": "52.22", 
+    "Longitude": "19.35" 
+     },
+    {
+    "DisplayName": "Łęczyca", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Łęczyca", 
+    "Latitude": "52.06", 
+    "Longitude": "19.20" 
+     },
+    {
+    "DisplayName": "Łowicz", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Łowicz", 
+    "Latitude": "52.11", 
+    "Longitude": "19.95" 
+     },
+    {
+    "DisplayName": "Zgierz", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Zgierz", 
+    "Latitude": "51.86", 
+    "Longitude": "19.41" 
+     },
+    {
+    "DisplayName": "Skierniewice", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Skierniewice", 
+    "Latitude": "51.95", 
+    "Longitude": "20.14" 
+     },
+    {
+    "DisplayName": "Łódź", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Łódź", 
+    "Latitude": "51.78", 
+    "Longitude": "19.45" 
+     },
+    {
+    "DisplayName": "Pabianice", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Pabianice", 
+    "Latitude": "51.66", 
+    "Longitude": "19.36" 
+     },
+    {
+    "DisplayName": "Zduńska Wola", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Zduńska_Wola", 
+    "Latitude": "51.61", 
+    "Longitude": "18.94" 
+     },
+    {
+    "DisplayName": "Sieradz", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Sieradz", 
+    "Latitude": "51.60", 
+    "Longitude": "18.73" 
+     },
+    {
+    "DisplayName": "Łask", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Łask", 
+    "Latitude": "51.59", 
+    "Longitude": "19.13" 
+     },
+    {
+    "DisplayName": "Wieluń", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Wieluń", 
+    "Latitude": "51.22", 
+    "Longitude": "18.57" 
+     },
+    {
+    "DisplayName": "Bełchatów", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Bełchatów", 
+    "Latitude": "51.36", 
+    "Longitude": "19.36" 
+     },
+    {
+    "DisplayName": "Piotrków Trybunalski", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Piotrków_Trybunalski", 
+    "Latitude": "51.41", 
+    "Longitude": "19.70" 
+     },
+    {
+    "DisplayName": "Sulejów", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Sulejów", 
+    "Latitude": "51.35", 
+    "Longitude": "19.88" 
+     },
+    {
+    "DisplayName": "Opoczno", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Opoczno", 
+    "Latitude": "51.38", 
+    "Longitude": "20.29" 
+     },
+    {
+    "DisplayName": "Radomsko", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Radomsko", 
+    "Latitude": "51.07", 
+    "Longitude": "19.44" 
+     },
+    {
+    "DisplayName": "Końskie", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Końskie", 
+    "Latitude": "51.19", 
+    "Longitude": "20.41" 
+     },
+    {
+    "DisplayName": "Skarżysko-Kamienna", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Skarżysko-Kamienna", 
+    "Latitude": "51.12", 
+    "Longitude": "20.87" 
+     },
+    {
+    "DisplayName": "Starachowice", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Starachowice", 
+    "Latitude": "51.04", 
+    "Longitude": "21.07" 
+     },
+    {
+    "DisplayName": "Ostrowiec Świętokrzyski", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Ostrowiec_Świętokrzyski", 
+    "Latitude": "50.93", 
+    "Longitude": "21.39" 
+     },
+    {
+    "DisplayName": "Kielce", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Kielce", 
+    "Latitude": "50.87", 
+    "Longitude": "20.63" 
+     },
+    {
+    "DisplayName": "Włoszczowa", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Włoszczowa", 
+    "Latitude": "50.85", 
+    "Longitude": "19.97" 
+     },
+    {
+    "DisplayName": "Jędrzejów", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Jędrzejów", 
+    "Latitude": "50.64", 
+    "Longitude": "20.30" 
+     },
+    {
+    "DisplayName": "Busko-Zdrój", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Busko-Zdrój", 
+    "Latitude": "50.47", 
+    "Longitude": "20.72" 
+     },
+    {
+    "DisplayName": "Opatów", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Opatów", 
+    "Latitude": "50.80", 
+    "Longitude": "21.42" 
+     },
+    {
+    "DisplayName": "Sandomierz", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Sandomierz", 
+    "Latitude": "50.68", 
+    "Longitude": "21.75" 
+     },
+    {
+    "DisplayName": "Łuków", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Łuków", 
+    "Latitude": "51.93", 
+    "Longitude": "22.38" 
+     },
+    {
+    "DisplayName": "Biała Podlaska", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Biała_Podlaska", 
+    "Latitude": "52.03", 
+    "Longitude": "23.12" 
+     },
+    {
+    "DisplayName": "Terespol", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Terespol", 
+    "Latitude": "52.07", 
+    "Longitude": "23.61" 
+     },
+    {
+    "DisplayName": "Radzyń Podlaski", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Radzyń_Podlaski", 
+    "Latitude": "51.78", 
+    "Longitude": "22.62" 
+     },
+    {
+    "DisplayName": "Włodawa", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Włodawa", 
+    "Latitude": "51.54", 
+    "Longitude": "23.55" 
+     },
+    {
+    "DisplayName": "Lubartów", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Lubartów", 
+    "Latitude": "51.46", 
+    "Longitude": "22.61" 
+     },
+    {
+    "DisplayName": "Puławy", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Puławy", 
+    "Latitude": "51.42", 
+    "Longitude": "21.97" 
+     },
+    {
+    "DisplayName": "Lublin", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Lublin", 
+    "Latitude": "51.25", 
+    "Longitude": "22.57" 
+     },
+    {
+    "DisplayName": "Łęczna", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Łęczna", 
+    "Latitude": "51.30", 
+    "Longitude": "22.88" 
+     },
+    {
+    "DisplayName": "Chełm", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Chełm", 
+    "Latitude": "51.13", 
+    "Longitude": "23.48" 
+     },
+    {
+    "DisplayName": "Hrubieszów", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Hrubieszów", 
+    "Latitude": "50.80", 
+    "Longitude": "23.89" 
+     },
+    {
+    "DisplayName": "Zamość", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Zamość", 
+    "Latitude": "50.72", 
+    "Longitude": "23.26" 
+     },
+    {
+    "DisplayName": "Świdnik", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Świdnik", 
+    "Latitude": "51.22", 
+    "Longitude": "22.70" 
+     },
+    {
+    "DisplayName": "Krasnystaw", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Krasnystaw", 
+    "Latitude": "50.98", 
+    "Longitude": "23.17" 
+     },
+    {
+    "DisplayName": "Ruda Śląska", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Ruda_Śląska", 
+    "Latitude": "50.26", 
+    "Longitude": "18.85" 
+     },
+    {
+    "DisplayName": "Katowice", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Katowice", 
+    "Latitude": "50.26", 
+    "Longitude": "19.02" 
+     },
+    {
+    "DisplayName": "Sosnowiec", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Sosnowiec", 
+    "Latitude": "50.28", 
+    "Longitude": "19.13" 
+     },
+    {
+    "DisplayName": "Mysłowice", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Mysłowice", 
+    "Latitude": "50.24", 
+    "Longitude": "19.14" 
+     },
+    {
+    "DisplayName": "Tychy", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Tychy", 
+    "Latitude": "50.12", 
+    "Longitude": "18.99" 
+     },
+    {
+    "DisplayName": "Rybnik", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Rybnik", 
+    "Latitude": "50.10", 
+    "Longitude": "18.55" 
+     },
+    {
+    "DisplayName": "Racibórz", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Racibórz", 
+    "Latitude": "50.09", 
+    "Longitude": "18.22" 
+     },
+    {
+    "DisplayName": "Jastrzębie-Zdrój", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Jastrzębie-Zdrój", 
+    "Latitude": "49.95", 
+    "Longitude": "18.58" 
+     },
+    {
+    "DisplayName": "Cieszyn", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Cieszyn", 
+    "Latitude": "49.75", 
+    "Longitude": "18.63" 
+     },
+    {
+    "DisplayName": "Żywiec", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Żywiec", 
+    "Latitude": "49.69", 
+    "Longitude": "19.21" 
+     },
+    {
+    "DisplayName": "Bielsko-Biała", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Bielsko-Biała", 
+    "Latitude": "49.82", 
+    "Longitude": "19.04" 
+     },
+    {
+    "DisplayName": "Szczyrk", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Szczyrk", 
+    "Latitude": "49.72", 
+    "Longitude": "19.03" 
+     },
+    {
+    "DisplayName": "Wisła", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Wisła", 
+    "Latitude": "49.61", 
+    "Longitude": "19.00" 
+     },
+    {
+    "DisplayName": "Pszczyna", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Pszczyna", 
+    "Latitude": "49.98", 
+    "Longitude": "18.94" 
+     },
+    {
+    "DisplayName": "Żory", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Żory", 
+    "Latitude": "50.05", 
+    "Longitude": "18.69" 
+     },
+    {
+    "DisplayName": "Tarnów", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Tarnów", 
+    "Latitude": "50.01", 
+    "Longitude": "20.99" 
+     },
+    {
+    "DisplayName": "Gorlice", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Gorlice", 
+    "Latitude": "49.65", 
+    "Longitude": "21.16" 
+     },
+    {
+    "DisplayName": "Krynica-Zdrój", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Krynica-Zdrój", 
+    "Latitude": "49.41", 
+    "Longitude": "20.95" 
+     },
+    {
+    "DisplayName": "Muszyna", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Muszyna", 
+    "Latitude": "49.36", 
+    "Longitude": "20.90" 
+     },
+    {
+    "DisplayName": "Nowy Sącz", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Nowy_Sącz", 
+    "Latitude": "49.62", 
+    "Longitude": "20.70" 
+     },
+    {
+    "DisplayName": "Bochnia", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Bochnia", 
+    "Latitude": "49.97", 
+    "Longitude": "20.43" 
+     },
+    {
+    "DisplayName": "Wieliczka", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Wieliczka", 
+    "Latitude": "49.99", 
+    "Longitude": "20.06" 
+     },
+    {
+    "DisplayName": "Kraków", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Kraków", 
+    "Latitude": "50.06", 
+    "Longitude": "19.94" 
+     },
+    {
+    "DisplayName": "Proszowice", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Proszowice", 
+    "Latitude": "50.18", 
+    "Longitude": "20.28" 
+     },
+    {
+    "DisplayName": "Olkusz", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Olkusz", 
+    "Latitude": "50.28", 
+    "Longitude": "19.56" 
+     },
+    {
+    "DisplayName": "Jaworzno", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Jaworzno", 
+    "Latitude": "50.20", 
+    "Longitude": "19.27" 
+     },
+    {
+    "DisplayName": "Trzebinia", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Trzebinia", 
+    "Latitude": "50.16", 
+    "Longitude": "19.47" 
+     },
+    {
+    "DisplayName": "Oświęcim", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Oświęcim", 
+    "Latitude": "50.04", 
+    "Longitude": "19.22" 
+     },
+    {
+    "DisplayName": "Chrzanów", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Chrzanów", 
+    "Latitude": "50.14", 
+    "Longitude": "19.40" 
+     },
+    {
+    "DisplayName": "Wadowice", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Wadowice", 
+    "Latitude": "49.88", 
+    "Longitude": "19.49" 
+     },
+    {
+    "DisplayName": "Zakopane", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Zakopane", 
+    "Latitude": "49.30", 
+    "Longitude": "19.95" 
+     },
+    {
+    "DisplayName": "Nowy Targ", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Nowy_Targ", 
+    "Latitude": "49.48", 
+    "Longitude": "20.03" 
+     },
+    {
+    "DisplayName": "Myślenice", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Myślenice", 
+    "Latitude": "49.83", 
+    "Longitude": "19.94" 
+     },
+    {
+    "DisplayName": "Limanowa", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Limanowa", 
+    "Latitude": "49.70", 
+    "Longitude": "20.43" 
+     },
+    {
+    "DisplayName": "Rabka-Zdrój", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Rabka-Zdrój", 
+    "Latitude": "49.61", 
+    "Longitude": "19.97" 
+     },
+    {
+    "DisplayName": "Stalowa Wola", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Stalowa_Wola", 
+    "Latitude": "50.58", 
+    "Longitude": "22.06" 
+     },
+    {
+    "DisplayName": "Tarnobrzeg", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Tarnobrzeg", 
+    "Latitude": "50.57", 
+    "Longitude": "21.68" 
+     },
+    {
+    "DisplayName": "Mielec", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Mielec", 
+    "Latitude": "50.29", 
+    "Longitude": "21.43" 
+     },
+    {
+    "DisplayName": "Lubaczów", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Lubaczów", 
+    "Latitude": "50.16", 
+    "Longitude": "23.12" 
+     },
+    {
+    "DisplayName": "Jarosław", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Jarosław_(województwo_podkarpackie)", 
+    "Latitude": "50.02", 
+    "Longitude": "22.68" 
+     },
+    {
+    "DisplayName": "Przeworsk", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Przeworsk", 
+    "Latitude": "50.06", 
+    "Longitude": "22.49" 
+     },
+    {
+    "DisplayName": "Przemyśl", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Przemyśl", 
+    "Latitude": "49.78", 
+    "Longitude": "22.77" 
+     },
+    {
+    "DisplayName": "Łańcut", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Łańcut", 
+    "Latitude": "50.07", 
+    "Longitude": "22.23" 
+     },
+    {
+    "DisplayName": "Rzeszów", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Rzeszów", 
+    "Latitude": "50.03", 
+    "Longitude": "22.00" 
+     },
+    {
+    "DisplayName": "Kolbuszowa", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Kolbuszowa", 
+    "Latitude": "50.24", 
+    "Longitude": "21.77" 
+     },
+    {
+    "DisplayName": "Dębica", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Dębica", 
+    "Latitude": "50.05", 
+    "Longitude": "21.41" 
+     },
+    {
+    "DisplayName": "Jasło", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Jasło", 
+    "Latitude": "49.75", 
+    "Longitude": "21.47" 
+     },
+    {
+    "DisplayName": "Krosno", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Krosno", 
+    "Latitude": "49.68", 
+    "Longitude": "21.77" 
+     },
+    {
+    "DisplayName": "Strzyżów", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Strzyżów", 
+    "Latitude": "49.87", 
+    "Longitude": "21.79" 
+     },
+    {
+    "DisplayName": "Sanok", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Sanok", 
+    "Latitude": "49.56", 
+    "Longitude": "22.21" 
+     },
+    {
+    "DisplayName": "Ustrzyki Dolne", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Ustrzyki_Dolne", 
+    "Latitude": "49.43", 
+    "Longitude": "22.59" 
+     },
+    {
+    "DisplayName": "Sochaczew", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Sochaczew", 
+    "Latitude": "52.23", 
+    "Longitude": "20.24" 
+     },
+    {
+    "DisplayName": "Pruszków", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Pruszków", 
+    "Latitude": "52.17", 
+    "Longitude": "20.81" 
+     },
+    {
+    "DisplayName": "Błonie", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Błonie", 
+    "Latitude": "52.20", 
+    "Longitude": "20.62" 
+     },
+    {
+    "DisplayName": "Grodzisk Mazowiecki", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Grodzisk_Mazowiecki", 
+    "Latitude": "52.11", 
+    "Longitude": "20.63" 
+     },
+    {
+    "DisplayName": "Żyrardów", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Żyrardów", 
+    "Latitude": "52.05", 
+    "Longitude": "20.44" 
+     },
+    {
+    "DisplayName": "Piaseczno", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Piaseczno", 
+    "Latitude": "52.08", 
+    "Longitude": "21.03" 
+     },
+    {
+    "DisplayName": "Grójec", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Grójec", 
+    "Latitude": "51.87", 
+    "Longitude": "20.87" 
+     },
+    {
+    "DisplayName": "Kozienice", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Kozienice", 
+    "Latitude": "51.59", 
+    "Longitude": "21.55" 
+     },
+    {
+    "DisplayName": "Jastarnia", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Jastarnia", 
+    "Latitude": "54.70", 
+    "Longitude": "18.68" 
+     },
+    {
+    "DisplayName": "Tomaszów Lubelski", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Tomaszów_Lubelski", 
+    "Latitude": "50.45", 
+    "Longitude": "23.42" 
+     },
+    {
+    "DisplayName": "Kętrzyn", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Kętrzyn", 
+    "Latitude": "54.08", 
+    "Longitude": "21.38" 
+     },
+    {
+    "DisplayName": "Dęblin", 
+    "WikiName": "https://pl.wikipedia.org/wiki/Dęblin", 
+    "Latitude": "51.57", 
+    "Longitude": "21.86" 
+     }
 ]
