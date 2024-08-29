@@ -193,17 +193,12 @@ html, body {
     color: rgba(0, 0, 0, 1);
 }
 .score-place {
-    background: var(--spots-bg);
-    margin: 10px auto;
-    text-align: center;
     border-radius: 50%;
-    width: fit-content;
+    position: absolute
 }
 .score{
-    margin: 5px;
     font-size: 3rem;
     font-weight: 600;
-    margin: auto;
 }
 .modeSelectPopUp {
     position: fixed;
