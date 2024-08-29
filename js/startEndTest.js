@@ -27,6 +27,7 @@ function startApp(){
         timer.removeTimeInput()
         if(document.getElementById('score')){document.getElementById('score').remove()
             document.getElementById('score-place').style.padding = ''
+            document.getElementById('score-place').style.border = ''
         }
         document.getElementById('map-container').addEventListener('drop', (e)=> {
             DragAndDrop.drop(e)
@@ -121,6 +122,7 @@ async function finalCheck(){
             console.log('score: ', score)
             document.getElementById('score-place').innerHTML = `<span class="score" id="score">${score} / 15</span>`
             document.getElementById('score-place').style.padding = '20px'
+            document.getElementById('score-place').style.border = '1px red solid'
         }
 }
 export default{startApp, changeButton}
