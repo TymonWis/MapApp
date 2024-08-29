@@ -1,9 +1,7 @@
 import maps from './maps.js'
-import getMapSpots from "./getMapSpots.js"
 import startScreen from './startAppScreen.js'
 import timer from './timer.js'
 import startApp from './startEndTest.js'
-import startEndTest from './startEndTest.js'
 import modeSelectPopUp from './modeSelectPopUp.js'
 maps.getWM()
 startScreen.showModal()

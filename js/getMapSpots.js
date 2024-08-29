@@ -1,8 +1,9 @@
 import DragAndDrop from "./dragAndDrop.js";
+
 async function showMapSpots(wykaz){
     const data = await getMapSpotsFromJson(wykaz)
+
     if(data){
-        console.log('data in sms: ', data)
         for(let i =0; i<= 14; i++){
             const li = document.createElement('div')
             li.classList.add('list-item')
@@ -15,6 +16,7 @@ async function showMapSpots(wykaz){
             } 
         }
     }
+
 async function getMapSpotsFromJson(wykaz){
     try{
         const response = await fetch(`./src/wykazy/W${wykaz}.json`)
@@ -22,7 +24,6 @@ async function getMapSpotsFromJson(wykaz){
             throw new error(`network response was not ok`)
         } 
         const data1 = await response.json()
-        console.log('data1: ', data1)
         return data1
         }catch(error){
             console.error('there has been an error with the catch operation', error)
