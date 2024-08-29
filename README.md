@@ -1,1 +1,2 @@
-Aplikacja do nauki mapy wg wykazu VI LO bydgoszcz dostępnego na vilo.bydgoszcz.pl.
+Symulator słynnego sprawdzianu z mapy VI LO w bydgoszczy.  
+Lista obiektów do poszczególnych testów pochodzi z wykazów dostępnych na vilo.bydgoszcz.pl.
