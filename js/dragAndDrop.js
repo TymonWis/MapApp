@@ -1,6 +1,5 @@
 const DragAndDrop = {
     drag(ev) {
-    ev.dataTransfer.setData("text", ev.target.id);
 },
 
     allowDrop(ev) {
@@ -9,7 +8,7 @@ const DragAndDrop = {
 
     drop(ev) {
     ev.preventDefault();
-    
+    console.log('ev: ', ev)
     const markup = document.createElement('span')
     markup.classList.add('after-drag-number')
     markup.innerHTML = document.getElementById(ev.dataTransfer.getData("text")).innerHTML 
@@ -23,8 +22,8 @@ const DragAndDrop = {
         DragAndDrop.drag(e)
     })
     newDiv.style.position = "absolute";
-    newDiv.style.left = ev.pageX-document.getElementById('map-container').getBoundingClientRect().x+'px';
-    newDiv.style.top = ev.pageY-document.getElementById('map-container').getBoundingClientRect().y+'px';
+    newDiv.style.left = ev.pageX-document.getElementById('map-container').getBoundingClientRect().x-window.scrollX+'px';
+    newDiv.style.top = ev.pageY-document.getElementById('map-container').getBoundingClientRect().y-window.scrollY+'px';
     document.getElementById('map-container').appendChild(newDiv);
 },
 

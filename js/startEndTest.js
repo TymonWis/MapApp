@@ -104,7 +104,6 @@ async function finalCheck(){
                 else{
                     if(document.getElementById(`DN${i}`).style.left != ''){
                         document.getElementById(`DT${i}`).parentNode.style.background = 'rgb(252 3 3 / 30%)'
-                        console.log(document.getElementById(`DN${i}`).style.left)
                         }
                     }   
                 }
