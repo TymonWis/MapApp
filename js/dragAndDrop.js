@@ -1,5 +1,6 @@
 const DragAndDrop = {
     drag(ev) {
+    ev.dataTransfer.setData("text", ev.target.id);
 },
 
     allowDrop(ev) {
@@ -8,7 +9,6 @@ const DragAndDrop = {
 
     drop(ev) {
     ev.preventDefault();
-    console.log('ev: ', ev)
     const markup = document.createElement('span')
     markup.classList.add('after-drag-number')
     markup.innerHTML = document.getElementById(ev.dataTransfer.getData("text")).innerHTML 
