@@ -47,10 +47,10 @@ function showPopUp(){
             return
         } else {
             if(e.target.id === ''){
-            mode = e.target.parentNode.id
+                mode = e.target.parentNode.id
             }
             else{
-            mode = e.target.id
+                mode = e.target.id
             }
             document.getElementById('modeSelectPopUp').remove()
         }
