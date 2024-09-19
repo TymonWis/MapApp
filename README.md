@@ -1,4 +1,4 @@
-#SYMULATOR MAPKI VILO
+# SYMULATOR MAPKI VILO
 
 Symulator słynnego sprawdzianu z mapy VI LO w bydgoszczy z osobnym trybem dla każdego przeprowadzanego testu. 
 
