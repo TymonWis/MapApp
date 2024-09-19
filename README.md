@@ -7,4 +7,4 @@ Dostępny na [tymonwisniewski.pl/mapavilo](https://tymonwisniewski.pl/mapavilo/)
 
 Lista obiektów do poszczególnych testów pochodzi z wykazów dostępnych na vilo.bydgoszcz.pl.
 
-Jeżeli ktoś chciałby wersję aplikacji z własnym wykazem do nauki indywidualnej do wiadomości => tymonwis.dev@gmail.com
+Jeżeli ktoś chciałby wersję aplikacji z własnym wykazem do nauki indywidualnej, to kontakt => tymonwis.dev@gmail.com 
