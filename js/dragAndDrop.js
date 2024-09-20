@@ -41,9 +41,7 @@ const DragAndDrop = {
         document.getElementById('map-container').addEventListener('touchstart', DragAndDrop.phoneDrop)
     },
     phoneDrop(ev){
-        const draggedElement = document.getElementsByClassName('phone-drag-element')[0]
-        
-        const newDiv = draggedElement.firstChild
+        const newDiv = document.getElementById(`DN${document.getElementsByClassName('phone-drag-element')[0].firstChild.innerHTML-1}`)
         newDiv.style.position = "absolute";
         newDiv.style.left = ev.touches[0].clientX-document.getElementById('map-container').getBoundingClientRect().x-10+'px';
         newDiv.style.top = ev.touches[0].clientY-document.getElementById('map-container').getBoundingClientRect().y-15+'px';
