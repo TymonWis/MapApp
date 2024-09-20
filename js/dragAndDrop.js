@@ -26,7 +26,18 @@ const DragAndDrop = {
     newDiv.style.top = ev.pageY-document.getElementById('map-container').getBoundingClientRect().y-window.scrollY+'px';
     document.getElementById('map-container').appendChild(newDiv);
 },
-
+    phoneDrag(ev){
+        if(document.getElementsByClassName('phone-drag-element')[0] != undefined){
+        console.log('phoneDrag works')
+        document.getElementsByClassName('phone-drag-element')[0].classList.remove('phone-drag-element')
+    }
+        if(ev.target instanceof HTMLSpanElement){
+            ev.target.parentNode.classList.add('phone-drag-element')
+        }
+        if(ev.target instanceof HTMLDivElement){
+            ev.target.classList.add('phone-drag-element')
+        }
+    },
 }
 
 export default DragAndDrop

@@ -64,6 +64,7 @@ html, body {
     border-radius: 4px;
     padding: 5px 5px 7px 2px;
     max-height: 22px;
+    touch-action: none;
 }
 
 .drag-number{
@@ -73,6 +74,11 @@ html, body {
     margin: 0px 7px 0px 2px;
     padding: 3px 5px 3px 5px;
     cursor: grab;
+    /* touch-action: none; */
+}
+
+.phone-drag-element{
+    background-color: #97e7ff; 
 }
 
 .after-drag-number{
