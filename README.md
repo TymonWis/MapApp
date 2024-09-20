@@ -7,4 +7,4 @@ Symulator słynnego sprawdzianu z mapy VI LO w bydgoszczy z osobnym trybem dla k
 
 Lista obiektów do poszczególnych testów pochodzi z wykazów dostępnych na [vilo.bydgoszcz.pl](https://vilo.bydgoszcz.pl/geografia-wykaz-obiektow-m1,1010.html).
 
-Jeżeli ktoś chciałby wersję aplikacji z własnym wykazem do nauki indywidualnej, to kontakt => tymonwis.dev@gmail.com.
+Jeżeli ktoś chciałby wersję aplikacji z własnym wykazem do nauki indywidualnej, to kontakt pod tymonwis.dev@gmail.com
