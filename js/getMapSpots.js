@@ -13,6 +13,7 @@ async function showMapSpots(wykaz){
                 DragAndDrop.drag(e)
             })
             li.addEventListener('touchstart', (e) => {
+                DragAndDrop.removePhoneDraggedElement()
                 DragAndDrop.phoneDrag(e)
             })
             document.getElementById('spots-container').appendChild(li)

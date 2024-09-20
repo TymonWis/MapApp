@@ -26,11 +26,13 @@ const DragAndDrop = {
     newDiv.style.top = ev.pageY-document.getElementById('map-container').getBoundingClientRect().y-window.scrollY+'px';
     document.getElementById('map-container').appendChild(newDiv);
 },
-    phoneDrag(ev){
+    removePhoneDraggedElement(){
         if(document.getElementsByClassName('phone-drag-element')[0] != undefined){
-        console.log('phoneDrag works')
-        document.getElementsByClassName('phone-drag-element')[0].classList.remove('phone-drag-element')
-    }
+            console.log('phoneDrag works')
+            document.getElementsByClassName('phone-drag-element')[0].classList.remove('phone-drag-element')
+        }
+    },
+    phoneDrag(ev){
         if(ev.target instanceof HTMLSpanElement){
             ev.target.parentNode.classList.add('phone-drag-element')
         }
