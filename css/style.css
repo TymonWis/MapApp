@@ -20,7 +20,7 @@ html, body {
 }
 
 .container {
-    width: 1625px;
+    width: 1600px;
     margin: auto;
     background: var(--container-color);
     padding: 8px;
@@ -31,25 +31,23 @@ html, body {
     font-family: 'Raleway', sans-serif;
     font-weight: 500;
     font-size: 1.5rem;
-    margin-bottom: 10px; 
-    font-size: 1.5rem;
 }
 
 .timeSelect {
-    font-size: 2rem;
     font-size: 1.5rem;
     float: right;
     width:120px; 
+    border-radius: 5px;
 }
 
 .mainTimer {
+    width: 230px;
     background-color: white;
     margin: 10px 3px 3px auto; 
     font-size:4rem; 
     text-align: center;
     border: 5px black solid;
     border-radius: 10px;
-    padding: 3px;
 }  
 
 .spots-container{
@@ -74,11 +72,10 @@ html, body {
     margin: 0px 7px 0px 2px;
     padding: 3px 5px 3px 5px;
     cursor: grab;
-    /* touch-action: none; */
 }
 
 .phone-drag-element{
-    background-color: #97e7ff; 
+    background-color: #ff5360; 
 }
 
 .after-drag-number{
@@ -91,7 +88,7 @@ html, body {
     height:750px; 
     width: 1600px; 
     background-color: #fefae0; 
-    margin: 10px; 
+    margin: 10px 0; 
     border-radius: 20px;
     position: relative;
 }
@@ -141,11 +138,6 @@ html, body {
     text-align: center;
 }
 
-.startScrHeader { 
-    display: flex;
-    padding: 10px 20px;
-}
-
 .startTitle {
     font-size: 2rem;
     font-weight: 600;
@@ -174,7 +166,7 @@ html, body {
 
 .score{
     font-size: 3rem;
-    font-weight: 600;
+    font-weight: 400;
 }
 
 .modeSelectPopUp {
@@ -191,15 +183,14 @@ html, body {
 .modeSelectPopUpContent {
     background: var(--map-outline);
     margin: 5% auto;
-    padding: 20px 20px 10px 20px;
+    padding: 20px;
     border-radius: 20px;
-    /* border: 10px solid var(--textColor); */
-    max-width: 600px;
+    max-width: 400px;
 }
 
 div.button-container div {
     display: inline-flex;
-    flex-direction: column;
+ /* flex-direction: column; */
     width: min-content;
     min-width: 200px;
     margin: 5px auto;
