@@ -28,9 +28,9 @@ const DragAndDrop = {
 },
     removePhoneDraggedElement(){
         if(document.getElementsByClassName('phone-drag-element')[0] != undefined){
-            console.log('phoneDrag works')
-            document.getElementsByClassName('phone-drag-element')[0].classList.remove('phone-drag-element')
-        }
+        console.log('phoneDrag works')
+        document.getElementsByClassName('phone-drag-element')[0].classList.remove('phone-drag-element')
+    }
     },
     phoneDrag(ev){
         if(ev.target instanceof HTMLSpanElement){
@@ -39,7 +39,38 @@ const DragAndDrop = {
         if(ev.target instanceof HTMLDivElement){
             ev.target.classList.add('phone-drag-element')
         }
+        document.getElementById('map-container').addEventListener('touchstart', DragAndDrop.phoneDrop)
     },
+    phoneDrop(ev){
+        console.log('phone dropped', ev)
+        console.log('phone dropped', ev.touches[0].clientX)
+        const draggedElement = document.getElementsByClassName('phone-drag-element')[0]
+        
+
+        const newDiv = draggedElement.firstChild
+        newDiv.addEventListener('touchstart', (e) => {
+            console.log('touched', e.target)
+        })
+        newDiv.style.position = "absolute";
+        newDiv.style.left = ev.touches[0].clientX-document.getElementById('map-container').getBoundingClientRect().x-10+'px';
+        newDiv.style.top = ev.touches[0].clientY-document.getElementById('map-container').getBoundingClientRect().y-15+'px';
+        document.getElementById('map-container').appendChild(newDiv);
+
+        const markup = document.createElement('span')
+                markup.classList.add('after-drag-number')
+                markup.innerHTML = newDiv.innerHTML 
+                
+                if(!document.getElementById(`DT${parseFloat(newDiv.innerHTML)-1}`).parentNode.firstChild.classList.contains('after-drag-number')){
+                document.getElementById(`DT${parseFloat(newDiv.innerHTML)-1}`).parentNode.insertBefore(markup, document.getElementById(`DT${parseFloat(newDiv.innerHTML)-1}`).parentNode.firstChild)
+                console.log('after drag number', markup)
+                }
+
+        console.log('newDiv', newDiv)
+
+        document.getElementById('map-container').removeEventListener('touchstart', DragAndDrop.phoneDrop)
+        DragAndDrop.removePhoneDraggedElement()
+        }
+        
 }
 
 export default DragAndDrop
