@@ -4,10 +4,19 @@ async function showMapSpots(wykaz){
     const data = await getMapSpotsFromJson(wykaz)
 
     if(data){
+        let r 
+        let usedSpots = []
         for(let i =0; i<= 14; i++){
+            while(true){
+                r = Math.floor(Math.random() * (data.length-1))
+                if(usedSpots.indexOf(r) < 0){
+                    break
+                }
+            }
+            usedSpots.push(r)
             const li = document.createElement('div')
             li.classList.add('list-item')
-            const markup = `<span id="DN${i}"class="drag-number" draggable="true">${i+1}</span><span id="DT${i}">${data[Math.floor(Math.random() * (data.length-1))].DisplayName}</span>`
+            const markup = `<span id="DN${i}"class="drag-number" draggable="true">${i+1}</span><span id="DT${i}">${data[r].DisplayName}</span>`
             li.innerHTML = markup
             li.addEventListener('dragstart', (e) => {
                 DragAndDrop.drag(e)
