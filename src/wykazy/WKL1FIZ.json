@@ -62,8 +62,8 @@
     {
     "DisplayName": "Cieśnina Duńska", 
     "WikiName": "Danish_Strait", 
-    "Latitude": "78.03", 
-    "Longitude": "-101.75" 
+    "Latitude": "67.03", 
+    "Longitude": "-24.75" 
     },
     {
     "DisplayName": "Morze Norweskie", 
@@ -1927,9 +1927,9 @@
     },
     {
     "DisplayName": "Wielka Pustynia Piaszczysta", 
-    "WikiName": "Great_Victoria_Desert", 
-    "Latitude": "-29.15", 
-    "Longitude": "129.27" 
+    "WikiName": "Great_Piaszczysty_Desert", 
+    "Latitude": "-20.15", 
+    "Longitude": "125.27" 
     },
     {
     "DisplayName": "Pustynia Wiktorii", 
